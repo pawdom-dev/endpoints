@@ -18,12 +18,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Auto",
-                "topicCategory": "Auto"
+                "topicCategoryId": "auto",
+                "topicCategoryName": "Auto",
+                "topicId": "auto",
+                "topicName": "Auto"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,
@@ -54,12 +58,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Entertainment",
-                "topicCategory": "Entertainment"
+                "topicCategoryId": "entertainment",
+                "topicCategoryName": "Entertainment",
+                "topicId": "entertainment",
+                "topicName": "Entertainment"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,
@@ -90,12 +98,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Weather",
-                "topicCategory": "Weather"
+                "topicCategoryId": "weather",
+                "topicCategoryName": "Weather",
+                "topicId": "weather",
+                "topicName": "Weather"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": true,
@@ -126,12 +138,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Sports",
-                "topicCategory": "Sports"
+                "topicCategoryId": "sports",
+                "topicCategoryName": "Sports",
+                "topicId": "sports",
+                "topicName": "Sports"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,
@@ -162,12 +178,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Sports",
-                "topicCategory": "Sports"
+                "topicCategoryId": "sports",
+                "topicCategoryName": "Sports",
+                "topicId": "sports",
+                "topicName": "Sports"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,

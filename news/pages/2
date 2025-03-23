@@ -18,12 +18,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Politics",
-                "topicCategory": "Politics"
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,
@@ -54,12 +58,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "",
-                "topicCategory": ""
+                "topicCategoryId": "",
+                "topicCategoryName": "",
+                "topicId": "",
+                "topicName": ""
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,
@@ -90,12 +98,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Sports",
-                "topicCategory": "Sports"
+                "topicCategoryId": "sports",
+                "topicCategoryName": "Sports",
+                "topicId": "sports",
+                "topicName": "Sports"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,
@@ -126,12 +138,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Sports",
-                "topicCategory": "Sports"
+                "topicCategoryId": "sports",
+                "topicCategoryName": "Sports",
+                "topicId": "sports",
+                "topicName": "Sports"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,
@@ -162,12 +178,16 @@
             "isHidden": false,
             "topics": [
               {
-                "name": "Politics",
-                "topicCategory": "Politics"
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
               },
               {
-                "name": "Top Story",
-                "topicCategory": "Top Stories"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
               }
             ],
             "isVideo": false,
