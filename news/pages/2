@@ -64,6 +64,12 @@
                 "topicName": ""
               },
               {
+                "topicCategoryId": "business",
+                "topicCategoryName": "Business",
+                "topicId": "business",
+                "topicName": "Business"
+              },
+              {
                 "topicCategoryId": "topStories",
                 "topicCategoryName": "Top Stories",
                 "topicId": "topStory",
@@ -182,6 +188,12 @@
                 "topicCategoryName": "Politics",
                 "topicId": "politics",
                 "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "business",
+                "topicCategoryName": "Business",
+                "topicId": "business",
+                "topicName": "Business"
               },
               {
                 "topicCategoryId": "topStories",

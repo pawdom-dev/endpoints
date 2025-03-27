@@ -19,12 +19,16 @@
       ],
       "topics": [
         {
-          "name": "Tech",
-          "topicCategory": "Tech"
+          "topicId": "tech",
+          "topicName": "Tech",
+          "topicCategoryId": "tech",
+          "topicCategoryName": "Tech"
         },
         {
-          "name": "Top Story",
-          "topicCategory": "Top Stories"
+          "topicCategoryId": "topStories",
+          "topicCategoryName": "Top Stories",
+          "topicId": "topStory",
+          "topicName": "Top Story"
         }
       ],
       "content": [
