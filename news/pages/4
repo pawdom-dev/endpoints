@@ -34,14 +34,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/news/uk-england-norfolk-68521797",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/news/uk-england-norfolk-68521797",
+            "deepLink": "https://www.mydomain.com/16bc603a7a4649b1aff687cefce4453f/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "517bed880a1e4faeaa0aa33135556ea3",
@@ -74,14 +77,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/programmes/m001x040",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/programmes/m001x040",
+            "deepLink": "https://www.mydomain.com/517bed880a1e4faeaa0aa33135556ea3/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "6cdac77c243e4b84983245a3831e09d4",
@@ -114,14 +120,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/news/av/uk-68521122",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/news/av/uk-68521122",
+            "deepLink": "https://www.mydomain.com/6cdac77c243e4b84983245a3831e09d4/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "5adc1c3360f7488482ed9cc1bfe93071",
@@ -154,14 +163,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/sport/football/68455036",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/sport/football/68455036",
+            "deepLink": "https://www.mydomain.com/5adc1c3360f7488482ed9cc1bfe93071/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "62666b0cb44a43b2bcf7ddbc07d3eb1f",
@@ -194,14 +206,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/iplayer/episode/m001xbrv/rugby-league-challenge-cup-2024-fifth-round-swinton-lions-v-sheffield-eagles",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/iplayer/episode/m001xbrv/rugby-league-challenge-cup-2024-fifth-round-swinton-lions-v-sheffield-eagles",
+            "deepLink": "https://www.mydomain.com/62666b0cb44a43b2bcf7ddbc07d3eb1f/0",
+            "nativeContent": [],
+            "contentAuthors": []
           }
         ]
       }

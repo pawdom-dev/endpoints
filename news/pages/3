@@ -34,14 +34,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.cnbc.com/2024/03/09/mcdonalds-portillos-dutch-bros-open-restaurants-in-the-sun-belt.html",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.cnbc.com/2024/03/09/mcdonalds-portillos-dutch-bros-open-restaurants-in-the-sun-belt.html",
+            "deepLink": "https://www.mydomain.com/83b8fcb5aacb426cbd479a95f079f5c1/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "6159dbc5adfc4ef7ba1fc06f6855b739",
@@ -74,14 +77,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/programmes/m001x48c",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/programmes/m001x48c",
+            "deepLink": "https://www.mydomain.com/6159dbc5adfc4ef7ba1fc06f6855b739/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "e6205960fd3646a79581c6f98ab9d9ac",
@@ -114,14 +120,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
+            "deepLink": "https://www.mydomain.com/e6205960fd3646a79581c6f98ab9d9ac/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "252d00627eaa445b942c3f6f747c7a5c",
@@ -154,14 +163,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/sport/cricket/68521385",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/sport/cricket/68521385",
+            "deepLink": "https://www.mydomain.com/252d00627eaa445b942c3f6f747c7a5c/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "83a974a9bac94802977d22a41f8ffcb0",
@@ -194,14 +206,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
+            "deepLink": "https://www.mydomain.com/83a974a9bac94802977d22a41f8ffcb0/0",
+            "nativeContent": [],
+            "contentAuthors": []
           }
         ]
       }

@@ -38,7 +38,7 @@
             "id": "terms",
             "label": "Terms and condistions ",
             "articleDetails": {
-              "articleId": "84ddcdf1997d481ba45e0db170e9ec02test",
+              "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
               "sourceDomain": "cnbc.com",
               "paywall": false,
               "pubDate": "2024-03-10T15:41:48+00:00",
@@ -292,14 +292,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/news/uk-england-london-68529148",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/news/uk-england-london-68529148",
+            "deepLink": "https://www.mydomain.com/0d7aee0e2e2f49d2bd45f4e9bd2c7505/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "c1aa51109c9f45268349932f18a60f7b",
@@ -332,14 +335,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/news/uk-wales-68520802",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/news/uk-wales-68520802",
+            "deepLink": "https://www.mydomain.com/c1aa51109c9f45268349932f18a60f7b/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "104c2a1fcfa6416aaea27578fa2799d6",
@@ -372,14 +378,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
+            "deepLink": "https://www.mydomain.com/104c2a1fcfa6416aaea27578fa2799d6/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
@@ -412,14 +421,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
-            "isDetailsNative": true,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": true,
+            "webContentUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+            "deepLink": "https://www.mydomain.com/84ddcdf1997d481ba45e0db170e9ec02/0",
+            "nativeContent": [],
+            "contentAuthors": []
           },
           {
             "articleId": "a066e70734dc42bc8dca34ccd5787dde",
@@ -452,14 +464,17 @@
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
-            "detailsUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
-            "isDetailsNative": false,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
-            }
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
+            "deepLink": "https://www.mydomain.com/a066e70734dc42bc8dca34ccd5787dde/0",
+            "nativeContent": [],
+            "contentAuthors": []
           }
         ]
       }
