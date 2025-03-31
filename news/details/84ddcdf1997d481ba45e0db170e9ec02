@@ -2,27 +2,23 @@
   "data": {
     "details": {
       "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1920&h=1080",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-03-10T15:41:48+00:00",
+      "title": "Why Walmart's quick success in generative AI search should have Google worried",
+      "description": "Walmart is talking up its ability to layer generative AI into search within its website for more customized shopping. Should Google be worried?",
       "sourceDomain": "cnbc.com",
       "paywall": false,
-      "pubDate": "2024-03-10T15:41:48+00:00",
-      "isNative": true,
-      "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
-      "authors": [
-        {
-          "name": "Francesca Mari",
-          "description": "Francesca Mari is a contributing writer for the magazine. She reported from hospitals in Beirut and Baghdad for this article"
-        },
-        {
-          "name": "Tobias Käufer",
-          "description": "He reported from hospitals"
-        }
-      ],
+      "uploadedDayDate": 20240914,
+      "positionLift": 0,
+      "isHidden": false,
       "topics": [
         {
-          "topicId": "tech",
-          "topicName": "Tech",
           "topicCategoryId": "tech",
-          "topicCategoryName": "Tech"
+          "topicCategoryName": "Tech",
+          "topicId": "tech",
+          "topicName": "Tech"
         },
         {
           "topicCategoryId": "topStories",
@@ -31,7 +27,20 @@
           "topicName": "Top Story"
         }
       ],
-      "content": [
+      "isVideo": false,
+      "isPoliticalLeft": false,
+      "isPoliticalRight": false,
+      "isPoliticalCenter": false,
+      "contentRank": {
+        "isImportant": false,
+        "isHistoric": false,
+        "isCoverUnimportant": false,
+        "isDescriptionImportant": false
+      },
+      "isNative": true,
+      "webContentUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+      "deepLink": "https://www.mydomain.com/84ddcdf1997d481ba45e0db170e9ec02/0",
+      "nativeContent": [
         {
           "type": "header",
           "text": "Why Walmart’s quick success in generative AI search should have Google worried"
@@ -72,6 +81,16 @@
               "text": "app"
             }
           ]
+        }
+      ],
+      "contentAuthors": [
+        {
+          "name": "Francesca Mari",
+          "description": "Francesca Mari is a contributing writer for the magazine. She reported from hospitals in Beirut and Baghdad for this article"
+        },
+        {
+          "name": "Tobias Käufer",
+          "description": "He reported from hospitals"
         }
       ]
     }
