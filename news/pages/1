@@ -23,81 +23,68 @@
             "id": "aboutUs",
             "label": "About us",
             "articleDetails": {
-              "articleId": "a066e70734dc42bc8dca34ccd5787ddetest2",
-              "sourceDomain": "",
+              "articleId": "a066e70734dc42bc8dca34ccd5787dde_SET1",
+              "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16A42/production/_104383729_fire.jpg",
+              "country": "gb",
+              "language": "en",
+              "pubDate": "2024-03-10T15:38:48+00:00",
+              "title": "Bangor flats fire: Person taken to hospital as a precaution",
+              "description": "It is believed the fire was started deliberately and was caused by pouring an accelerant over a door.",
+              "sourceDomain": "bbc.co.uk",
               "paywall": false,
-              "pubDate": "2024-03-10T15:41:48+00:00",
-              "isNative": false,
-              "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
-              "authors": [],
+              "uploadedDayDate": 20240914,
+              "positionLift": 0,
+              "isHidden": false,
               "topics": [],
-              "content": []
+              "isVideo": false,
+              "isPoliticalLeft": false,
+              "isPoliticalRight": false,
+              "isPoliticalCenter": false,
+              "contentRank": {
+                "isImportant": false,
+                "isHistoric": false,
+                "isCoverUnimportant": false,
+                "isDescriptionImportant": false
+              },
+              "isNative": false,
+              "webContentUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
+              "deepLink": "https://www.mydomain.com/a066e70734dc42bc8dca34ccd5787dde/0",
+              "nativeContent": [],
+              "contentAuthors": []
             }
           },
           {
             "id": "terms",
             "label": "Terms and condistions ",
             "articleDetails": {
-              "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
+              "articleId": "84ddcdf1997d481ba45e0db170e9ec02_SET2",
+              "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1920&h=1080",
+              "country": "us",
+              "language": "en",
+              "pubDate": "2024-03-10T15:41:48+00:00",
+              "title": "Why Walmart's quick success in generative AI search should have Google worried",
+              "description": "Walmart is talking up its ability to layer generative AI into search within its website for more customized shopping. Should Google be worried?",
               "sourceDomain": "cnbc.com",
               "paywall": false,
-              "pubDate": "2024-03-10T15:41:48+00:00",
-              "isNative": true,
-              "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
-              "authors": [
-                {
-                  "name": "Francesca Mari",
-                  "description": "Francesca Mari is a contributing writer for the magazine. She reported from hospitals in Beirut and Baghdad for this article"
-                },
-                {
-                  "name": "Tobias Käufer",
-                  "description": "He reported from hospitals"
-                }
-              ],
+              "uploadedDayDate": 20240914,
+              "positionLift": 0,
+              "isHidden": false,
               "topics": [],
-              "content": [
-                {
-                  "type": "header",
-                  "text": "Why Walmart’s quick success in generative AI search should have Google worried"
-                },
-                {
-                  "type": "image",
-                  "url": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1260&h=709&ffmt=webp&vtcrop=y",
-                  "description": "Doug McMillon, chief executive officer of Walmart Inc., left, and Satya Nadella, chief executive officer of Microsoft Corp., during the 2024 CES event in Las Vegas, Nevada, US, on Tuesday, Jan. 9, 2024.",
-                  "source": "Bloomberg | Bloomberg | Getty Images"
-                },
-                {
-                  "type": "video",
-                  "description": "In 2009, all of the living presidents gathered to welcome Barack Obama to the White House. Mike Mills/The Paper",
-                  "videoUrl": "https://hlsvod.dw.com/i/dwtv_video/flv/je/je20241128_QDEPORTATION_InsCorrect_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8"
-                },
-                {
-                  "type": "header",
-                  "text": "AI and search, shopping business model shifts"
-                },
-                {
-                  "type": "paragraph",
-                  "paragraphs": [
-                    {
-                      "type": "text",
-                      "text": "Walmart is talking up its ability to use generative AI as a one-stop shop to search when you need to plan an event, rather than online destination to search for individual items. During a call with analysts after its "
-                    },
-                    {
-                      "type": "link",
-                      "text": "February earnings",
-                      "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html#:~:text=analysts%20after%20its-,February%20earnings,-%2C%20Walmart%20CEO%20Doug"
-                    },
-                    {
-                      "type": "text",
-                      "text": ", Walmart CEO Doug McMillon talked about the gen AI search capabilities in its . "
-                    },
-                    {
-                      "type": "boldText",
-                      "text": "app"
-                    }
-                  ]
-                }
-              ]
+              "isVideo": false,
+              "isPoliticalLeft": false,
+              "isPoliticalRight": false,
+              "isPoliticalCenter": false,
+              "contentRank": {
+                "isImportant": false,
+                "isHistoric": false,
+                "isCoverUnimportant": false,
+                "isDescriptionImportant": false
+              },
+              "isNative": true,
+              "webContentUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+              "deepLink": "https://www.mydomain.com/84ddcdf1997d481ba45e0db170e9ec02/0",
+              "nativeContent": [],
+              "contentAuthors": []
             }
           }
         ]
