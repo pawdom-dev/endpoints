@@ -224,7 +224,7 @@
           },
           {
             "type": "bookmarks",
-            "label": "Bookmarks",
+            "label": "Saved",
             "id": "bookmarks",
             "isOnlyVideo": false,
             "iconId": "bookmark",
