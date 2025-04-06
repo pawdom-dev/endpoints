@@ -44,7 +44,8 @@
             "webContentUrl": "https://www.bbc.co.uk/news/uk-england-lancashire-68527885",
             "deepLink": "https://www.mydomain.com/1ee140dd99834f8b8286c83f84feb906/0",
             "nativeContent": [],
-            "contentAuthors": []
+            "contentAuthors": [],
+            "isSettings": false
           },
           {
             "articleId": "b613ea707feb4a359bf75f18f4bb7d42",
@@ -93,7 +94,8 @@
             "webContentUrl": "https://www.bbc.co.uk/news/uk-england-london-68524612",
             "deepLink": "https://www.mydomain.com/b613ea707feb4a359bf75f18f4bb7d42/0",
             "nativeContent": [],
-            "contentAuthors": []
+            "contentAuthors": [],
+            "isSettings": false
           },
           {
             "articleId": "e4581a72748140089ac2a5eda2c0b929",
@@ -136,7 +138,8 @@
             "webContentUrl": "https://www.bbc.co.uk/sport/articles/c4nk7wgeey2o",
             "deepLink": "https://www.mydomain.com/e4581a72748140089ac2a5eda2c0b929/0",
             "nativeContent": [],
-            "contentAuthors": []
+            "contentAuthors": [],
+            "isSettings": false
           },
           {
             "articleId": "aac4e23b26974eebb83b002490cd95de",
@@ -179,7 +182,8 @@
             "webContentUrl": "https://www.bbc.co.uk/sport/av/rugby-union/68528294",
             "deepLink": "https://www.mydomain.com/aac4e23b26974eebb83b002490cd95de/0",
             "nativeContent": [],
-            "contentAuthors": []
+            "contentAuthors": [],
+            "isSettings": false
           },
           {
             "articleId": "4595bcc6a060463b8d99c38d53120049",
@@ -228,7 +232,8 @@
             "webContentUrl": "https://www.bbc.co.uk/news/world-europe-68528241",
             "deepLink": "https://www.mydomain.com/4595bcc6a060463b8d99c38d53120049/0",
             "nativeContent": [],
-            "contentAuthors": []
+            "contentAuthors": [],
+            "isSettings": false
           }
         ]
       }

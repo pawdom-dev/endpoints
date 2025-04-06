@@ -92,7 +92,8 @@
           "name": "Tobias Käufer",
           "description": "He reported from hospitals"
         }
-      ]
+      ],
+      "isSettings": true
     }
   }
 }
