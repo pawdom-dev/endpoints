@@ -2,6 +2,12 @@
   "data": {
     "config": {
       "version": 1,
+      "update": {
+        "isAskUpdating": false,
+        "isForceUpdating": true,
+        "maxBuildNumberToAskUpdate": 10,
+        "maxBuildNumberToForceUpdate": 5
+      },
       "settings": {
         "bookmarks": {
           "id": "bookmarks",
