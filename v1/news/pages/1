@@ -6,7 +6,8 @@
         "isAskUpdating": false,
         "isForceUpdating": true,
         "maxBuildNumberToAskUpdate": 10,
-        "maxBuildNumberToForceUpdate": 5
+        "maxBuildNumberToForceUpdate": 5,
+        "iosAppStoreAppId": "YOUR_IOS_APP_ID"
       },
       "settings": {
         "bookmarks": {
