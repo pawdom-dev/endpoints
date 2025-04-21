@@ -5,8 +5,8 @@
       "update": {
         "isAskUpdating": false,
         "isForceUpdating": true,
-        "maxBuildNumberToAskUpdate": 10,
-        "maxBuildNumberToForceUpdate": 5,
+        "maxVersionToAskUpdate": "1.0.0",
+        "maxVersionToForceUpdate": "1.0.0",
         "iosAppStoreAppId": "835599320",
         "title": "Update Available",
         "description": "A new version of the app is available. Update now to enjoy the latest features, improvements, and bug fixes.\n\nTap “Update” to unlock all the new benefits today!",
