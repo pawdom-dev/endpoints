@@ -3,8 +3,8 @@
     "config": {
       "version": 1,
       "update": {
-        "isAskUpdating": false,
-        "isForceUpdating": true,
+        "isAskUpdating": true,
+        "isForceUpdating": false,
         "maxVersionToAskUpdate": "1.0.0",
         "maxVersionToForceUpdate": "1.0.0",
         "iosAppStoreAppId": "835599320",
