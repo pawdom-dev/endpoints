@@ -491,6 +491,8 @@
         "name": "Live TV - TVD English",
         "description": "latest news",
         "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "videoAspectRatioWidth": 16,
+        "videoAspectRatioHeight": 9,
         "programSchedule": [
           {
             "name": "NEWS 30min",
@@ -554,6 +556,8 @@
         "name": "Live TV - TVD Polish",
         "description": "latest news",
         "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "videoAspectRatioWidth": 16,
+        "videoAspectRatioHeight": 9,
         "programSchedule": [
           {
             "name": "NEWS 30min",
