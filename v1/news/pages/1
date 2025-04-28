@@ -621,8 +621,8 @@
         ]
       }
     ],
-    "newsLineAlerts": {
-      "redAlert": {
+    "infoLine": {
+      "red": {
         "text": "## Why Walmart's quick success in generative AI search should have Google worried ** ## Why Walmart's quick success in generative AI search should have Google worried **@@@@@@",
         "isTextLtr": true
       }
