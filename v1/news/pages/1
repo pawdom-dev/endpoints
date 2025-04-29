@@ -179,7 +179,7 @@
             "id": "read",
             "label": "Read",
             "isOnlyVideo": false,
-            "isShowingRedAlert": true,
+            "isShowingInfoLine": true,
             "iconId": "menuBook",
             "type": "categories",
             "topicCategoryIds": [
@@ -232,7 +232,7 @@
             "label": "Live",
             "id": "live",
             "isOnlyVideo": false,
-            "isShowingRedAlert": false,
+            "isShowingInfoLine": false,
             "iconId": "videoCam",
             "topicCategoryIds": [],
             "topicCategoryNames": [],
@@ -243,7 +243,7 @@
             "label": "Saved",
             "id": "bookmarks",
             "isOnlyVideo": false,
-            "isShowingRedAlert": false,
+            "isShowingInfoLine": false,
             "iconId": "bookmark",
             "topicCategoryIds": [],
             "topicCategoryNames": [],
@@ -254,7 +254,7 @@
             "label": "Profile",
             "id": "profile",
             "isOnlyVideo": false,
-            "isShowingRedAlert": false,
+            "isShowingInfoLine": false,
             "iconId": "accountCircle",
             "topicCategoryIds": [],
             "topicCategoryNames": [],
@@ -622,10 +622,10 @@
       }
     ],
     "infoLine": {
-      "red": {
-        "text": "## Why Walmart's quick success in generative AI search should have Google worried ** ## Why Walmart's quick success in generative AI search should have Google worried **@@@@@@",
-        "isTextLtr": true
-      }
+      "text": "## Why Walmart's quick success in generative AI search should have Google worried ** ## Why Walmart's quick success in generative AI search should have Google worried **@@@@@@",
+      "isTextLtr": true,
+      "textColor": 4294967295,
+      "backgroundColor": 4292345856
     }
   }
 }
