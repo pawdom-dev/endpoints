@@ -59,7 +59,7 @@
                 "isDescriptionImportant": false
               },
               "isNative": false,
-              "webContentUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
+              "webContentUrl": "https://www.bbc.com/news/articles/c0qgz18glljo",
               "deepLink": "https://www.mydomain.com/a066e70734dc42bc8dca34ccd5787dde/0",
               "nativeContent": [],
               "contentAuthors": [],
@@ -480,7 +480,7 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
+            "webContentUrl": "https://www.bbc.com/news/articles/c0qgz18glljo",
             "deepLink": "https://www.mydomain.com/a066e70734dc42bc8dca34ccd5787dde/0",
             "nativeContent": [],
             "contentAuthors": [],
