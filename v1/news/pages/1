@@ -3,7 +3,7 @@
     "config": {
       "version": 1,
       "update": {
-        "isAskUpdating": true,
+        "isAskUpdating": false,
         "isForceUpdating": false,
         "maxVersionToAskUpdate": "1.0.0",
         "maxVersionToForceUpdate": "1.0.0",
