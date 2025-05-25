@@ -1,0 +1,633 @@
+{
+  "data": {
+    "config": {
+      "version": 1,
+      "update": {
+        "isAskUpdating": false,
+        "isForceUpdating": false,
+        "maxVersionToAskUpdate": "1.0.0",
+        "maxVersionToForceUpdate": "1.0.0",
+        "iosAppStoreAppId": "835599320",
+        "title": "Update Available",
+        "description": "A new version of the app is available. Update now to enjoy the latest features, improvements, and bug fixes.\n\nTap “Update” to unlock all the new benefits today!",
+        "yesButton": "Update",
+        "noButton": "Later",
+        "askAgainAfterDays": 3
+      },
+      "settings": {
+        "bookmarks": {
+          "id": "bookmarks",
+          "label": "Bookmarks",
+          "position": 0
+        },
+        "privacy": {
+          "id": "privacy",
+          "label": "Privacy",
+          "position": 2
+        },
+        "notifications": {
+          "id": "notifications",
+          "label": "Notifications",
+          "position": 1
+        },
+        "list": [
+          {
+            "id": "aboutUs",
+            "label": "About us",
+            "articleDetails": {
+              "articleId": "a066e70734dc42bc8dca34ccd5787dde_SET1",
+              "imageUrl": "https://image.cnbcfm.com/api/v1/image/105576605-1542290956536gettyimages-685969652.jpeg?v=1746797776&w=610&h=512&ffmt=webp&vtcrop=y",
+              "country": "gb",
+              "language": "en",
+              "pubDate": "2024-03-10T15:38:48+00:00",
+              "title": "Trump heads to the Middle East with oil, trade and nuclear ambitions on the table",
+              "description": "Trump has long enjoyed a warm relationship with Gulf Arab states, in particular the UAE and Saudi Arabia, where his children have several business ventures and planned real estate projects.",
+              "sourceDomain": "cnbc.com",
+              "paywall": false,
+              "uploadedDayDate": 20240914,
+              "positionLift": 0,
+              "isHidden": false,
+              "topics": [],
+              "isVideo": false,
+              "isPoliticalLeft": false,
+              "isPoliticalRight": false,
+              "isPoliticalCenter": false,
+              "contentRank": {
+                "isImportant": false,
+                "isHistoric": false,
+                "isCoverUnimportant": false,
+                "isDescriptionImportant": false
+              },
+              "isNative": false,
+              "webContentUrl": "https://www.cnbc.com/2025/05/09/trump-heads-to-middle-east-with-oil-arms-nuclear-ambitions-in-focus.html",
+              "deepLink": "https://www.mydomain.com/a066e70734dc42bc8dca34ccd5787dde/0",
+              "nativeContent": [],
+              "contentAuthors": [],
+              "isSettings": true
+            }
+          },
+          {
+            "id": "terms",
+            "label": "Terms and condistions ",
+            "articleDetails": {
+              "articleId": "84ddcdf1997d481ba45e0db170e9ec02_SET2",
+              "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1920&h=1080",
+              "country": "us",
+              "language": "en",
+              "pubDate": "2024-03-10T15:41:48+00:00",
+              "title": "Why Walmart's quick success in generative AI search should have Google worried",
+              "description": "Walmart is talking up its ability to layer generative AI into search within its website for more customized shopping. Should Google be worried?",
+              "sourceDomain": "cnbc.com",
+              "paywall": false,
+              "uploadedDayDate": 20240914,
+              "positionLift": 0,
+              "isHidden": false,
+              "topics": [],
+              "isVideo": false,
+              "isPoliticalLeft": false,
+              "isPoliticalRight": false,
+              "isPoliticalCenter": false,
+              "contentRank": {
+                "isImportant": false,
+                "isHistoric": false,
+                "isCoverUnimportant": false,
+                "isDescriptionImportant": false
+              },
+              "isNative": false,
+              "webContentUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+              "deepLink": "https://www.mydomain.com/84ddcdf1997d481ba45e0db170e9ec02/0",
+              "nativeContent": [],
+              "contentAuthors": [],
+              "isSettings": true
+            }
+          }
+        ]
+      },
+      "ads": {
+        "portrait": {
+          "articleList": {
+            "adPositionOffset": 2,
+            "numberOfArticlesAfterAd": 10
+          },
+          "articleDetails": {
+            "numberOfParagraphsBeforeAd": 1
+          }
+        },
+        "android": [
+          [
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/2247696110",
+              "type": "admobNativeMedium",
+              "noSdkAdRefreshInSec": 25
+            },
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/9214589741",
+              "type": "admobBannerMedium",
+              "noSdkAdRefreshInSec": 25
+            },
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/2435281174",
+              "type": "admobBannerMedium",
+              "noSdkAdRefreshInSec": 25
+            }
+          ],
+          [
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/3986624511",
+              "type": "admobNativeMedium",
+              "noSdkAdRefreshInSec": 25
+            }
+          ]
+        ],
+        "ios": [
+          [
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/2247696110",
+              "type": "admobNativeMedium",
+              "noSdkAdRefreshInSec": 25
+            },
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/9214589741",
+              "type": "admobBannerMedium",
+              "noSdkAdRefreshInSec": 25
+            },
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/2435281174",
+              "type": "admobBannerMedium",
+              "noSdkAdRefreshInSec": 25
+            }
+          ],
+          [
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/3986624511",
+              "type": "admobNativeMedium",
+              "noSdkAdRefreshInSec": 25
+            }
+          ]
+        ]
+      },
+      "layouts": {
+        "portrait": {
+          "articleList": {
+            "order": [
+              "classicML",
+              "classicS",
+              "classicXSL",
+              "classicM"
+            ],
+            "historic": "classicM",
+            "important": "classicS",
+            "unimportantCover": "classicXS"
+          }
+        }
+      },
+      "bottomNav": {
+        "items": [
+          {
+            "id": "read",
+            "label": "Read",
+            "isOnlyVideo": false,
+            "isShowingInfoLine": true,
+            "iconId": "menuBook",
+            "type": "categories",
+            "topicCategoryIds": [
+              "topStories",
+              "business",
+              "sports",
+              "auto",
+              "weather",
+              "tech",
+              "politics",
+              "entertainment",
+              "health",
+              "general"
+            ],
+            "topicCategoryNames": [
+              "Mega News",
+              "Business",
+              "Sports",
+              "Auto",
+              "Weather",
+              "Tech",
+              "Politics",
+              "Entertainment",
+              "Health",
+              "General"
+            ],
+            "categoriesLimits": [
+              {
+                "topicCategoryId": "business",
+                "maxPage": 3
+              }
+            ]
+          },
+          {
+            "type": "categories",
+            "label": "Sports",
+            "id": "sports",
+            "isOnlyVideo": false,
+            "iconId": "soccerBall",
+            "topicCategoryIds": [
+              "topStories"
+            ],
+            "topicCategoryNames": [
+              "Top Stories"
+            ],
+            "categoriesLimits": []
+          },
+          {
+            "type": "channels",
+            "label": "Live",
+            "id": "live",
+            "isOnlyVideo": false,
+            "isShowingInfoLine": false,
+            "iconId": "videoCam",
+            "topicCategoryIds": [],
+            "topicCategoryNames": [],
+            "categoriesLimits": []
+          },
+          {
+            "type": "bookmarks",
+            "label": "Saved",
+            "id": "bookmarks",
+            "isOnlyVideo": false,
+            "isShowingInfoLine": false,
+            "iconId": "bookmark",
+            "topicCategoryIds": [],
+            "topicCategoryNames": [],
+            "categoriesLimits": []
+          },
+          {
+            "type": "settings",
+            "label": "Profile",
+            "id": "profile",
+            "isOnlyVideo": false,
+            "isShowingInfoLine": false,
+            "iconId": "accountCircle",
+            "topicCategoryIds": [],
+            "topicCategoryNames": [],
+            "categoriesLimits": []
+          }
+        ]
+      }
+    },
+    "articles": {
+      "content": {
+        "page": [
+          {
+            "articleId": "0d7aee0e2e2f49d2bd45f4e9bd2c7505",
+            "imageUrl": "https://image.cnbcfm.com/api/v1/image/108143813-1746949222393-gettyimages-2213847208-AA_11052025_2224620.jpeg?v=1746949336&w=1260&h=709&ffmt=webp&vtcrop=y",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-10T15:45:12+00:00",
+            "title": "Putin proposes direct peace talks with Ukraine after three years of war",
+            "description": "Russian President Vladimir Putin on Sunday proposed direct talks with Ukraine on May 15 in the Turkish city of Istanbul",
+            "sourceDomain": "cnbc.com",
+            "paywall": false,
+            "uploadedDayDate": 20240914,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "general",
+                "topicCategoryName": "General",
+                "topicId": "general",
+                "topicName": "General"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.cnbc.com/2025/05/11/putin-proposes-direct-peace-talks-with-ukraine-after-3-years-of-war.html",
+            "deepLink": "https://www.mydomain.com/0d7aee0e2e2f49d2bd45f4e9bd2c7505/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "c1aa51109c9f45268349932f18a60f7b",
+            "imageUrl": "https://image.cnbcfm.com/api/v1/image/108141820-1746560509860-gettyimages-2213192275-akunited_022.jpeg?v=1746560758&w=1260&h=709&ffmt=webp&vtcrop=y",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-10T15:44:48+00:00",
+            "title": "Why U.S. air traffic control is stretched so thin — and the fight to fix it",
+            "description": "The outage exposed years of underinvestment and staffing shortages in air traffic control, despite increased demand for air travel",
+            "sourceDomain": "cnbc.com",
+            "paywall": false,
+            "uploadedDayDate": 20240914,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.cnbc.com/2025/05/07/newark-air-traffic-control-strain-staffing-technology.html",
+            "deepLink": "https://www.mydomain.com/c1aa51109c9f45268349932f18a60f7b/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "104c2a1fcfa6416aaea27578fa2799d6",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2214132325.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-10T15:44:36.705000+00:00",
+            "title": "Manchester United and Tottenham Hotspur seek to salvage tough domestic seasons in Europa League final",
+            "description": "Both Manchester United and Tottenham Hotspur continued to live in their own parallel worlds as both English teams reached the Europa League final on Thursday.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240914,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "sports",
+                "topicCategoryName": "Sports",
+                "topicId": "sports",
+                "topicName": "Sports"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/05/09/sport/manchester-united-tottenham-europa-league-final-spt-intl",
+            "deepLink": "https://www.mydomain.com/104c2a1fcfa6416aaea27578fa2799d6/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
+            "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1920&h=1080",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-03-10T15:41:48+00:00",
+            "title": "Why Walmart's quick success in generative AI search should have Google worried",
+            "description": "Walmart is talking up its ability to layer generative AI into search within its website for more customized shopping. Should Google be worried?",
+            "sourceDomain": "cnbc.com",
+            "paywall": false,
+            "uploadedDayDate": 20240914,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "tech",
+                "topicCategoryName": "Tech",
+                "topicId": "tech",
+                "topicName": "Tech"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": true,
+            "webContentUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+            "deepLink": "https://www.mydomain.com/84ddcdf1997d481ba45e0db170e9ec02/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "a066e70734dc42bc8dca34ccd5787dde",
+            "imageUrl": "https://image.cnbcfm.com/api/v1/image/105576605-1542290956536gettyimages-685969652.jpeg?v=1746797776&w=610&h=512&ffmt=webp&vtcrop=y",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-10T15:38:48+00:00",
+            "title": "Trump heads to the Middle East with oil, trade and nuclear ambitions on the table",
+            "description": "Trump has long enjoyed a warm relationship with Gulf Arab states, in particular the UAE and Saudi Arabia, where his children have several business ventures and planned real estate projects.",
+            "sourceDomain": "cnbc.com",
+            "paywall": false,
+            "uploadedDayDate": 20240914,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "",
+                "topicCategoryName": "",
+                "topicId": "",
+                "topicName": ""
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.cnbc.com/2025/05/09/trump-heads-to-middle-east-with-oil-arms-nuclear-ambitions-in-focus.html",
+            "deepLink": "https://www.mydomain.com/a066e70734dc42bc8dca34ccd5787dde/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          }
+        ]
+      }
+    },
+    "channels": [
+      {
+        "id": "liveTvdEnglish",
+        "name": "Live TV - TVD English",
+        "description": "latest news",
+        "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "videoAspectRatioWidth": 16,
+        "videoAspectRatioHeight": 9,
+        "programSchedule": [
+          {
+            "name": "NEWS 30min",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2025-01-30T01:41:48+00:00"
+          },
+          {
+            "name": "People & Power : Climate Protest Crackdown",
+            "description": "People and Power meets environmental campaigners resorting to what their critics describe as ‘extremism’ to draw attention to the climate crisis.",
+            "startDate": "2025-01-30T02:41:48+00:00"
+          },
+          {
+            "name": "Inside Story",
+            "description": "Beyond the headlines to the heart of the news of the day. News gets the Inside Story from some of the best minds from around the globe.",
+            "startDate": "2025-01-30T05:41:48+00:00"
+          },
+          {
+            "name": "Witness",
+            "description": "AI's role in news raises concerns about journalistic integrity, deep fakes, misinformation, and accountability in content creation.",
+            "startDate": "2025-01-30T06:41:48+00:00"
+          },
+          {
+            "name": "UpFront",
+            "description": "Marc Lamont Hill discusses the power of Big Tech over our societies with Nobel Peace Prize laureate Maria Ressa and economist and author Yanis Varoufakis.",
+            "startDate": "2025-01-30T10:41:48+00:00"
+          },
+          {
+            "name": "The Listening Post",
+            "description": "The critiques and questions are getting harder to ignore. Plus, what the media anticipates.",
+            "startDate": "2025-01-30T14:41:48+00:00"
+          },
+          {
+            "name": "People & Power : Climate Protest Crackdown",
+            "description": "People and Power meets environmental campaigners resorting to what their critics describe as ‘extremism’ to draw attention to the climate crisis.",
+            "startDate": "2025-01-30T16:41:48+00:00"
+          },
+          {
+            "name": "NEWSHOUR",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2025-01-30T18:41:48+00:00"
+          },
+          {
+            "name": "Reframe",
+            "description": "Artist shares how tradition and innovation weave together through his work.",
+            "startDate": "2025-01-30T20:41:48+00:00"
+          },
+          {
+            "name": "Against All",
+            "description": "Critiques and questions are getting harder to ignore.",
+            "startDate": "2025-01-30T22:41:48+00:00"
+          },
+          {
+            "name": "NEWS 30min",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2025-01-30T23:41:48+00:00"
+          }
+        ]
+      },
+      {
+        "id": "liveTvdPolish",
+        "name": "Live TV - TVD Polish",
+        "description": "latest news",
+        "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "videoAspectRatioWidth": 16,
+        "videoAspectRatioHeight": 9,
+        "programSchedule": [
+          {
+            "name": "NEWS 30min",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2025-01-30T01:41:48+00:00"
+          },
+          {
+            "name": "People & Power : Climate Protest Crackdown",
+            "description": "People and Power meets environmental campaigners resorting to what their critics describe as ‘extremism’ to draw attention to the climate crisis.",
+            "startDate": "2025-01-30T02:41:48+00:00"
+          },
+          {
+            "name": "Inside Story",
+            "description": "Beyond the headlines to the heart of the news of the day. News gets the Inside Story from some of the best minds from around the globe.",
+            "startDate": "2025-01-30T05:41:48+00:00"
+          },
+          {
+            "name": "Witness",
+            "description": "AI's role in news raises concerns about journalistic integrity, deep fakes, misinformation, and accountability in content creation.",
+            "startDate": "2025-01-30T06:41:48+00:00"
+          },
+          {
+            "name": "UpFront",
+            "description": "Marc Lamont Hill discusses the power of Big Tech over our societies with Nobel Peace Prize laureate Maria Ressa and economist and author Yanis Varoufakis.",
+            "startDate": "2025-01-30T10:41:48+00:00"
+          },
+          {
+            "name": "The Listening Post",
+            "description": "The critiques and questions are getting harder to ignore. Plus, what the media anticipates.",
+            "startDate": "2025-01-30T14:41:48+00:00"
+          },
+          {
+            "name": "People & Power : Climate Protest Crackdown",
+            "description": "People and Power meets environmental campaigners resorting to what their critics describe as ‘extremism’ to draw attention to the climate crisis.",
+            "startDate": "2025-01-30T16:41:48+00:00"
+          },
+          {
+            "name": "NEWSHOUR",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2025-01-30T18:41:48+00:00"
+          },
+          {
+            "name": "Reframe",
+            "description": "Artist shares how tradition and innovation weave together through his work.",
+            "startDate": "2025-01-30T20:41:48+00:00"
+          },
+          {
+            "name": "Against All",
+            "description": "Critiques and questions are getting harder to ignore.",
+            "startDate": "2025-01-30T22:41:48+00:00"
+          },
+          {
+            "name": "NEWS 30min",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2025-01-30T23:41:48+00:00"
+          }
+        ]
+      }
+    ],
+    "infoLine": {
+      "text": "## Google founder Sergey Brin recently conceded missteps in gen AI but said the company will figure out the right business models; analysts say online retailers will be more competitive in search within their ecosystems. **@@@@@@",
+      "isTextLtr": true,
+      "textColor": 4294967295,
+      "backgroundColor": 4292345856
+    }
+  }
+}

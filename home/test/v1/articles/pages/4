@@ -1,0 +1,327 @@
+{
+  "data": {
+    "articles": {
+      "content": {
+        "page": [
+          {
+            "articleId": "16bc603a7a4649b1aff687cefce4453f",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/img-3122.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:46:46+00:00",
+            "title": "BYD unveils new luxury sports car as carmakers vie for attention at China’s largest auto show",
+            "description": "Chinese electric vehicle giant BYD has already beaten out long-standing frontrunner Tesla in sales of electrified vehicles. And now it’s coming for luxury sports cars.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240911,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "auto",
+                "topicCategoryName": "Auto",
+                "topicId": "auto",
+                "topicName": "Auto"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/04/23/business/china-byd-denza-z-auto-shanghai-intl-hnk/index.html",
+            "deepLink": "https://www.mydomain.com/16bc603a7a4649b1aff687cefce4453f/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "517bed880a1e4faeaa0aa33135556ea3",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1978656556.jpg?q=w_1480,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:40:43+00:00",
+            "title": "The latest trend in watches might surprise you",
+            "description": "Set in a sleek, lacquered rectangular casing and adorned with 20 baguette-cut yellow beryls — set in gold.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240911,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "entertainment",
+                "topicCategoryName": "Entertainment",
+                "topicId": "entertainment",
+                "topicName": "Entertainment"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/04/17/style/watches-wonders-unusual-trend",
+            "deepLink": "https://www.mydomain.com/517bed880a1e4faeaa0aa33135556ea3/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "6cdac77c243e4b84983245a3831e09d4",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/ap22151699890723.jpg?c=16x9&q=w_1383,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:39:04+00:00",
+            "title": "US weather forecasting is more crippled than previously known as hurricane season nears",
+            "description": "The National Weather Service is in worse shape than previously known, according to interviews with current and former meteorologists, due to a combination of layoffs, early retirements and preexisting vacancies.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240911,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "weather",
+                "topicCategoryName": "Weather",
+                "topicId": "weather",
+                "topicName": "Weather"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": true,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/05/02/weather/nws-forecasting-layoffs-trump",
+            "deepLink": "https://www.mydomain.com/6cdac77c243e4b84983245a3831e09d4/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "5adc1c3360f7488482ed9cc1bfe93071",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/ap25130759547318.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:37:08+00:00",
+            "title": "Shedeur Sanders aiming to ‘prove himself right’ instead of other ‘people wrong’ as he begins NFL career",
+            "description": "Cleveland Browns quarterback Shedeur Sanders said his “job here isn’t to prove people wrong” but to “prove myself right” as he spoke to the media for the first time since his dramatic slide and fifth round selection during the NFL Draft.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240911,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "sports",
+                "topicCategoryName": "Sports",
+                "topicId": "sports",
+                "topicName": "Sports"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/05/11/sport/shedeur-sanders-rookies-nfl-practice-spt",
+            "deepLink": "https://www.mydomain.com/5adc1c3360f7488482ed9cc1bfe93071/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "62666b0cb44a43b2bcf7ddbc07d3eb1f",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/austin-forkner-3.JPG?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:36:11+00:00",
+            "title": "Battling back from brain surgery, the indestructible Austin Forkner seeks dirt bike glory",
+            "description": "Few riders embody the sport and its elements more than Austin Forkner, the most successful rider in the 250SX class never to win a title. The Missouri native has come close, but painful on-track mishaps have always gotten in the way.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240911,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "sports",
+                "topicCategoryName": "Sports",
+                "topicId": "sports",
+                "topicName": "Sports"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/05/09/sport/austin-forkner-supercross-racing-profile-spt",
+            "deepLink": "https://www.mydomain.com/62666b0cb44a43b2bcf7ddbc07d3eb1f/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
+            "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1920&h=1080",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-03-10T15:41:48+00:00",
+            "title": "Why Walmart's quick success in generative AI search should have Google worried",
+            "description": "Walmart is talking up its ability to layer generative AI into search within its website for more customized shopping. Should Google be worried?",
+            "sourceDomain": "cnbc.com",
+            "paywall": false,
+            "uploadedDayDate": 20240914,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "tech",
+                "topicCategoryName": "Tech",
+                "topicId": "tech",
+                "topicName": "Tech"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": true,
+            "webContentUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+            "deepLink": "https://www.mydomain.com/84ddcdf1997d481ba45e0db170e9ec02/0",
+            "nativeContent": [
+              {
+                "type": "header",
+                "text": "Why Walmart’s quick success in generative AI search should have Google worried"
+              },
+              {
+                "type": "image",
+                "url": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1260&h=709&ffmt=webp&vtcrop=y",
+                "description": "Doug McMillon, chief executive officer of Walmart Inc., left, and Satya Nadella, chief executive officer of Microsoft Corp., during the 2024 CES event in Las Vegas, Nevada, US, on Tuesday, Jan. 9, 2024.",
+                "source": "Bloomberg | Bloomberg | Getty Images"
+              },
+              {
+                "type": "video",
+                "description": "In 2009, all of the living presidents gathered to welcome Barack Obama to the White House. Mike Mills/The Paper",
+                "videoUrl": "https://hlsvod.dw.com/i/dwtv_video/flv/je/je20241128_QDEPORTATION_InsCorrect_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
+                "videoAspectRatioWidth": 16,
+                "videoAspectRatioHeight": 9
+              },
+              {
+                "type": "header",
+                "text": "AI and search, shopping business model shifts"
+              },
+              {
+                "type": "paragraph",
+                "paragraphs": [
+                  {
+                    "type": "text",
+                    "text": "Walmart is talking up its ability to use generative AI as a one-stop shop to search when you need to plan an event, rather than online destination to search for individual items. During a call with analysts after its "
+                  },
+                  {
+                    "type": "link",
+                    "text": "February earnings",
+                    "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html#:~:text=analysts%20after%20its-,February%20earnings,-%2C%20Walmart%20CEO%20Doug"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", Walmart CEO Doug McMillon talked about the gen AI search capabilities in its . "
+                  },
+                  {
+                    "type": "boldText",
+                    "text": "app"
+                  }
+                ]
+              }
+            ],
+            "contentAuthors": [
+              {
+                "name": "Francesca Mari",
+                "description": "Francesca Mari is a contributing writer for the magazine. She reported from hospitals in Beirut and Baghdad for this article"
+              },
+              {
+                "name": "Tobias Käufer",
+                "description": "He reported from hospitals"
+              }
+            ],
+            "isSettings": false
+          }
+        ]
+      }
+    }
+  }
+}

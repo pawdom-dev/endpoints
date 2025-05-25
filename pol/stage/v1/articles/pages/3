@@ -1,0 +1,230 @@
+{
+  "data": {
+    "articles": {
+      "content": {
+        "page": [
+          {
+            "articleId": "83b8fcb5aacb426cbd479a95f079f5c1",
+            "imageUrl": "https://image.cnbcfm.com/api/v1/image/107384902-1709918439712-PortillosKissimmeeFL-21.jpg?v=1709933323&w=1920&h=1080",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-03-09T13:00:01+00:00",
+            "title": "McDonald’s and other restaurant chains look to the Sun Belt for growth as population soars",
+            "description": "As the population of the Sun Belt grows, restaurant chains such as McDonald's and Portillo's are looking to those states for future sales growth.",
+            "sourceDomain": "cnbc.com",
+            "paywall": false,
+            "uploadedDayDate": 20240912,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "business",
+                "topicCategoryName": "Business",
+                "topicId": "business",
+                "topicName": "Business"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.cnbc.com/2024/03/09/mcdonalds-portillos-dutch-bros-open-restaurants-in-the-sun-belt.html",
+            "deepLink": "https://www.mydomain.com/83b8fcb5aacb426cbd479a95f079f5c1/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "6159dbc5adfc4ef7ba1fc06f6855b739",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-838549836.jpg?c=16x9&q=w_1383,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:55:00+00:00",
+            "title": "As Trump calls for reopening Alcatraz, its most famous escape is still a mystery",
+            "description": "Despite its reputation as ironclad, it was possible to escape Alcatraz. All it took was brains, guts and 50 raincoats.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240912,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "",
+                "topicCategoryName": "",
+                "topicId": "",
+                "topicName": ""
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/05/11/us/alcatraz-trump-reopening-san-francisco",
+            "deepLink": "https://www.mydomain.com/6159dbc5adfc4ef7ba1fc06f6855b739/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "e6205960fd3646a79581c6f98ab9d9ac",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1745609013.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:53:32+00:00",
+            "title": "Russia’s European neighbors are lifting bans on landmines. Campaigners are horrified",
+            "description": "They are considered one of the world’s most dangerous, and indiscriminate, weapons. Yet five European countries have turned their backs on an international treaty on the use of landmines, citing the growing threat from Moscow.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240912,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "",
+                "topicCategoryName": "",
+                "topicId": "",
+                "topicName": ""
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/05/11/europe/europe-countries-landmine-ban-russia-intl",
+            "deepLink": "https://www.mydomain.com/e6205960fd3646a79581c6f98ab9d9ac/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "252d00627eaa445b942c3f6f747c7a5c",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213661167.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:51:29+00:00",
+            "title": "Nikola Jokić arrives wearing Joker-inspired suit, helps Denver Nuggets to overtime playoff win over Oklahoma City Thunder",
+            "description": "Nikola Jokić lived up to his nickname on Friday, arriving at Ball Arena wearing a Joker-inspired purple and green suit before helping the Denver Nuggets to a dramatic, overtime 113-104 win over the Oklahoma City Thunder in Game 3 of their playoff series.",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240912,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "sports",
+                "topicCategoryName": "Sports",
+                "topicId": "sports",
+                "topicName": "Sports"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/05/10/sport/nikola-jokic-joker-nuggets-thunder-nba-playoffs-spt-intl",
+            "deepLink": "https://www.mydomain.com/252d00627eaa445b942c3f6f747c7a5c/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "83a974a9bac94802977d22a41f8ffcb0",
+            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/kelly-spill-33-with-her-husband-and-their-two-children-second-option.jpeg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:47:50.128000+00:00",
+            "title": "Immunotherapy helps certain cancer patients avoid surgery: ‘We hope this is the future’",
+            "description": "She held her emotions together when her surgeon told her that she might not be able to carry another baby — treatment with radiation can significantly affect fertility ",
+            "sourceDomain": "cnn.com",
+            "paywall": false,
+            "uploadedDayDate": 20240912,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "health",
+                "topicCategoryName": "Health",
+                "topicId": "health",
+                "topicName": "Health"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStory",
+                "topicName": "Top Story"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://edition.cnn.com/2025/05/05/health/immunotherapy-cancer-patients-study-wellness",
+            "deepLink": "https://www.mydomain.com/83a974a9bac94802977d22a41f8ffcb0/0",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          }
+        ]
+      }
+    }
+  }
+}
