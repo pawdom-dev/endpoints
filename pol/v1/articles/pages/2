@@ -166,7 +166,7 @@
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
             },
-            "isNative": true,
+            "isNative": false,
             "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
             "nativeContent": [],
