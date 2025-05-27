@@ -4,16 +4,148 @@
       "content": {
         "page": [
           {
-            "articleId": "202505260000001",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/g2/g2vc5nap4vvq3mimtxsyse4udsibg7ex.jpg",
+            "articleId": "202505220000001",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/b9/b9zb28ud4adhfcan6d2gouf4rzgdm3mm.jpg",
             "country": "pl",
             "language": "pl",
-            "pubDate": "2025-05-26T08:15:12+02:00",
-            "title": "Trump przejęty zachowaniem Putina. Padły gorzkie słowa. \"Zupełnie zwariował\"",
-            "description": "Donald Trump skrytykował serię ataków Rosji na Ukrainę. W ocenie prezydenta USA Władimir Putin \"zupełnie zwariował\". Jak zapowiadał, w związku z powtarzającymi się atakami amerykańska administracja ma rozważyć wprowadzenie nowych sankcji na Rosję.",
+            "pubDate": "2025-05-22T09:58:12+02:00",
+            "title": "\"Bałtyk stanie się miejscem permanentnej konfrontacji\". Premier o rosyjskim statku \"floty cieni\"",
+            "description": "To się może powtarzać w przyszłości coraz intensywniej. Bałtyk stanie się miejscem permanentnej konfrontacji - powiedział premier Donald Tusk odnosząc się do incydentu z rosyjskim statkiem z tzw. floty cieni. Jak dodał, to jest agresja wymierzona wprost w infrastrukturę.",
             "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20250526,
+            "uploadedDayDate": 20250522,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
+              },
+              {
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/baltyk-stanie-sie-miejscem-permanentnej-konfrontacji-tusk-po-naradzie/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/baltyk-stanie-sie-miejscem-permanentnej-konfrontacji-tusk-po-naradzie/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "202505220000002",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/i8/i8ssc9qp9t73dcos1xtvpbi2sc1o2j6y.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-22T09:58:12+02:00",
+            "title": "W polskiej armii służą nie tylko Polacy. MON ujawniło dane",
+            "description": "W polskiej armii służy około 250 osób z podwójnym obywatelstwem - informuje \"Rzeczpospolita\". Z danych udostępnionych przez MON wynika, że legitymują się oni paszportami z 27 krajów. Jak przekazał wiceminister obrony Paweł Bejda ośmiu z nich ma obywatelstwo ukraińskie.",
+            "sourceDomain": "polsatnews.pl",
+            "paywall": false,
+            "uploadedDayDate": 20250522,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
+              },
+              {
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/w-polskiej-armii-nie-tylko-polacy-mon-ujawnilo-dane/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/w-polskiej-armii-nie-tylko-polacy-mon-ujawnilo-dane/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "202505220000003",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/u2/u2fj8mtr1bqibvkzjch72cm8zrqc9amw.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-22T07:34:17+02:00",
+            "title": "Saperzy przy więzieniu w Iławie. Mieszkańcy miasta wezwani do ewakuacji",
+            "description": "Przy zakładzie karnym w Iławie (woj. warmińsko-mazurskie) znaleziono niewybuchy. W związku z planowaną akcją saperów w okolicy zarządzono ewakuację mieszkańców. W tym czasie nieczynnych będzie również kilka lokali usługowych, zmieniona została również trasa komunikacji miejskiej.",
+            "sourceDomain": "polsatnews.pl",
+            "paywall": false,
+            "uploadedDayDate": 20250522,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
+              },
+              {
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/niebezpieczne-odkrycie-w-ilawie-mieszkancy-wezwani-do-ewakuacji/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/niebezpieczne-odkrycie-w-ilawie-mieszkancy-wezwani-do-ewakuacji/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "202505220000004",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/od/odupb6rfezoeq16w77e3w7c9c8qramnj.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-22T08:50:12+02:00",
+            "title": "Trump dostał latający prezent. Jest wart 400 mln dolarów",
+            "description": "\"To prawdopodobnie najdroższy podarunek od obcego rządu w historii\" - tak amerykańskie media określiły wart 400 mln dolarów samolot Boeing 747, który rząd Kataru podarował Donaldowi Trumpowi. Prezydent USA chce, żeby maszyna została nowym Air Force One - czyli oficjalnym prezydenckim statkiem powietrznym",
+            "sourceDomain": "polsatnews.pl",
+            "paywall": false,
+            "uploadedDayDate": 20250522,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
@@ -41,157 +173,31 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/trump-dostal-latajacy-prezent-jest-wart-400-mln-dolarow/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/trump-dostal-latajacy-prezent-jest-wart-400-mln-dolarow/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
           },
           {
-            "articleId": "202505260000002",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/qi/qi8btvykj5oor5gboe8wwg9ds59sy31m.png",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-26T14:31:12+02:00",
-            "title": "Zgrupowanie kadry bez Lewandowskiego. \"Organizm daje sygnał\"",
-            "description": "Robert Lewandowski nie pojawi się na czerwcowym zgrupowaniu reprezentacji Polski. Kapitan piłkarskiej kadry tłumaczy tę decyzję zmęczeniem po wyczerpującym sezonie. \"Organizm daje sygnał, że trzeba odetchnąć\" - napisał \"Lewy\" na Instagramie.",
-            "sourceDomain": "polsatnews.pl",
-            "paywall": false,
-            "uploadedDayDate": 20250526,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
-              },
-              {
-                "topicCategoryId": "sport",
-                "topicCategoryName": "Sport",
-                "topicId": "sport",
-                "topicName": "Sport"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/zgrupowanie-kadry-bez-lewandowskiego-organizm-daje-sygnal/",
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/zgrupowanie-kadry-bez-lewandowskiego-organizm-daje-sygnal/",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false
-          },
-          {
-            "articleId": "202505260000003",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/2d/2dsjc3re6oaozppre462c3g7raaapak3.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-26T08:14:17+02:00",
-            "title": "Kreml odpowiada na słowa Trumpa. \"Emocjonalne przeciążenie\"",
-            "description": "Rosyjskie władze skomentowały słowa Donalda Trumpa, który nazwał Władimira Putina \"szalonym\". - Mamy do czynienia z emocjonalnym przeciążeniem w tym kluczowym momencie - stwierdził rzecznik Kremla Dmitrij Pieskow. Podziękował również amerykańskiej administracji za pomoc w zorganizowaniu negocjacji pokojowych w sprawie wojny w Ukrainie.",
-            "sourceDomain": "polsatnews.pl",
-            "paywall": false,
-            "uploadedDayDate": 20250526,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/kreml-odpowiada-na-slowa-trumpa-emocjonalne-przeciazenie/",
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/kreml-odpowiada-na-slowa-trumpa-emocjonalne-przeciazenie/",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false
-          },
-          {
-            "articleId": "202505260000004",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/9v/9vf5hmonv3obpbf5g581dajs5a2v4r7f.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-26T08:50:12+02:00",
-            "title": "Burza po spotkaniu Mentzena z Trzaskowskim. Prawicowi internauci o \"akcie zdrady\"",
-            "description": "W sobotę, po spotkaniu Rafała Trzaskowskiego ze Sławomirem Mentzenem, obaj politycy wyszli do pubu na piwo. Szeroko skomentowali to w sieci wyborcy zarówno Koalicji Obywatelskiej, jak i Konfederacji. Pojawiły się nawet komentarze o \"zdradzie ideologicznej\". Ekspert uważa, że elektorat tej drugiej formacji mógł częściowo się zdemobilizować przed II turą głosowania.",
-            "sourceDomain": "polsatnews.pl",
-            "paywall": false,
-            "uploadedDayDate": 20250526,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "swiat",
-                "topicCategoryName": "Świat",
-                "topicId": "swiat",
-                "topicName": "Świat"
-              },
-              {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": true,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false
-          },
-          {
-            "articleId": "202505260000005",
+            "articleId": "202505220000005",
             "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/eu/euuhnpohn4jr9znxgwbzd19zuuxx8tpa.jpg",
             "country": "pl",
             "language": "pl",
             "pubDate": "2025-05-26T10:19:12+02:00",
-            "title": "Zabrakło niewiele. Robert Lewandowski poza podium prestiżowej klasyfikacji",
-            "description": "Robert Lewandowski z 27 bramkami na koncie znalazł się na czwartym miejscu klasyfikacji Złotego Buta. Nagrodę dla najlepszego strzelca europejskich lig z 29 trafieniami na koncie zgarnął napastnik Realu Madryt - Kylian Mbappe.",
-            "sourceDomain": "polsatsport.pl",
+            "title": "Władysław Kosiniak-Kamysz w \"Graffiti\"",
+            "description": "Gościem czwartkowego \"Graffiti\" będzie minister obrony narodowej Władysław Kosiniak-Kamysz. Prowadzący Marcin Fijołek zapyta polityka m. in. o incydent na Bałtyku z udziałem rosyjskiej floty cieni oraz o zbliżającą się drugą turę wyborów prezydenckich. Transmisja w Polsacie, Polsat News, Interii i polsatnews.pl od godziny 7:40.",
+            "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20250526,
+            "uploadedDayDate": 20250522,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "sport",
-                "topicCategoryName": "Sport",
-                "topicId": "sport",
-                "topicName": "Sport"
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
               },
               {
                 "topicCategoryId": "najnowsze",
@@ -211,8 +217,8 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatsport.pl/robert-lewandowski/wiadomosc/2025-05-26/zabraklo-niewiele-robert-lewandowski-poza-podium-prestizowej-klasyfikacji/",
-            "deepLink": "https://www.polsatsport.pl/robert-lewandowski/wiadomosc/2025-05-26/zabraklo-niewiele-robert-lewandowski-poza-podium-prestizowej-klasyfikacji/",
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/wladyslaw-kosiniak-kamysz-w-graffiti-transmisja-w-polsat-news/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/wladyslaw-kosiniak-kamysz-w-graffiti-transmisja-w-polsat-news/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
