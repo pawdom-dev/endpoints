@@ -481,10 +481,10 @@
     },
     "channels": [
       {
-        "id": "liveTvdEnglish",
-        "name": "Live TV - TVD English",
-        "description": "latest news",
-        "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "id": "polsatNews",
+        "name": "Polsat News",
+        "description": "Najnowsze wiadomości z kraju i ze świata",
+        "videoUrl": "https://redirector.redefine.pl/cppolska/urs93rx5arz1vgqh75bnxtuttunvqnd3.mp4",
         "videoAspectRatioWidth": 16,
         "videoAspectRatioHeight": 9,
         "programSchedule": [
@@ -546,10 +546,10 @@
         ]
       },
       {
-        "id": "liveTvdPolish",
-        "name": "Live TV - TVD Polish",
-        "description": "latest news",
-        "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "id": "polsatSport",
+        "name": "Polsat Sport",
+        "description": "Najważniejsze i najciekawsze wydarzenia sportowe z udziałem zarówno polskich sportowców, jak i te o międzynarodowym charakterze.",
+        "videoUrl": "https://redirector.redefine.pl/cppolska/7vvqwjrpdggugky712w8orqt3r9nfr87.mp4",
         "videoAspectRatioWidth": 16,
         "videoAspectRatioHeight": 9,
         "programSchedule": [
