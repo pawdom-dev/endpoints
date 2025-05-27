@@ -425,7 +425,7 @@
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
             },
-            "isNative": true,
+            "isNative": false,
             "webContentUrl": "https://www.polsatnews.pl/wideo/dokladnie-wiedzial-co-robi-sikorski-o-kulisach-spotkania-trzaskowski-mentzen_6848261/",
             "deepLink": "https://www.polsatnews.pl/wideo/dokladnie-wiedzial-co-robi-sikorski-o-kulisach-spotkania-trzaskowski-mentzen_6848261/",
             "nativeContent": [],
