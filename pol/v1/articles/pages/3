@@ -4,30 +4,30 @@
       "content": {
         "page": [
           {
-            "articleId": "83b8fcb5aacb426cbd479a95f079f5c1",
-            "imageUrl": "https://image.cnbcfm.com/api/v1/image/107384902-1709918439712-PortillosKissimmeeFL-21.jpg?v=1709933323&w=1920&h=1080",
-            "country": "us",
-            "language": "en",
-            "pubDate": "2024-03-09T13:00:01+00:00",
-            "title": "McDonald’s and other restaurant chains look to the Sun Belt for growth as population soars",
-            "description": "As the population of the Sun Belt grows, restaurant chains such as McDonald's and Portillo's are looking to those states for future sales growth.",
-            "sourceDomain": "cnbc.com",
+            "articleId": "202505260000001",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/g2/g2vc5nap4vvq3mimtxsyse4udsibg7ex.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-26T08:15:12+02:00",
+            "title": "Trump przejęty zachowaniem Putina. Padły gorzkie słowa. \"Zupełnie zwariował\"",
+            "description": "Donald Trump skrytykował serię ataków Rosji na Ukrainę. W ocenie prezydenta USA Władimir Putin \"zupełnie zwariował\". Jak zapowiadał, w związku z powtarzającymi się atakami amerykańska administracja ma rozważyć wprowadzenie nowych sankcji na Rosję.",
+            "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20240912,
+            "uploadedDayDate": 20250526,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "business",
-                "topicCategoryName": "Business",
-                "topicId": "business",
-                "topicName": "Business"
+                "topicCategoryId": "swiat",
+                "topicCategoryName": "Świat",
+                "topicId": "swiat",
+                "topicName": "Świat"
               },
               {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStory",
-                "topicName": "Top Story"
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
               }
             ],
             "isVideo": false,
@@ -41,37 +41,37 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.cnbc.com/2024/03/09/mcdonalds-portillos-dutch-bros-open-restaurants-in-the-sun-belt.html",
-            "deepLink": "https://www.mydomain.com/83b8fcb5aacb426cbd479a95f079f5c1/0",
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
           },
           {
-            "articleId": "6159dbc5adfc4ef7ba1fc06f6855b739",
-            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-838549836.jpg?c=16x9&q=w_1383,c_fill/f_webp",
-            "country": "gb",
-            "language": "en",
-            "pubDate": "2024-03-09T12:55:00+00:00",
-            "title": "As Trump calls for reopening Alcatraz, its most famous escape is still a mystery",
-            "description": "Despite its reputation as ironclad, it was possible to escape Alcatraz. All it took was brains, guts and 50 raincoats.",
-            "sourceDomain": "cnn.com",
+            "articleId": "202505260000002",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/qi/qi8btvykj5oor5gboe8wwg9ds59sy31m.png",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-26T14:31:12+02:00",
+            "title": "Zgrupowanie kadry bez Lewandowskiego. \"Organizm daje sygnał\"",
+            "description": "Robert Lewandowski nie pojawi się na czerwcowym zgrupowaniu reprezentacji Polski. Kapitan piłkarskiej kadry tłumaczy tę decyzję zmęczeniem po wyczerpującym sezonie. \"Organizm daje sygnał, że trzeba odetchnąć\" - napisał \"Lewy\" na Instagramie.",
+            "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20240912,
+            "uploadedDayDate": 20250526,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "",
-                "topicCategoryName": "",
-                "topicId": "",
-                "topicName": ""
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
               },
               {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStory",
-                "topicName": "Top Story"
+                "topicCategoryId": "sport",
+                "topicCategoryName": "Sport",
+                "topicId": "sport",
+                "topicName": "Sport"
               }
             ],
             "isVideo": false,
@@ -85,37 +85,31 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://edition.cnn.com/2025/05/11/us/alcatraz-trump-reopening-san-francisco",
-            "deepLink": "https://www.mydomain.com/6159dbc5adfc4ef7ba1fc06f6855b739/0",
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/zgrupowanie-kadry-bez-lewandowskiego-organizm-daje-sygnal/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/zgrupowanie-kadry-bez-lewandowskiego-organizm-daje-sygnal/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
           },
           {
-            "articleId": "e6205960fd3646a79581c6f98ab9d9ac",
-            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1745609013.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
-            "country": "gb",
-            "language": "en",
-            "pubDate": "2024-03-09T12:53:32+00:00",
-            "title": "Russia’s European neighbors are lifting bans on landmines. Campaigners are horrified",
-            "description": "They are considered one of the world’s most dangerous, and indiscriminate, weapons. Yet five European countries have turned their backs on an international treaty on the use of landmines, citing the growing threat from Moscow.",
-            "sourceDomain": "cnn.com",
+            "articleId": "202505260000003",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/2d/2dsjc3re6oaozppre462c3g7raaapak3.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-26T08:14:17+02:00",
+            "title": "Kreml odpowiada na słowa Trumpa. \"Emocjonalne przeciążenie\"",
+            "description": "Rosyjskie władze skomentowały słowa Donalda Trumpa, który nazwał Władimira Putina \"szalonym\". - Mamy do czynienia z emocjonalnym przeciążeniem w tym kluczowym momencie - stwierdził rzecznik Kremla Dmitrij Pieskow. Podziękował również amerykańskiej administracji za pomoc w zorganizowaniu negocjacji pokojowych w sprawie wojny w Ukrainie.",
+            "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20240912,
+            "uploadedDayDate": 20250526,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "",
-                "topicCategoryName": "",
-                "topicId": "",
-                "topicName": ""
-              },
-              {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStory",
-                "topicName": "Top Story"
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
               }
             ],
             "isVideo": false,
@@ -129,37 +123,37 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://edition.cnn.com/2025/05/11/europe/europe-countries-landmine-ban-russia-intl",
-            "deepLink": "https://www.mydomain.com/e6205960fd3646a79581c6f98ab9d9ac/0",
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/kreml-odpowiada-na-slowa-trumpa-emocjonalne-przeciazenie/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/kreml-odpowiada-na-slowa-trumpa-emocjonalne-przeciazenie/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
           },
           {
-            "articleId": "252d00627eaa445b942c3f6f747c7a5c",
-            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213661167.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
-            "country": "gb",
-            "language": "en",
-            "pubDate": "2024-03-09T12:51:29+00:00",
-            "title": "Nikola Jokić arrives wearing Joker-inspired suit, helps Denver Nuggets to overtime playoff win over Oklahoma City Thunder",
-            "description": "Nikola Jokić lived up to his nickname on Friday, arriving at Ball Arena wearing a Joker-inspired purple and green suit before helping the Denver Nuggets to a dramatic, overtime 113-104 win over the Oklahoma City Thunder in Game 3 of their playoff series.",
-            "sourceDomain": "cnn.com",
+            "articleId": "202505260000004",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/9v/9vf5hmonv3obpbf5g581dajs5a2v4r7f.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-26T08:50:12+02:00",
+            "title": "Burza po spotkaniu Mentzena z Trzaskowskim. Prawicowi internauci o \"akcie zdrady\"",
+            "description": "W sobotę, po spotkaniu Rafała Trzaskowskiego ze Sławomirem Mentzenem, obaj politycy wyszli do pubu na piwo. Szeroko skomentowali to w sieci wyborcy zarówno Koalicji Obywatelskiej, jak i Konfederacji. Pojawiły się nawet komentarze o \"zdradzie ideologicznej\". Ekspert uważa, że elektorat tej drugiej formacji mógł częściowo się zdemobilizować przed II turą głosowania.",
+            "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20240912,
+            "uploadedDayDate": 20250526,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "sports",
-                "topicCategoryName": "Sports",
-                "topicId": "sports",
-                "topicName": "Sports"
+                "topicCategoryId": "swiat",
+                "topicCategoryName": "Świat",
+                "topicId": "swiat",
+                "topicName": "Świat"
               },
               {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStory",
-                "topicName": "Top Story"
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
               }
             ],
             "isVideo": false,
@@ -172,38 +166,38 @@
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
             },
-            "isNative": false,
-            "webContentUrl": "https://edition.cnn.com/2025/05/10/sport/nikola-jokic-joker-nuggets-thunder-nba-playoffs-spt-intl",
-            "deepLink": "https://www.mydomain.com/252d00627eaa445b942c3f6f747c7a5c/0",
+            "isNative": true,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
           },
           {
-            "articleId": "83a974a9bac94802977d22a41f8ffcb0",
-            "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/kelly-spill-33-with-her-husband-and-their-two-children-second-option.jpeg?c=16x9&q=h_653,w_1160,c_fill/f_webp",
-            "country": "gb",
-            "language": "en",
-            "pubDate": "2024-03-09T12:47:50.128000+00:00",
-            "title": "Immunotherapy helps certain cancer patients avoid surgery: ‘We hope this is the future’",
-            "description": "She held her emotions together when her surgeon told her that she might not be able to carry another baby — treatment with radiation can significantly affect fertility ",
-            "sourceDomain": "cnn.com",
+            "articleId": "202505260000005",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/eu/euuhnpohn4jr9znxgwbzd19zuuxx8tpa.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-26T10:19:12+02:00",
+            "title": "Zabrakło niewiele. Robert Lewandowski poza podium prestiżowej klasyfikacji",
+            "description": "Robert Lewandowski z 27 bramkami na koncie znalazł się na czwartym miejscu klasyfikacji Złotego Buta. Nagrodę dla najlepszego strzelca europejskich lig z 29 trafieniami na koncie zgarnął napastnik Realu Madryt - Kylian Mbappe.",
+            "sourceDomain": "polsatsport.pl",
             "paywall": false,
-            "uploadedDayDate": 20240912,
+            "uploadedDayDate": 20250526,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "health",
-                "topicCategoryName": "Health",
-                "topicId": "health",
-                "topicName": "Health"
+                "topicCategoryId": "sport",
+                "topicCategoryName": "Sport",
+                "topicId": "sport",
+                "topicName": "Sport"
               },
               {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStory",
-                "topicName": "Top Story"
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
               }
             ],
             "isVideo": false,
@@ -217,8 +211,8 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://edition.cnn.com/2025/05/05/health/immunotherapy-cancer-patients-study-wellness",
-            "deepLink": "https://www.mydomain.com/83a974a9bac94802977d22a41f8ffcb0/0",
+            "webContentUrl": "https://www.polsatsport.pl/robert-lewandowski/wiadomosc/2025-05-26/zabraklo-niewiele-robert-lewandowski-poza-podium-prestizowej-klasyfikacji/",
+            "deepLink": "https://www.polsatsport.pl/robert-lewandowski/wiadomosc/2025-05-26/zabraklo-niewiele-robert-lewandowski-poza-podium-prestizowej-klasyfikacji/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false

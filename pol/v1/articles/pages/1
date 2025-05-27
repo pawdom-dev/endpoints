@@ -192,18 +192,20 @@
             "type": "categories",
             "topicCategoryIds": [
               "najnowsze",
+              "polska",
               "swiat",
               "sport"
             ],
             "topicCategoryNames": [
               "Najnowsze",
+              "Polska",
               "Świat",
               "Sport"
             ],
             "categoriesLimits": [
               {
                 "topicCategoryId": "sport",
-                "maxPage": 1
+                "maxPage": 4
               }
             ]
           },
@@ -261,16 +263,16 @@
       "content": {
         "page": [
           {
-            "articleId": "202505260000001",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/g2/g2vc5nap4vvq3mimtxsyse4udsibg7ex.jpg",
+            "articleId": "202505270000001",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/qr/qr5rkuykwyr7ipgnyj1tztcpcq48mv1h.jpg",
             "country": "pl",
             "language": "pl",
-            "pubDate": "2025-05-26T08:15:12+02:00",
-            "title": "Trump przejęty zachowaniem Putina. Padły gorzkie słowa. \"Zupełnie zwariował\"",
-            "description": "Donald Trump skrytykował serię ataków Rosji na Ukrainę. W ocenie prezydenta USA Władimir Putin \"zupełnie zwariował\". Jak zapowiadał, w związku z powtarzającymi się atakami amerykańska administracja ma rozważyć wprowadzenie nowych sankcji na Rosję.",
+            "pubDate": "2025-05-27T10:13:12+02:00",
+            "title": "Koniec ograniczeń na niemiecką broń dla Ukrainy. Kreml: Niebezpieczna decyzja",
+            "description": "Niemcy, podobnie jak Francja, Wielka Brytania i USA, znoszą ograniczenia dotyczące zasięgu rażenia wysyłanego do Ukrainy uzbrojenia - oświadczył kanclerz Friedrich Merz podczas WDR Europaforum 2025. - Oznacza to, że Ukraina będzie mogła się bronić kierując rakiety na terytorium Rosji - wyjaśnił. Kreml stanowczo krytykuje decyzję Berlina.",
             "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20250526,
+            "uploadedDayDate": 20250527,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
@@ -298,71 +300,33 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/niemcy-znosza-ograniczenia-na-bron-dla-ukrainy-kreml-grzmi/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/niemcy-znosza-ograniczenia-na-bron-dla-ukrainy-kreml-grzmi/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
           },
           {
-            "articleId": "202505260000002",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/qi/qi8btvykj5oor5gboe8wwg9ds59sy31m.png",
+            "articleId": "202505270000002",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/wn/wnv5qdieuxpdoytcqqdzxasr8h7vdf56.jpg",
             "country": "pl",
             "language": "pl",
-            "pubDate": "2025-05-26T14:31:12+02:00",
-            "title": "Zgrupowanie kadry bez Lewandowskiego. \"Organizm daje sygnał\"",
-            "description": "Robert Lewandowski nie pojawi się na czerwcowym zgrupowaniu reprezentacji Polski. Kapitan piłkarskiej kadry tłumaczy tę decyzję zmęczeniem po wyczerpującym sezonie. \"Organizm daje sygnał, że trzeba odetchnąć\" - napisał \"Lewy\" na Instagramie.",
+            "pubDate": "2025-05-27T16:12:12+02:00",
+            "title": "Wraca sprawa kawalerki Nawrockiego. Jest komunikat ze służb",
+            "description": "Mimo negatywnej rekomendacji funkcjonariusza ABW w sprawie Karola Nawrockiego sprzed kilku lat ówczesny Szef Agencji wydał mu poświadczenie bezpieczeństwa - przekazał rzecznik specsłużb Jacek Dobrzyński. \"Pisowskie szefostwo Agencji z nieznanych powodów jej nie uwzględniło\" - napisał Donald Tusk. Głos zabrał także poseł PiS Andrzej Śliwka, który powiedział, że \"za grosz nie ufa służbom\".",
             "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20250526,
+            "uploadedDayDate": 20250527,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
               },
               {
-                "topicCategoryId": "sport",
-                "topicCategoryName": "Sport",
-                "topicId": "sport",
-                "topicName": "Sport"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/zgrupowanie-kadry-bez-lewandowskiego-organizm-daje-sygnal/",
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/zgrupowanie-kadry-bez-lewandowskiego-organizm-daje-sygnal/",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false
-          },
-          {
-            "articleId": "202505260000003",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/2d/2dsjc3re6oaozppre462c3g7raaapak3.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-26T08:14:17+02:00",
-            "title": "Kreml odpowiada na słowa Trumpa. \"Emocjonalne przeciążenie\"",
-            "description": "Rosyjskie władze skomentowały słowa Donalda Trumpa, który nazwał Władimira Putina \"szalonym\". - Mamy do czynienia z emocjonalnym przeciążeniem w tym kluczowym momencie - stwierdził rzecznik Kremla Dmitrij Pieskow. Podziękował również amerykańskiej administracji za pomoc w zorganizowaniu negocjacji pokojowych w sprawie wojny w Ukrainie.",
-            "sourceDomain": "polsatnews.pl",
-            "paywall": false,
-            "uploadedDayDate": 20250526,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
                 "topicCategoryId": "najnowsze",
                 "topicCategoryName": "Najnowsze",
                 "topicId": "najnowsze",
@@ -380,20 +344,20 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/kreml-odpowiada-na-slowa-trumpa-emocjonalne-przeciazenie/",
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/kreml-odpowiada-na-slowa-trumpa-emocjonalne-przeciazenie/",
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
           },
           {
-            "articleId": "202505260000004",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/9v/9vf5hmonv3obpbf5g581dajs5a2v4r7f.jpg",
+            "articleId": "202505270000003",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/75/75d1624kgvzixy3x2uxi1fuw61jwfwf3.jpg",
             "country": "pl",
             "language": "pl",
-            "pubDate": "2025-05-26T08:50:12+02:00",
-            "title": "Burza po spotkaniu Mentzena z Trzaskowskim. Prawicowi internauci o \"akcie zdrady\"",
-            "description": "W sobotę, po spotkaniu Rafała Trzaskowskiego ze Sławomirem Mentzenem, obaj politycy wyszli do pubu na piwo. Szeroko skomentowali to w sieci wyborcy zarówno Koalicji Obywatelskiej, jak i Konfederacji. Pojawiły się nawet komentarze o \"zdradzie ideologicznej\". Ekspert uważa, że elektorat tej drugiej formacji mógł częściowo się zdemobilizować przed II turą głosowania.",
+            "pubDate": "2025-05-27T06:12:17+02:00",
+            "title": "Wyniki losowania Lotto 26 maja. Sprawdź wygrane liczby",
+            "description": "W poniedziałek, 26 maja 2025 roku, odbyły się losowania gier liczbowych prowadzonych przez Totalizator Sportowy. Które liczby okazały się szczęśliwe? Podajemy wyniki losowania: Ekstra Pensja, Ekstra Premia, Kaskada, Mini Lotto, Multi Multi.",
             "sourceDomain": "polsatnews.pl",
             "paywall": false,
             "uploadedDayDate": 20250526,
@@ -401,8 +365,45 @@
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "swiat",
-                "topicCategoryName": "Świat",
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wyniki-losowania-lotto-26-maja-sprawdz-wygrane-liczby/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wyniki-losowania-lotto-26-maja-sprawdz-wygrane-liczby/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "202505270000004",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/1k/1kdsce1bf5mobuhsegcwdvfa1yp8nj8v.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-27T09:13:12+02:00",
+            "title": "\"Dokładnie wiedział, co robi\". Sikorski o kulisach spotkania Trzaskowski - Mentzen",
+            "description": "Minister spraw zagranicznych, który towarzyszył kandydatowi KO na prezydenta, mówił, że \"znalazł wspólny język z ludźmi, którzy głosują na kogoś innego\". Jak ocenił szef MSZ, polityk Konfederacji \"dokładnie wiedział, co robi\".",
+            "paywall": false,
+            "uploadedDayDate": 20250527,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
                 "topicId": "swiat",
                 "topicName": "Świat"
               },
@@ -413,7 +414,7 @@
                 "topicName": "Najnowsze"
               }
             ],
-            "isVideo": false,
+            "isVideo": true,
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
@@ -424,31 +425,31 @@
               "isDescriptionImportant": false
             },
             "isNative": true,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
+            "webContentUrl": "https://www.polsatnews.pl/wideo/dokladnie-wiedzial-co-robi-sikorski-o-kulisach-spotkania-trzaskowski-mentzen_6848261/",
+            "deepLink": "https://www.polsatnews.pl/wideo/dokladnie-wiedzial-co-robi-sikorski-o-kulisach-spotkania-trzaskowski-mentzen_6848261/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
           },
           {
-            "articleId": "202505260000005",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/eu/euuhnpohn4jr9znxgwbzd19zuuxx8tpa.jpg",
+            "articleId": "202505270000005",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/bj/bjvppwz34mrp62mzip4712f1qv3115yv.jpg",
             "country": "pl",
             "language": "pl",
-            "pubDate": "2025-05-26T10:19:12+02:00",
-            "title": "Zabrakło niewiele. Robert Lewandowski poza podium prestiżowej klasyfikacji",
-            "description": "Robert Lewandowski z 27 bramkami na koncie znalazł się na czwartym miejscu klasyfikacji Złotego Buta. Nagrodę dla najlepszego strzelca europejskich lig z 29 trafieniami na koncie zgarnął napastnik Realu Madryt - Kylian Mbappe.",
-            "sourceDomain": "polsatsport.pl",
+            "pubDate": "2025-05-27T12:26:12+02:00",
+            "title": "Tragiczny wypadek na A1. Sebastian M. usłyszał zarzut",
+            "description": "Sebastian M. usłyszał zarzut spowodowania wypadku - przekazała prok. Izabela Knapik z Prokuratury Okręgowej. Mężczyzna podejrzany jest o spowodowanie tragicznego zdarzenia na autostradzie A1, w którym zginęła 3-osobowa rodzina.",
+            "sourceDomain": "polsatnews.pl",
             "paywall": false,
-            "uploadedDayDate": 20250526,
+            "uploadedDayDate": 20250527,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "sport",
-                "topicCategoryName": "Sport",
-                "topicId": "sport",
-                "topicName": "Sport"
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
               },
               {
                 "topicCategoryId": "najnowsze",
@@ -468,8 +469,8 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatsport.pl/robert-lewandowski/wiadomosc/2025-05-26/zabraklo-niewiele-robert-lewandowski-poza-podium-prestizowej-klasyfikacji/",
-            "deepLink": "https://www.polsatsport.pl/robert-lewandowski/wiadomosc/2025-05-26/zabraklo-niewiele-robert-lewandowski-poza-podium-prestizowej-klasyfikacji/",
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/tragiczny-wypadek-na-a1-sebastian-m-uslyszal-zarzut/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/tragiczny-wypadek-na-a1-sebastian-m-uslyszal-zarzut/",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false
