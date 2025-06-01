@@ -14,6 +14,16 @@
         "noButton": "Później",
         "askAgainAfterDays": 3
       },
+      "appBar": {
+        "contactUs": {
+          "isOn": true,
+          "title": "Your news",
+          "description": "Have you seen an important event?\n\nSend a photo or video. Tell us what happened and where. Your information may appear on the portal.",
+          "yesButton": "Compose email",
+          "noButton": "Back",
+          "email": "aha@gmail.com"
+        }
+      },
       "settings": {
         "bookmarks": {
           "id": "zakladki",
@@ -484,6 +494,7 @@
         "id": "polsatNews",
         "name": "Polsat News",
         "description": "Najnowsze wiadomości z kraju i ze świata",
+        "isPlayerOn": true,
         "videoUrl": "https://redirector.redefine.pl/cppolska/urs93rx5arz1vgqh75bnxtuttunvqnd3.mp4",
         "videoAspectRatioWidth": 16,
         "videoAspectRatioHeight": 9,
@@ -549,6 +560,7 @@
         "id": "polsatSport",
         "name": "Polsat Sport",
         "description": "Najważniejsze i najciekawsze wydarzenia sportowe z udziałem zarówno polskich sportowców, jak i te o międzynarodowym charakterze.",
+        "isPlayerOn": true,
         "videoUrl": "https://redirector.redefine.pl/cppolska/yh5wnfehkamizgwp1b2iozmzk343k6z5.mp4",
         "videoAspectRatioWidth": 16,
         "videoAspectRatioHeight": 9,
@@ -612,6 +624,7 @@
       }
     ],
     "infoLine": {
+      "isOn": true,
       "text": "W drugiej turze wyborów prezydenckich poparcie dla Rafała Trzaskowskiego i Karola Nawrockiego rozkłada się niemal równomiernie, z nieznaczną przewagą kandydata KO poniżej jednego punktu procentowego - wskazuje nowy sondaż IBRiS. W zaplanowanym na 1 czerwca głosowaniu udział zadeklarowało trzy czwarte respondentów.",
       "isTextLtr": true,
       "textColor": 4294967295,
