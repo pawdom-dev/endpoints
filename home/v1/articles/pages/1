@@ -14,6 +14,16 @@
         "noButton": "Later",
         "askAgainAfterDays": 3
       },
+      "appBar": {
+        "contactUs": {
+          "isOn": true,
+          "title": "Your news",
+          "description": "Have you seen an important event?\n\nSend a photo or video. Tell us what happened and where. Your information may appear on the portal.",
+          "yesButton": "Compose email",
+          "noButton": "Back",
+          "email": "aha@gmail.com"
+        }
+      },
       "settings": {
         "bookmarks": {
           "id": "bookmarks",
@@ -496,6 +506,7 @@
         "id": "liveTvdEnglish",
         "name": "Live TV - TVD English",
         "description": "latest news",
+        "isPlayerOn": true,
         "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
         "videoAspectRatioWidth": 16,
         "videoAspectRatioHeight": 9,
@@ -561,6 +572,7 @@
         "id": "liveTvdPolish",
         "name": "Live TV - TVD Polish",
         "description": "latest news",
+        "isPlayerOn": true,
         "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
         "videoAspectRatioWidth": 16,
         "videoAspectRatioHeight": 9,
@@ -624,6 +636,7 @@
       }
     ],
     "infoLine": {
+      "isOn": true,
       "text": "## Google founder Sergey Brin recently conceded missteps in gen AI but said the company will figure out the right business models; analysts say online retailers will be more competitive in search within their ecosystems. **@@@@@@",
       "isTextLtr": true,
       "textColor": 4294967295,
