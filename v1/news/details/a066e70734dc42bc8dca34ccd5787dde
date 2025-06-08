@@ -2,13 +2,13 @@
   "data": {
     "details": {
       "articleId": "a066e70734dc42bc8dca34ccd5787dde",
-      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16A42/production/_104383729_fire.jpg",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108154968-1749094327932-gettyimages-2217999148-TRUMP_SOIREE.jpeg?v=1749094388&w=1260&h=709&ffmt=webp&vtcrop=y",
       "country": "gb",
       "language": "en",
       "pubDate": "2024-03-10T15:38:48+00:00",
-      "title": "Bangor flats fire: Person taken to hospital as a precaution",
-      "description": "It is believed the fire was started deliberately and was caused by pouring an accelerant over a door.",
-      "sourceDomain": "bbc.co.uk",
+      "title": "Trump heads to the Middle East with oil, trade and nuclear ambitions on the table",
+      "description": "Trump has long enjoyed a warm relationship with Gulf Arab states, in particular the UAE and Saudi Arabia, where his children have several business ventures and planned real estate projects.",
+      "sourceDomain": "cnbc.com",
       "paywall": false,
       "uploadedDayDate": 20240914,
       "positionLift": 0,
@@ -38,7 +38,7 @@
         "isDescriptionImportant": false
       },
       "isNative": false,
-      "webContentUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
+      "webContentUrl": "https://www.cnbc.com/2025/05/09/trump-heads-to-middle-east-with-oil-arms-nuclear-ambitions-in-focus.html",
       "deepLink": "https://www.mydomain.com/a066e70734dc42bc8dca34ccd5787dde/0",
       "nativeContent": [],
       "contentAuthors": [],
