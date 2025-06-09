@@ -213,7 +213,7 @@
               "general"
             ],
             "topicCategoryNames": [
-              "Mega News",
+              "Top Stories",
               "Business",
               "Sports",
               "Auto",
@@ -637,7 +637,7 @@
     ],
     "infoLine": {
       "isOn": true,
-      "text": "## Google founder Sergey Brin recently conceded missteps in gen AI but said the company will figure out the right business models; analysts say online retailers will be more competitive in search within their ecosystems. **@@@@@@",
+      "text": "Google founder Sergey Brin recently conceded missteps in gen AI but said the company will figure out the right business models; analysts say online retailers will be more competitive in search within their ecosystems.",
       "isTextLtr": true,
       "textColor": 4294967295,
       "backgroundColor": 4292345856
