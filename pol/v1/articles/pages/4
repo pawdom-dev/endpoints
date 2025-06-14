@@ -1,0 +1,230 @@
+{
+  "data": {
+    "articles": {
+      "content": {
+        "page": [
+          {
+            "articleId": "202505220000001",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/b9/b9zb28ud4adhfcan6d2gouf4rzgdm3mm.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-22T09:58:12+02:00",
+            "title": "\"Bałtyk stanie się miejscem permanentnej konfrontacji\". Premier o rosyjskim statku \"floty cieni\"",
+            "description": "To się może powtarzać w przyszłości coraz intensywniej. Bałtyk stanie się miejscem permanentnej konfrontacji - powiedział premier Donald Tusk odnosząc się do incydentu z rosyjskim statkiem z tzw. floty cieni. Jak dodał, to jest agresja wymierzona wprost w infrastrukturę.",
+            "sourceDomain": "polsatnews.pl",
+            "paywall": false,
+            "uploadedDayDate": 20250522,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
+              },
+              {
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/baltyk-stanie-sie-miejscem-permanentnej-konfrontacji-tusk-po-naradzie/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/baltyk-stanie-sie-miejscem-permanentnej-konfrontacji-tusk-po-naradzie/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "202505220000002",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/i8/i8ssc9qp9t73dcos1xtvpbi2sc1o2j6y.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-22T09:58:12+02:00",
+            "title": "W polskiej armii służą nie tylko Polacy. MON ujawniło dane",
+            "description": "W polskiej armii służy około 250 osób z podwójnym obywatelstwem - informuje \"Rzeczpospolita\". Z danych udostępnionych przez MON wynika, że legitymują się oni paszportami z 27 krajów. Jak przekazał wiceminister obrony Paweł Bejda ośmiu z nich ma obywatelstwo ukraińskie.",
+            "sourceDomain": "polsatnews.pl",
+            "paywall": false,
+            "uploadedDayDate": 20250522,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
+              },
+              {
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/w-polskiej-armii-nie-tylko-polacy-mon-ujawnilo-dane/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/w-polskiej-armii-nie-tylko-polacy-mon-ujawnilo-dane/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "202505220000003",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/u2/u2fj8mtr1bqibvkzjch72cm8zrqc9amw.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-22T07:34:17+02:00",
+            "title": "Saperzy przy więzieniu w Iławie. Mieszkańcy miasta wezwani do ewakuacji",
+            "description": "Przy zakładzie karnym w Iławie (woj. warmińsko-mazurskie) znaleziono niewybuchy. W związku z planowaną akcją saperów w okolicy zarządzono ewakuację mieszkańców. W tym czasie nieczynnych będzie również kilka lokali usługowych, zmieniona została również trasa komunikacji miejskiej.",
+            "sourceDomain": "polsatnews.pl",
+            "paywall": false,
+            "uploadedDayDate": 20250522,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
+              },
+              {
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/niebezpieczne-odkrycie-w-ilawie-mieszkancy-wezwani-do-ewakuacji/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/niebezpieczne-odkrycie-w-ilawie-mieszkancy-wezwani-do-ewakuacji/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "202505220000004",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/od/odupb6rfezoeq16w77e3w7c9c8qramnj.jpg",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-22T08:50:12+02:00",
+            "title": "Trump dostał latający prezent. Jest wart 400 mln dolarów",
+            "description": "\"To prawdopodobnie najdroższy podarunek od obcego rządu w historii\" - tak amerykańskie media określiły wart 400 mln dolarów samolot Boeing 747, który rząd Kataru podarował Donaldowi Trumpowi. Prezydent USA chce, żeby maszyna została nowym Air Force One - czyli oficjalnym prezydenckim statkiem powietrznym",
+            "sourceDomain": "polsatnews.pl",
+            "paywall": false,
+            "uploadedDayDate": 20250522,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "swiat",
+                "topicCategoryName": "Świat",
+                "topicId": "swiat",
+                "topicName": "Świat"
+              },
+              {
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/trump-dostal-latajacy-prezent-jest-wart-400-mln-dolarow/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/trump-dostal-latajacy-prezent-jest-wart-400-mln-dolarow/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          },
+          {
+            "articleId": "202505220000005",
+            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/h2/h29j9dijzezj81zze3f4hnm61bq87dmq.jfif",
+            "country": "pl",
+            "language": "pl",
+            "pubDate": "2025-05-26T10:19:12+02:00",
+            "title": "Władysław Kosiniak-Kamysz w \"Graffiti\"",
+            "description": "Gościem czwartkowego \"Graffiti\" będzie minister obrony narodowej Władysław Kosiniak-Kamysz. Prowadzący Marcin Fijołek zapyta polityka m. in. o incydent na Bałtyku z udziałem rosyjskiej floty cieni oraz o zbliżającą się drugą turę wyborów prezydenckich. Transmisja w Polsacie, Polsat News, Interii i polsatnews.pl od godziny 7:40.",
+            "sourceDomain": "polsatnews.pl",
+            "paywall": false,
+            "uploadedDayDate": 20250522,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "polska",
+                "topicCategoryName": "Polska",
+                "topicId": "polska",
+                "topicName": "Polska"
+              },
+              {
+                "topicCategoryId": "najnowsze",
+                "topicCategoryName": "Najnowsze",
+                "topicId": "najnowsze",
+                "topicName": "Najnowsze"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/wladyslaw-kosiniak-kamysz-w-graffiti-transmisja-w-polsat-news/",
+            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/wladyslaw-kosiniak-kamysz-w-graffiti-transmisja-w-polsat-news/",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false
+          }
+        ]
+      }
+    }
+  }
+}
