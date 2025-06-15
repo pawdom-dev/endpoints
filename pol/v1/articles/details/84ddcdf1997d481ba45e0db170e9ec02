@@ -39,6 +39,7 @@
       },
       "isNative": true,
       "webContentUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+      "isForcingDarkModeInWeb": true,
       "deepLink": "https://www.mydomain.com/84ddcdf1997d481ba45e0db170e9ec02/0",
       "nativeContent": [
         {
