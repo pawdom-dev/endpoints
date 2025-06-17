@@ -45,7 +45,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-26T08:15:12+02:00"
           },
           {
             "articleId": "202505260000002",
@@ -90,7 +91,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/zgrupowanie-kadry-bez-lewandowskiego-organizm-daje-sygnal/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-26T14:31:12+02:00"
           },
           {
             "articleId": "202505260000003",
@@ -129,7 +131,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/kreml-odpowiada-na-slowa-trumpa-emocjonalne-przeciazenie/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-26T08:14:17+02:00"
           },
           {
             "articleId": "202505260000004",
@@ -174,7 +177,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/burza-po-spotkaniu-mentzena-z-trzaskowskim-prawicowi-internauci-o-akcie-zdrady/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-26T08:50:12+02:00"
           },
           {
             "articleId": "202505260000005",
@@ -219,7 +223,8 @@
             "deepLink": "https://www.polsatsport.pl/robert-lewandowski/wiadomosc/2025-05-26/zabraklo-niewiele-robert-lewandowski-poza-podium-prestizowej-klasyfikacji/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-26T10:19:12+02:00"
           }
         ]
       }

@@ -74,7 +74,8 @@
               "deepLink": "https://www.polsatnews.pl/o-nas/",
               "nativeContent": [],
               "contentAuthors": [],
-              "isSettings": true
+              "isSettings": true,
+              "updateDate": "2024-03-10T15:38:48+00:00"
             }
           },
           {
@@ -110,7 +111,8 @@
               "deepLink": "https://www.polsatnews.pl/regulamin/",
               "nativeContent": [],
               "contentAuthors": [],
-              "isSettings": true
+              "isSettings": true,
+              "updateDate": "2024-03-10T15:41:48+00:00"
             }
           }
         ]
@@ -317,7 +319,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/niemcy-znosza-ograniczenia-na-bron-dla-ukrainy-kreml-grzmi/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-27T10:13:12+02:00"
           },
           {
             "articleId": "202505270000002",
@@ -362,7 +365,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-27T16:12:12+02:00"
           },
           {
             "articleId": "202505270000003",
@@ -401,7 +405,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wyniki-losowania-lotto-26-maja-sprawdz-wygrane-liczby/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-27T06:12:17+02:00"
           },
           {
             "articleId": "202505270000004",
@@ -446,7 +451,8 @@
             "deepLink": "https://www.polsatnews.pl/wideo/dokladnie-wiedzial-co-robi-sikorski-o-kulisach-spotkania-trzaskowski-mentzen_6848261/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-27T09:13:12+02:00"
           },
           {
             "articleId": "202505270000005",
@@ -491,7 +497,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/tragiczny-wypadek-na-a1-sebastian-m-uslyszal-zarzut/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-27T12:26:12+02:00"
           }
         ]
       }

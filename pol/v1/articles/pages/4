@@ -46,7 +46,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/baltyk-stanie-sie-miejscem-permanentnej-konfrontacji-tusk-po-naradzie/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-22T09:58:12+02:00"
           },
           {
             "articleId": "202505220000002",
@@ -91,7 +92,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/w-polskiej-armii-nie-tylko-polacy-mon-ujawnilo-dane/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-22T09:58:12+02:00"
           },
           {
             "articleId": "202505220000003",
@@ -136,7 +138,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/niebezpieczne-odkrycie-w-ilawie-mieszkancy-wezwani-do-ewakuacji/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-22T07:34:17+02:00"
           },
           {
             "articleId": "202505220000004",
@@ -181,7 +184,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/trump-dostal-latajacy-prezent-jest-wart-400-mln-dolarow/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-22T08:50:12+02:00"
           },
           {
             "articleId": "202505220000005",
@@ -226,7 +230,8 @@
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/wladyslaw-kosiniak-kamysz-w-graffiti-transmisja-w-polsat-news/",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2025-05-26T10:19:12+02:00"
           }
         ]
       }
