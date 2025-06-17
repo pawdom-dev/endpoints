@@ -42,6 +42,7 @@
             },
             "isNative": false,
             "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
+            "isForcingDarkModeInWeb": true,
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-26/trump-przejety-zachowaniem-putina-padly-gorzkie-slowa-zupelnie-zwariowal/",
             "nativeContent": [],
             "contentAuthors": [],
