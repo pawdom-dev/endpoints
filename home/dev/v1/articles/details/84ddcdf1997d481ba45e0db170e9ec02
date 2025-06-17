@@ -47,6 +47,10 @@
           "text": "Why Walmart’s quick success in generative AI search should have Google worried"
         },
         {
+          "type": "pubDate",
+          "isUpdate": true
+        },
+        {
           "type": "image",
           "url": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1260&h=709&ffmt=webp&vtcrop=y",
           "description": "Doug McMillon, chief executive officer of Walmart Inc., left, and Satya Nadella, chief executive officer of Microsoft Corp., during the 2024 CES event in Las Vegas, Nevada, US, on Tuesday, Jan. 9, 2024.",
@@ -84,6 +88,10 @@
               "text": "app"
             }
           ]
+        },
+        {
+          "type": "authors",
+          "isDescription": true
         }
       ],
       "contentAuthors": [
@@ -96,7 +104,8 @@
           "description": "He reported from hospitals"
         }
       ],
-      "isSettings": false
+      "isSettings": false,
+      "updateDate": "2024-03-10T15:41:48+00:00"
     }
   }
 }

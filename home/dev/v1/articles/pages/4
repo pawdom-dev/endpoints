@@ -46,7 +46,8 @@
             "deepLink": "https://www.mydomain.com/16bc603a7a4649b1aff687cefce4453f/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-09T12:46:46+00:00"
           },
           {
             "articleId": "517bed880a1e4faeaa0aa33135556ea3",
@@ -91,7 +92,8 @@
             "deepLink": "https://www.mydomain.com/517bed880a1e4faeaa0aa33135556ea3/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-09T12:40:43+00:00"
           },
           {
             "articleId": "6cdac77c243e4b84983245a3831e09d4",
@@ -136,7 +138,8 @@
             "deepLink": "https://www.mydomain.com/6cdac77c243e4b84983245a3831e09d4/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-09T12:39:04+00:00"
           },
           {
             "articleId": "5adc1c3360f7488482ed9cc1bfe93071",
@@ -181,7 +184,8 @@
             "deepLink": "https://www.mydomain.com/5adc1c3360f7488482ed9cc1bfe93071/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-09T12:37:08+00:00"
           },
           {
             "articleId": "62666b0cb44a43b2bcf7ddbc07d3eb1f",
@@ -226,7 +230,8 @@
             "deepLink": "https://www.mydomain.com/62666b0cb44a43b2bcf7ddbc07d3eb1f/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-09T12:36:11+00:00"
           },
           {
             "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
@@ -324,7 +329,8 @@
                 "description": "He reported from hospitals"
               }
             ],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-10T15:41:48+00:00"
           }
         ]
       }

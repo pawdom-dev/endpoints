@@ -329,7 +329,8 @@
             "deepLink": "https://www.mydomain.com/0d7aee0e2e2f49d2bd45f4e9bd2c7505/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-10T15:45:12+00:00"
           },
           {
             "articleId": "c1aa51109c9f45268349932f18a60f7b",
@@ -368,7 +369,8 @@
             "deepLink": "https://www.mydomain.com/c1aa51109c9f45268349932f18a60f7b/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-10T15:44:48+00:00"
           },
           {
             "articleId": "104c2a1fcfa6416aaea27578fa2799d6",
@@ -413,7 +415,8 @@
             "deepLink": "https://www.mydomain.com/104c2a1fcfa6416aaea27578fa2799d6/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-10T15:44:36.705000+00:00"
           },
           {
             "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
@@ -458,7 +461,8 @@
             "deepLink": "https://www.mydomain.com/84ddcdf1997d481ba45e0db170e9ec02/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-10T15:41:48+00:00"
           },
           {
             "articleId": "a066e70734dc42bc8dca34ccd5787dde",
@@ -503,7 +507,8 @@
             "deepLink": "https://www.mydomain.com/a066e70734dc42bc8dca34ccd5787dde/0",
             "nativeContent": [],
             "contentAuthors": [],
-            "isSettings": false
+            "isSettings": false,
+            "updateDate": "2024-03-10T15:38:48+00:00"
           }
         ]
       }
