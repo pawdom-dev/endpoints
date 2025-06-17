@@ -47,10 +47,6 @@
           "text": "Why Walmart’s quick success in generative AI search should have Google worried"
         },
         {
-          "type": "authors",
-          "isDescription": true
-        },
-        {
           "type": "pubDate",
           "isUpdate": true
         },
@@ -92,6 +88,10 @@
               "text": "app"
             }
           ]
+        },
+        {
+          "type": "authors",
+          "isDescription": true
         }
       ],
       "contentAuthors": [
