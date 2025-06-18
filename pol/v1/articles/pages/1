@@ -124,16 +124,11 @@
             "numberOfArticlesAfterAd": 10
           },
           "articleDetails": {
-            "numberOfParagraphsBeforeAd": 1
+            "numberOfParagraphsBeforeAd": 2
           }
         },
         "android": [
           [
-            {
-              "adUnitId": "ca-app-pub-3940256099942544/2247696110",
-              "type": "admobNativeMedium",
-              "noSdkAdRefreshInSec": 25
-            },
             {
               "adUnitId": "ca-app-pub-3940256099942544/9214589741",
               "type": "admobBannerMedium",
@@ -146,6 +141,11 @@
             }
           ],
           [
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/2247696110",
+              "type": "admobNativeMedium",
+              "noSdkAdRefreshInSec": 25
+            },
             {
               "adUnitId": "ca-app-pub-3940256099942544/3986624511",
               "type": "admobNativeMedium",
