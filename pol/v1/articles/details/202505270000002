@@ -92,7 +92,7 @@
           "paragraphs": [
             {
               "type": "boldText",
-              "text": "ZOBACZ:"
+              "text": "ZOBACZ: "
             },
             {
               "type": "link",
