@@ -42,7 +42,22 @@
       "isForcingDarkModeInWeb": true,
       "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
       "nativeContent": [],
-      "contentAuthors": [],
+      "contentAuthors": [
+        {
+          "type": "header",
+          "text": "Wraca sprawa kawalerki Nawrockiego. Jest komunikat ze służb"
+        },
+        {
+          "type": "pubDate",
+          "isUpdate": true
+        },
+        {
+          "type": "image",
+          "url": "https://ipla.pluscdn.pl/dituel/cp/wn/wnv5qdieuxpdoytcqqdzxasr8h7vdf56.jpg",
+          "description": "Wraca sprawa kawalerki Nawrockiego. Jest komunikat ze służb",
+          "source": "Polsat News"
+        }
+      ],
       "isSettings": false,
       "updateDate": "2025-05-27T18:12:12+02:00"
     }
