@@ -86,6 +86,37 @@
               "text": "Głos w tej sprawie na platformie X zabrał również premier Donald Tusk. Jak napisał, odnosząc się do negatywnej opinii funkcjonariusza ABW w sprawie Karola Nawrockiego sprzed kilku lat, \"pisowskie szefostwo Agencji z nieznanych powodów jej nie uwzględniło\"."
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "boldText",
+              "text": "ZOBACZ:"
+            },
+            {
+              "type": "link",
+              "text": "Oburzenie w PiS po wywiadzie Donalda Tuska. Podważają wiarygodność relacji",
+              "url": "https://www.polsatnews.pl/wiadomosc/2025-05-26/pis-oburzone-po-wywiadzie-donalda-tuska-podwazaja-wiarygodnosc-relacji/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "\"Badający sprawę Nawrockiego gdański funkcjonariusz ABW w 2021 roku wydał negatywną opinię, ale "
+            },
+            {
+              "type": "boldText",
+              "text": "pisowskie szefostwo Agencji"
+            },
+            {
+              "type": "text",
+              "text": " z nieznanych powodów jej nie uwzględniło. Ówczesny szef ABW jest dziś doradcą prezydenta Dudy\" - napisał."
+            }
+          ]
         }
       ],
       "contentAuthors": [],
