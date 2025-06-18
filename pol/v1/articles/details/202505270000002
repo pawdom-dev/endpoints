@@ -55,6 +55,37 @@
           "url": "https://ipla.pluscdn.pl/dituel/cp/wn/wnv5qdieuxpdoytcqqdzxasr8h7vdf56.jpg",
           "description": "Wraca sprawa kawalerki Nawrockiego. Jest komunikat ze służb",
           "source": "Polsat News"
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "boldText",
+              "text": "Mimo negatywnej rekomendacji funkcjonariusza ABW w sprawie Karola Nawrockiego sprzed kilku lat ówczesny Szef Agencji wydał mu poświadczenie bezpieczeństwa - przekazał rzecznik specsłużb Jacek Dobrzyński. \"Pisowskie szefostwo Agencji z nieznanych powodów jej nie uwzględniło\" - napisał Donald Tusk. Głos zabrał także poseł PiS Andrzej Śliwka, który powiedział, że \"za grosz nie ufa służbom\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "\"Dysponujący całością wiedzy, w tym między innymi na temat negatywnej rekomendacji funkcjonariusza analizującego akta postępowania, ówczesny Szef Agencji Bezpieczeństwa Wewnętrznego Krzysztof Wacławek (obecny doradca Prezydenta RP) podjął decyzję o wydaniu Karolowi Nawrockiemu poświadczenia bezpieczeństwa\" - napisał na platformie X."
+            }
+          ]
+        },
+        {
+          "type": "header",
+          "text": "Donald Tusk o poświadczeniu Nawrockiego. Wskazał na byłego szefa ABW: To doradca Dudy"
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Głos w tej sprawie na platformie X zabrał również premier Donald Tusk. Jak napisał, odnosząc się do negatywnej opinii funkcjonariusza ABW w sprawie Karola Nawrockiego sprzed kilku lat, \"pisowskie szefostwo Agencji z nieznanych powodów jej nie uwzględniło\"."
+            }
+          ]
         }
       ],
       "contentAuthors": [],
