@@ -1,0 +1,50 @@
+{
+  "data": {
+    "details": {
+      "articleId": "202505270000002",
+      "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/wn/wnv5qdieuxpdoytcqqdzxasr8h7vdf56.jpg",
+      "country": "pl",
+      "language": "pl",
+      "pubDate": "2025-05-27T16:12:12+02:00",
+      "title": "Wraca sprawa kawalerki Nawrockiego. Jest komunikat ze służb",
+      "description": "Mimo negatywnej rekomendacji funkcjonariusza ABW w sprawie Karola Nawrockiego sprzed kilku lat ówczesny Szef Agencji wydał mu poświadczenie bezpieczeństwa - przekazał rzecznik specsłużb Jacek Dobrzyński. \"Pisowskie szefostwo Agencji z nieznanych powodów jej nie uwzględniło\" - napisał Donald Tusk. Głos zabrał także poseł PiS Andrzej Śliwka, który powiedział, że \"za grosz nie ufa służbom\".",
+      "sourceDomain": "polsatnews.pl",
+      "paywall": false,
+      "uploadedDayDate": 20250527,
+      "positionLift": 0,
+      "isHidden": false,
+      "topics": [
+        {
+          "topicCategoryId": "polska",
+          "topicCategoryName": "Polska",
+          "topicId": "polska",
+          "topicName": "Polska"
+        },
+        {
+          "topicCategoryId": "najnowsze",
+          "topicCategoryName": "Najnowsze",
+          "topicId": "najnowsze",
+          "topicName": "Najnowsze"
+        }
+      ],
+      "isVideo": false,
+      "isPoliticalLeft": false,
+      "isPoliticalRight": false,
+      "isPoliticalCenter": false,
+      "contentRank": {
+        "isImportant": false,
+        "isHistoric": false,
+        "isCoverUnimportant": false,
+        "isDescriptionImportant": false
+      },
+      "isNative": true,
+      "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
+      "isForcingDarkModeInWeb": true,
+      "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
+      "nativeContent": [],
+      "contentAuthors": [],
+      "isSettings": false,
+      "updateDate": "2025-05-27T18:12:12+02:00"
+    }
+  }
+}

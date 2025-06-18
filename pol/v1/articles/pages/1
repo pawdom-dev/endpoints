@@ -359,7 +359,7 @@
               "isCoverUnimportant": false,
               "isDescriptionImportant": false
             },
-            "isNative": false,
+            "isNative": true,
             "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
             "isForcingDarkModeInWeb": true,
             "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
