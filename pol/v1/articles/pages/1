@@ -124,7 +124,7 @@
             "numberOfArticlesAfterAd": 10
           },
           "articleDetails": {
-            "numberOfParagraphsBeforeAd": 2
+            "numberOfParagraphsBeforeAd": 3
           }
         },
         "android": [
