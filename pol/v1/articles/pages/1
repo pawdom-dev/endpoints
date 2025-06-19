@@ -121,7 +121,7 @@
         "portrait": {
           "articleList": {
             "adPositionOffset": 2,
-            "numberOfArticlesAfterAd": 10
+            "numberOfArticlesAfterAd": 4
           },
           "articleDetails": {
             "numberOfParagraphsBeforeAd": 3
@@ -176,10 +176,27 @@
         "ios": [
           [
             {
+              "adUnitId": "ca-app-pub-3940256099942544/9214589741",
+              "type": "admobBannerMedium",
+              "noSdkAdRefreshInSec": 25
+            },
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/2435281174",
+              "type": "admobBannerMedium",
+              "noSdkAdRefreshInSec": 25
+            },
+            {
               "adUnitId": "ca-app-pub-3940256099942544/2247696110",
               "type": "admobNativeMedium",
               "noSdkAdRefreshInSec": 25
             },
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/3986624511",
+              "type": "admobNativeMedium",
+              "noSdkAdRefreshInSec": 25
+            }
+          ],
+          [
             {
               "adUnitId": "ca-app-pub-3940256099942544/9214589741",
               "type": "admobBannerMedium",
@@ -189,9 +206,12 @@
               "adUnitId": "ca-app-pub-3940256099942544/2435281174",
               "type": "admobBannerMedium",
               "noSdkAdRefreshInSec": 25
-            }
-          ],
-          [
+            },
+            {
+              "adUnitId": "ca-app-pub-3940256099942544/2247696110",
+              "type": "admobNativeMedium",
+              "noSdkAdRefreshInSec": 25
+            },
             {
               "adUnitId": "ca-app-pub-3940256099942544/3986624511",
               "type": "admobNativeMedium",
