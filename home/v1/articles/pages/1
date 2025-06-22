@@ -143,12 +143,12 @@
             {
               "adUnitId": "ca-app-pub-8770340434252059/6579016449",
               "type": "admobNativeMedium",
-              "noSdkAdRefreshInSec": 25
+              "noSdkAdRefreshInSec": 23
             },
             {
               "adUnitId": "ca-app-pub-8770340434252059/2639771430",
               "type": "admobNativeMedium",
-              "noSdkAdRefreshInSec": 25
+              "noSdkAdRefreshInSec": 27
             }
           ],
           [
@@ -165,12 +165,12 @@
             {
               "adUnitId": "ca-app-pub-8770340434252059/6579016449",
               "type": "admobNativeMedium",
-              "noSdkAdRefreshInSec": 25
+              "noSdkAdRefreshInSec": 23
             },
             {
               "adUnitId": "ca-app-pub-8770340434252059/2639771430",
               "type": "admobNativeMedium",
-              "noSdkAdRefreshInSec": 25
+              "noSdkAdRefreshInSec": 27
             }
           ]
         ],
