@@ -33,12 +33,12 @@
         "privacy": {
           "id": "privacy",
           "label": "Privacy",
-          "position": 2
+          "position": 0
         },
         "notifications": {
           "id": "notifications",
           "label": "Notifications",
-          "position": 1
+          "position": 0
         },
         "list": []
       },
