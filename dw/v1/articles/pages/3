@@ -54,6 +54,214 @@
             "contentAuthors": [],
             "isSettings": false,
             "updateDate": "2025-07-05T08:13:12+02:00"
+          },
+          {
+            "articleId": "202507040000001",
+            "imageUrl": "https://static.dw.com/image/72883828_1004.webp",
+            "country": "ua",
+            "language": "en",
+            "pubDate": "2025-07-04T08:13:12+02:00",
+            "title": "Ukraine: Discrimination and hope drive LGBTQ+ soldiers",
+            "description": "Up to 10% of Ukrainian soldiers are thought to be from the LGBTQ+ community. While tolerance is improving, Ukraine still does not guarantee legal equality.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250704,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "diversity",
+                "topicCategoryName": "Diversity",
+                "topicId": "diversity",
+                "topicName": "Diversity"
+              },
+              {
+                "topicCategoryId": "ukraine",
+                "topicCategoryName": "Ukraine",
+                "topicId": "ukraine",
+                "topicName": "Ukraine"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/ukraine-discrimination-and-hope-drive-lgbtq-soldiers/a-73109319",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/ukraine-discrimination-and-hope-drive-lgbtq-soldiers/a-73109319",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-04T08:13:12+02:00"
+          },
+          {
+            "articleId": "202507040000002",
+            "imageUrl": "https://static.dw.com/image/70814160_1004.webp",
+            "country": "ua",
+            "language": "en",
+            "pubDate": "2025-07-04T09:13:12+02:00",
+            "title": "'One event' arms pause troubling for Ukraine",
+            "description": "The US says its pause on arms shipments is a one-off. But amid the turbulent US-Ukraine relationship, the assurance is little comfort to Volodymyr Zelenskyy or his European supporters.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250704,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "unitedStatesOfAmerica",
+                "topicCategoryName": "United States of America",
+                "topicId": "unitedStatesOfAmerica",
+                "topicName": "United States of America"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/one-event-arms-pause-troubling-for-ukraine/a-73144853",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/one-event-arms-pause-troubling-for-ukraine/a-73144853",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-04T09:13:12+02:00"
+          },
+          {
+            "articleId": "202507040000003",
+            "imageUrl": "https://static.dw.com/image/73095839_1004.webp",
+            "country": "cn",
+            "language": "en",
+            "pubDate": "2025-07-04T12:13:12+02:00",
+            "title": "Can BRICS project unity amid global tensions?",
+            "description": "The influence of BRICS, a global forum championed by China, Russia, and India, is on the rise. Still, even its major members have to negotiate internal conflicts amid challenges posed by the Trump administration.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250704,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "china",
+                "topicCategoryName": "China",
+                "topicId": "china",
+                "topicName": "China"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/can-brics-project-unity-amid-global-tensions/a-73158174",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/can-brics-project-unity-amid-global-tensions/a-73158174",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-04T12:13:12+02:00"
+          },
+          {
+            "articleId": "202507030000001",
+            "imageUrl": "https://static.dw.com/image/62721793_1004.webp",
+            "country": "eu",
+            "language": "en",
+            "pubDate": "2025-07-04T08:13:12+02:00",
+            "title": "Euro's climb vs. dollar signals trouble for EU exporters",
+            "description": "Donald Trump's tariffs were meant to prop up the dollar, but the opposite happened. With the euro and others strengthening against the US currency, European exporters and US offshorers could soon feel the pinch.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250703,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "business",
+                "topicCategoryName": "Business",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "europe",
+                "topicCategoryName": "Europe",
+                "topicId": "europe",
+                "topicName": "Europe"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/euros-climb-vs-dollar-signals-trouble-for-eu-exporters/a-73103018",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/euros-climb-vs-dollar-signals-trouble-for-eu-exporters/a-73103018",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-03T08:13:12+02:00"
           }
         ]
       }
