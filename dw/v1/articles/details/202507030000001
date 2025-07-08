@@ -239,6 +239,10 @@
             {
               "type": "text",
               "text": "\n\nThis article was originally published in German."
+            },
+            {
+              "type": "authors",
+              "isDescription": true
             }
           ]
         }
