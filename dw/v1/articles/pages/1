@@ -358,9 +358,9 @@
             "isPoliticalCenter": false,
             "contentRank": {
               "isImportant": false,
-              "isHistoric": false,
+              "isHistoric": true,
               "isCoverUnimportant": false,
-              "isDescriptionImportant": false
+              "isDescriptionImportant": true
             },
             "isNative": false,
             "webContentUrl": "https://www.dw.com/en/trump-netanyahu-tout-iran-win-as-gaza-ceasefire-stalls/a-73191366",
