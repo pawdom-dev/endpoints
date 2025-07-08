@@ -365,29 +365,29 @@
           },
           {
             "articleId": "202507030000001",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/wn/wnv5qdieuxpdoytcqqdzxasr8h7vdf56.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-27T16:12:12+02:00",
-            "title": "Wraca sprawa kawalerki Nawrockiego. Jest komunikat ze służb",
-            "description": "Mimo negatywnej rekomendacji funkcjonariusza ABW w sprawie Karola Nawrockiego sprzed kilku lat ówczesny Szef Agencji wydał mu poświadczenie bezpieczeństwa - przekazał rzecznik specsłużb Jacek Dobrzyński. \"Pisowskie szefostwo Agencji z nieznanych powodów jej nie uwzględniło\" - napisał Donald Tusk. Głos zabrał także poseł PiS Andrzej Śliwka, który powiedział, że \"za grosz nie ufa służbom\".",
-            "sourceDomain": "polsatnews.pl",
+            "imageUrl": "https://static.dw.com/image/73126712_1004.webp",
+            "country": "az",
+            "language": "en",
+            "pubDate": "2025-07-03T16:12:12+02:00",
+            "title": "Russia: Is Moscow losing Azerbaijan as an ally?",
+            "description": "Relations between Russia and Azerbaijan have cooled following contentious arrests in both countries. Russia may be about to lose even more influence in the Caucasus.",
+            "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250527,
+            "uploadedDayDate": 20250703,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "polska",
-                "topicCategoryName": "Polska",
-                "topicId": "polska",
-                "topicName": "Polska"
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
               },
               {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
               }
             ],
             "isVideo": false,
@@ -401,13 +401,22 @@
               "isDescriptionImportant": false
             },
             "isNative": true,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
+            "webContentUrl": "https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334",
             "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wraca-sprawa-kawalerki-nawrockiego-jest-komunikat-ze-sluzb/",
+            "deepLink": "https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334",
             "nativeContent": [],
-            "contentAuthors": [],
+            "contentAuthors": [
+              {
+                "name": "Alexey Strelnikov",
+                "description": ""
+              },
+              {
+                "name": "Juri Rescheto",
+                "description": "DW Riga Bureau Chief"
+              }
+            ],
             "isSettings": false,
-            "updateDate": "2025-05-27T16:12:12+02:00"
+            "updateDate": "2025-07-03T20:12:12+02:00"
           },
           {
             "articleId": "202505270000003",
