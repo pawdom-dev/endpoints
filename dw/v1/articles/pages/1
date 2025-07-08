@@ -418,7 +418,7 @@
             "updateDate": "2025-07-08T14:55:12+02:00"
           },
           {
-            "articleId": "202507080000002",
+            "articleId": "202507080000003",
             "imageUrl": "https://static.dw.com/image/73194102_1004.webp",
             "country": "de",
             "language": "en",
@@ -464,7 +464,7 @@
             "updateDate": "2025-07-08T14:55:12+02:00"
           },
           {
-            "articleId": "202507080000003",
+            "articleId": "202507080000004",
             "imageUrl": "https://static.dw.com/image/73188912_1004.webp",
             "country": "de",
             "language": "en",
@@ -514,6 +514,58 @@
             "contentAuthors": [],
             "isSettings": false,
             "updateDate": "2025-07-08T11:55:12+02:00"
+          },
+          {
+            "articleId": "202507080000005",
+            "imageUrl": "https://static.dw.com/image/71448967_1004.webp",
+            "country": "de",
+            "language": "en",
+            "pubDate": "2025-07-08T15:13:12+02:00",
+            "title": "German Bundeswehr sees rising number of volunteers",
+            "description": "Defense Minister Boris Pistorius plans to attract more voluntary recruits to the German Armed Forces rather than bringing back conscription quickly. DW visited a recruitment center in the eastern city of Erfurt.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250708,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "Germany",
+                "topicCategoryName": "germany",
+                "topicId": "Germany",
+                "topicName": "germany"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/german-bundeswehr-sees-rising-number-of-volunteers/a-73200570",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/german-bundeswehr-sees-rising-number-of-volunteers/a-73200570",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-08T16:13:12+02:00"
           },
           {
             "articleId": "202507030000001",
