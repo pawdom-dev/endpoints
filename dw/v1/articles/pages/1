@@ -419,12 +419,12 @@
           },
           {
             "articleId": "202507080000003",
-            "imageUrl": "https://static.dw.com/image/73194102_1004.webp",
+            "imageUrl": "https://static.dw.com/image/72001821_1004.webp",
             "country": "de",
             "language": "en",
-            "pubDate": "2025-07-08T14:13:12+02:00",
-            "title": "Defense, infrastructure: Germany plans record investment",
-            "description": "The Bundestag is debating the government's budget plans, which include record expenditures and debt. The aim is to get the country back on its feet through massive investment.",
+            "pubDate": "2025-07-08T11:13:12+02:00",
+            "title": "Why women in South Asia are aging faster than in Europe, US",
+            "description": "Age is a stigma in South Asia when a woman's worth is tied to her ability to have children. It's also a medical issue when menopause starts a decade earlier than the global average.",
             "sourceDomain": "dw.com",
             "paywall": false,
             "uploadedDayDate": 20250708,
@@ -432,10 +432,16 @@
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "politics",
-                "topicCategoryName": "Politics",
-                "topicId": "politics",
-                "topicName": "Politics"
+                "topicCategoryId": "health",
+                "topicCategoryName": "Health",
+                "topicId": "health",
+                "topicName": "Health"
+              },
+              {
+                "topicCategoryId": "asia",
+                "topicCategoryName": "Asia",
+                "topicId": "asia",
+                "topicName": "Asia"
               },
               {
                 "topicCategoryId": "topStories",
@@ -455,13 +461,13 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
+            "webContentUrl": "https://www.dw.com/en/south-asia-women-are-aging-faster-than-peers-in-europe-us/a-73192160",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
+            "deepLink": "https://www.dw.com/en/south-asia-women-are-aging-faster-than-peers-in-europe-us/a-73192160",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-08T14:55:12+02:00"
+            "updateDate": "2025-07-08T12:13:12+02:00"
           },
           {
             "articleId": "202507080000004",
