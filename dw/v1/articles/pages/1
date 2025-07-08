@@ -320,30 +320,36 @@
       "content": {
         "page": [
           {
-            "articleId": "202505270000001",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/qr/qr5rkuykwyr7ipgnyj1tztcpcq48mv1h.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-27T10:13:12+02:00",
-            "title": "Koniec ograniczeń na niemiecką broń dla Ukrainy. Kreml: Niebezpieczna decyzja",
-            "description": "Niemcy, podobnie jak Francja, Wielka Brytania i USA, znoszą ograniczenia dotyczące zasięgu rażenia wysyłanego do Ukrainy uzbrojenia - oświadczył kanclerz Friedrich Merz podczas WDR Europaforum 2025. - Oznacza to, że Ukraina będzie mogła się bronić kierując rakiety na terytorium Rosji - wyjaśnił. Kreml stanowczo krytykuje decyzję Berlina.",
-            "sourceDomain": "polsatnews.pl",
+            "articleId": "202507080000001",
+            "imageUrl": "https://www.dw.com/en/trump-netanyahu-tout-iran-win-as-gaza-ceasefire-stalls/a-73191366",
+            "country": "usa",
+            "language": "en",
+            "pubDate": "2025-07-08T08:13:12+02:00",
+            "title": "Trump, Netanyahu tout 'Iran win' as Gaza ceasefire stalls",
+            "description": "Trump and Netanyahu hailed strikes on Iran's nuclear sites. However, questions on an Israel-Hamas ceasefire and how to achieve peace in the Middle East still linger.",
+            "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250527,
+            "uploadedDayDate": 20250708,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "swiat",
-                "topicCategoryName": "Świat",
-                "topicId": "swiat",
-                "topicName": "Świat"
+                "topicCategoryId": "conflicts",
+                "topicCategoryName": "Conflicts",
+                "topicId": "conflicts",
+                "topicName": "Conflicts"
               },
               {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
+                "topicCategoryId": "middleEast",
+                "topicCategoryName": "Middle East",
+                "topicId": "middleEast",
+                "topicName": "Middle East"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
               }
             ],
             "isVideo": false,
@@ -357,13 +363,13 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/niemcy-znosza-ograniczenia-na-bron-dla-ukrainy-kreml-grzmi/",
+            "webContentUrl": "https://www.dw.com/en/trump-netanyahu-tout-iran-win-as-gaza-ceasefire-stalls/a-73191366",
             "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/niemcy-znosza-ograniczenia-na-bron-dla-ukrainy-kreml-grzmi/",
+            "deepLink": "https://www.dw.com/en/trump-netanyahu-tout-iran-win-as-gaza-ceasefire-stalls/a-73191366",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-05-27T10:13:12+02:00"
+            "updateDate": "2025-07-08T08:31:12+02:00"
           },
           {
             "articleId": "202507030000001",
