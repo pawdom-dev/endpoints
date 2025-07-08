@@ -210,6 +210,58 @@
             "contentAuthors": [],
             "isSettings": false,
             "updateDate": "2025-07-07T14:13:12+02:00"
+          },
+          {
+            "articleId": "202507070000005",
+            "imageUrl": "https://static.dw.com/image/69404293_1004.webp",
+            "country": "eu",
+            "language": "en",
+            "pubDate": "2025-07-07T15:13:12+02:00",
+            "title": "Global Media Forum 2025: Building bridges to beat populism",
+            "description": "DW has invited media professionals from all over the world to Bonn, Germany, where they will discuss strategies for solidarity in an age of polarization.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250707,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "freedomOfSpeech",
+                "topicCategoryName": "Freedom of Speech",
+                "topicId": "freedomOfSpeech",
+                "topicName": "Freedom of Speech"
+              },
+              {
+                "topicCategoryId": "europe",
+                "topicCategoryName": "Europe",
+                "topicId": "europe",
+                "topicName": "Europe"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/global-media-forum-2025-building-bridges-to-beat-populism/a-73151481",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/global-media-forum-2025-building-bridges-to-beat-populism/a-73151481",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-07T15:13:12+02:00"
           }
         ]
       }
