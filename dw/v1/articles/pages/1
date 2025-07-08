@@ -330,7 +330,7 @@
             "sourceDomain": "dw.com",
             "paywall": false,
             "uploadedDayDate": 20250708,
-            "positionLift": -1,
+            "positionLift": 10,
             "isHidden": false,
             "topics": [
               {
