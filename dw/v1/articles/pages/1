@@ -372,6 +372,150 @@
             "updateDate": "2025-07-08T08:31:12+02:00"
           },
           {
+            "articleId": "202507080000002",
+            "imageUrl": "https://static.dw.com/image/73194102_1004.webp",
+            "country": "de",
+            "language": "en",
+            "pubDate": "2025-07-08T14:13:12+02:00",
+            "title": "Defense, infrastructure: Germany plans record investment",
+            "description": "The Bundestag is debating the government's budget plans, which include record expenditures and debt. The aim is to get the country back on its feet through massive investment.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250708,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-08T14:55:12+02:00"
+          },
+          {
+            "articleId": "202507080000002",
+            "imageUrl": "https://static.dw.com/image/73194102_1004.webp",
+            "country": "de",
+            "language": "en",
+            "pubDate": "2025-07-08T14:13:12+02:00",
+            "title": "Defense, infrastructure: Germany plans record investment",
+            "description": "The Bundestag is debating the government's budget plans, which include record expenditures and debt. The aim is to get the country back on its feet through massive investment.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250708,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-08T14:55:12+02:00"
+          },
+          {
+            "articleId": "202507080000003",
+            "imageUrl": "https://static.dw.com/image/73188912_1004.webp",
+            "country": "de",
+            "language": "en",
+            "pubDate": "2025-07-08T10:13:12+02:00",
+            "title": "Deep-sea mining: The rush to mine the unknown",
+            "description": "With the backing of the US government, a Canadian company is poised to sidestep UN laws and start vacuuming what it deems battery-grade metals from international waters.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250708,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "natureAndEnvironment",
+                "topicCategoryName": "Nature and Environment",
+                "topicId": "natureAndEnvironment",
+                "topicName": "Nature and Environment"
+              },
+              {
+                "topicCategoryId": "northAmerica",
+                "topicCategoryName": "North America",
+                "topicId": "northAmerica",
+                "topicName": "North America"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/the-fight-over-underwater-deposits-for-ev-batteries-seabed-polymetallic-nodules-rare-earth-ecosystem/a-73156987",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/the-fight-over-underwater-deposits-for-ev-batteries-seabed-polymetallic-nodules-rare-earth-ecosystem/a-73156987",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-08T11:55:12+02:00"
+          },
+          {
             "articleId": "202507030000001",
             "imageUrl": "https://static.dw.com/image/73126712_1004.webp",
             "country": "az",
@@ -425,138 +569,6 @@
             ],
             "isSettings": false,
             "updateDate": "2025-07-03T20:12:12+02:00"
-          },
-          {
-            "articleId": "202505270000003",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/75/75d1624kgvzixy3x2uxi1fuw61jwfwf3.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-27T06:12:17+02:00",
-            "title": "Wyniki losowania Lotto 26 maja. Sprawdź wygrane liczby",
-            "description": "W poniedziałek, 26 maja 2025 roku, odbyły się losowania gier liczbowych prowadzonych przez Totalizator Sportowy. Które liczby okazały się szczęśliwe? Podajemy wyniki losowania: Ekstra Pensja, Ekstra Premia, Kaskada, Mini Lotto, Multi Multi.",
-            "sourceDomain": "polsatnews.pl",
-            "paywall": false,
-            "uploadedDayDate": 20250526,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "polska",
-                "topicCategoryName": "Polska",
-                "topicId": "polska",
-                "topicName": "Polska"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wyniki-losowania-lotto-26-maja-sprawdz-wygrane-liczby/",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/wyniki-losowania-lotto-26-maja-sprawdz-wygrane-liczby/",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-05-27T06:12:17+02:00"
-          },
-          {
-            "articleId": "202505270000004",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/1k/1kdsce1bf5mobuhsegcwdvfa1yp8nj8v.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-27T09:13:12+02:00",
-            "title": "\"Dokładnie wiedział, co robi\". Sikorski o kulisach spotkania Trzaskowski - Mentzen",
-            "description": "Minister spraw zagranicznych, który towarzyszył kandydatowi KO na prezydenta, mówił, że \"znalazł wspólny język z ludźmi, którzy głosują na kogoś innego\". Jak ocenił szef MSZ, polityk Konfederacji \"dokładnie wiedział, co robi\".",
-            "sourceDomain": "polsatnews.pl",
-            "paywall": false,
-            "uploadedDayDate": 20250527,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "polska",
-                "topicCategoryName": "Polska",
-                "topicId": "swiat",
-                "topicName": "Świat"
-              },
-              {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
-              }
-            ],
-            "isVideo": true,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wideo/dokladnie-wiedzial-co-robi-sikorski-o-kulisach-spotkania-trzaskowski-mentzen_6848261/",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wideo/dokladnie-wiedzial-co-robi-sikorski-o-kulisach-spotkania-trzaskowski-mentzen_6848261/",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-05-27T09:13:12+02:00"
-          },
-          {
-            "articleId": "202505270000005",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/bj/bjvppwz34mrp62mzip4712f1qv3115yv.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-27T12:26:12+02:00",
-            "title": "Tragiczny wypadek na A1. Sebastian M. usłyszał zarzut",
-            "description": "Sebastian M. usłyszał zarzut spowodowania wypadku - przekazała prok. Izabela Knapik z Prokuratury Okręgowej. Mężczyzna podejrzany jest o spowodowanie tragicznego zdarzenia na autostradzie A1, w którym zginęła 3-osobowa rodzina.",
-            "sourceDomain": "polsatnews.pl",
-            "paywall": false,
-            "uploadedDayDate": 20250527,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "polska",
-                "topicCategoryName": "Polska",
-                "topicId": "polska",
-                "topicName": "Polska"
-              },
-              {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-27/tragiczny-wypadek-na-a1-sebastian-m-uslyszal-zarzut/",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-27/tragiczny-wypadek-na-a1-sebastian-m-uslyszal-zarzut/",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-05-27T12:26:12+02:00"
           }
         ]
       }
