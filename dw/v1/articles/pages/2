@@ -9,7 +9,7 @@
             "country": "pl",
             "language": "en",
             "pubDate": "2025-07-07T08:15:12+02:00",
-            "title": "https://static.dw.com/image/73182395_1004.webp",
+            "title": "Poland's border checks: Beginning of the end of Schengen?",
             "description": "Border controls are creeping back across Europe, known as a free-travel zone. But are they solving anything?",
             "sourceDomain": "dw.com",
             "paywall": false,
@@ -54,6 +54,162 @@
             "contentAuthors": [],
             "isSettings": false,
             "updateDate": "2025-07-07T08:15:12+02:00"
+          },
+          {
+            "articleId": "202507070000002",
+            "imageUrl": "https://static.dw.com/image/73171507_1004.webp",
+            "country": "pl",
+            "language": "en",
+            "pubDate": "2025-07-07T10:13:12+02:00",
+            "title": "Bayern Munich, Musiala and the Club World Cup: What now?",
+            "description": "After Bayern Munich's elimination from the FIFA Club World Cup and Jamal Musiala's serious injury, questions are being asked about the club's sporting class, possible transfers and sporting director Max Eberl's future.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250707,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "soccer",
+                "topicCategoryName": "Soccer",
+                "topicId": "soccer",
+                "topicName": "Soccer"
+              },
+              {
+                "topicCategoryId": "germany",
+                "topicCategoryName": "Germany",
+                "topicId": "germany",
+                "topicName": "Germany"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/bayern-munich-musiala-and-the-club-world-cup-what-now/a-73186102",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/bayern-munich-musiala-and-the-club-world-cup-what-now/a-73186102",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-07T10:13:12+02:00"
+          },
+          {
+            "articleId": "202507070000003",
+            "imageUrl": "https://static.dw.com/image/72525175_1004.webp",
+            "country": "pl",
+            "language": "en",
+            "pubDate": "2025-07-07T11:13:12+02:00",
+            "title": "Why US chocolate tastes weird to the rest of the world",
+            "description": "Chocolate is popular almost everywhere. But tastes vary depending on the continent. While some regions like their chocolate sugary sweet, others prefer more fruity or nutty notes.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250707,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "culture",
+                "topicCategoryName": "Culture",
+                "topicId": "culture",
+                "topicName": "Culture"
+              },
+              {
+                "topicCategoryId": "globalIssues",
+                "topicCategoryName": "Global issues",
+                "topicId": "globalIssues",
+                "topicName": "Global issues"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/why-chocolate-tastes-different-around-the-world/a-73159385",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/why-chocolate-tastes-different-around-the-world/a-73159385",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-07T11:13:12+02:00"
+          },
+          {
+            "articleId": "202507070000004",
+            "imageUrl": "https://static.dw.com/image/56458071_1004.webp",
+            "country": "dk",
+            "language": "en",
+            "pubDate": "2025-07-07T13:13:12+02:00",
+            "title": "Can Denmark keep the EU green?",
+            "description": "Denmark says cutting emissions will help the EU defend itself and compete with China and the US. However, keeping the EU's beleaguered green deal alive amid a climate policy backlash won't be easy.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250707,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "Denmark",
+                "topicCategoryName": "denmark",
+                "topicId": "Denmark",
+                "topicName": "denmark"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/can-denmark-keep-the-eu-green/a-73176937",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/can-denmark-keep-the-eu-green/a-73176937",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-07T14:13:12+02:00"
           }
         ]
       }
