@@ -246,12 +246,14 @@
             "iconId": "menuBook",
             "type": "categories",
             "topicCategoryIds": [
+              "topStories",
               "najnowsze",
               "polska",
               "swiat",
               "sport"
             ],
             "topicCategoryNames": [
+            "Top Stories",
               "Najnowsze",
               "Polska",
               "Świat",
