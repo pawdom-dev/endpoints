@@ -3,8 +3,8 @@
     "details": {
       "articleId": "202507030000001",
       "imageUrl": "https://static.dw.com/image/73126712_1004.webp",
-      "country": "pl",
-      "language": "pl",
+      "country": "az",
+      "language": "en",
       "pubDate": "2025-07-03T16:12:12+02:00",
       "title": "Russia: Is Moscow losing Azerbaijan as an ally?",
       "description": "Relations between Russia and Azerbaijan have cooled following contentious arrests in both countries. Russia may be about to lose even more influence in the Caucasus.",
@@ -60,8 +60,8 @@
           "type": "paragraph",
           "paragraphs": [
             {
-              "type": "boldText",
-              "text": "Mimo negatywnej rekomendacji funkcjonariusza ABW w sprawie Karola Nawrockiego sprzed kilku lat ówczesny Szef Agencji wydał mu poświadczenie bezpieczeństwa - przekazał rzecznik specsłużb Jacek Dobrzyński. \"Pisowskie szefostwo Agencji z nieznanych powodów jej nie uwzględniło\" - napisał Donald Tusk. Głos zabrał także poseł PiS Andrzej Śliwka, który powiedział, że \"za grosz nie ufa służbom\""
+              "type": "text",
+              "text": "Last week, a police raid triggered a diplomatic crisis. Within a few days, the row between Russia and Azerbaijan had escalated, putting considerable strain on the already tense relationship between the two."
             }
           ]
         },
@@ -70,36 +70,46 @@
           "paragraphs": [
             {
               "type": "text",
-              "text": "\"Dysponujący całością wiedzy, w tym między innymi na temat negatywnej rekomendacji funkcjonariusza analizującego akta postępowania, ówczesny Szef Agencji Bezpieczeństwa Wewnętrznego Krzysztof Wacławek (obecny doradca Prezydenta RP) podjął decyzję o wydaniu Karolowi Nawrockiemu poświadczenia bezpieczeństwa\" - napisał na platformie X."
+              "text": "It began with a controversial police raid in the Russian city of Yekaterinburg on June 27. Several ethnic Azeri men were arrested as part of an investigation into crimes that date back years. The men are accused of carrying out assassinations and murders. Russian special forces clearly went in hard when making the arrests. Two of the men died, presumably as a result of the controversial raid."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Baku reacted swiftly and strongly. Azerbaijan's foreign ministry condemned the \"unacceptable act of violence\" by the Russian security forces. All cultural events with ties to Russia were cancelled in protest. A presenter on primetime state television denounced Moscow's \"imperial behavior\" toward former Soviet states. On June 30, Azerbaijani authorities "
+            },
+            {
+              "type": "link",
+              "text": "arrested two Russian journalists",
+              "url": "https://www.dw.com/en/azerbaijan-police-raid-russias-sputnik-media-offices/a-73097961"
+            },
+            {
+              "type": "text",
+              "text": " with Russia's state-funded news agency Sputnik Azerbaijan in Baku. According to media reports, the two were working for the Russian domestic security service, the FSB."
             }
           ]
         },
         {
           "type": "header",
-          "text": "Donald Tusk o poświadczeniu Nawrockiego. Wskazał na byłego szefa ABW: To doradca Dudy"
+          "text": "Moscow plays it down, Baku ups the ante"
         },
         {
           "type": "paragraph",
           "paragraphs": [
             {
               "type": "text",
-              "text": "Głos w tej sprawie na platformie X zabrał również premier Donald Tusk. Jak napisał, odnosząc się do negatywnej opinii funkcjonariusza ABW w sprawie Karola Nawrockiego sprzed kilku lat, \"pisowskie szefostwo Agencji z nieznanych powodów jej nie uwzględniło\"."
+              "text": "The Kremlin was restrained in its response. Spokesman Dmitry Peskov said he regretted Baku's decision to cancel cultural events, stressing that the situation in Yekaterinburg \"cannot and should not be a reason for such a reaction.\" The Russian foreign ministry pointed out that the dead and detained men, although ethnic Azeris, were holders of Russian passports."
             }
           ]
         },
         {
-          "type": "paragraph",
-          "paragraphs": [
-            {
-              "type": "boldText",
-              "text": "ZOBACZ: "
-            },
-            {
-              "type": "link",
-              "text": "Oburzenie w PiS po wywiadzie Donalda Tuska. Podważają wiarygodność relacji",
-              "url": "https://www.polsatnews.pl/wiadomosc/2025-05-26/pis-oburzone-po-wywiadzie-donalda-tuska-podwazaja-wiarygodnosc-relacji/"
-            }
-          ]
+          "type": "image",
+          "url": "https://static.dw.com/image/69991479_906.jpg",
+          "description": "Putin and Aliyev have long been allies, but observers believe that may change (photo from August 2024)",
+          "source": "Image: Grigory Sysoyev/Sputnik/Kremlin/AP Photo/picture alliance"
         },
         {
           "type": "paragraph",
