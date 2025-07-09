@@ -4,16 +4,68 @@
       "content": {
         "page": [
           {
-            "articleId": "202507070000001",
-            "imageUrl": "https://static.dw.com/image/73182395_1004.webp",
-            "country": "pl",
+            "articleId": "202507080000001",
+            "imageUrl": "https://static.dw.com/image/72169386_1004.webp",
+            "country": "usa",
             "language": "en",
-            "pubDate": "2025-07-07T08:15:12+02:00",
-            "title": "Poland's border checks: Beginning of the end of Schengen?",
-            "description": "Border controls are creeping back across Europe, known as a free-travel zone. But are they solving anything?",
+            "pubDate": "2025-07-08T08:13:12+02:00",
+            "title": "Trump, Netanyahu tout 'Iran win' as Gaza ceasefire stalls",
+            "description": "Trump and Netanyahu hailed strikes on Iran's nuclear sites. However, questions on an Israel-Hamas ceasefire and how to achieve peace in the Middle East still linger.",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250707,
+            "uploadedDayDate": 20250708,
+            "positionLift": 10,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "conflicts",
+                "topicCategoryName": "Conflicts",
+                "topicId": "conflicts",
+                "topicName": "Conflicts"
+              },
+              {
+                "topicCategoryId": "middleEast",
+                "topicCategoryName": "Middle East",
+                "topicId": "middleEast",
+                "topicName": "Middle East"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": true,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": true
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/trump-netanyahu-tout-iran-win-as-gaza-ceasefire-stalls/a-73191366",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/trump-netanyahu-tout-iran-win-as-gaza-ceasefire-stalls/a-73191366",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-08T08:31:12+02:00"
+          },
+          {
+            "articleId": "202507080000002",
+            "imageUrl": "https://static.dw.com/image/73194102_1004.webp",
+            "country": "de",
+            "language": "en",
+            "pubDate": "2025-07-08T14:13:12+02:00",
+            "title": "Defense, infrastructure: Germany plans record investment",
+            "description": "The Bundestag is debating the government's budget plans, which include record expenditures and debt. The aim is to get the country back on its feet through massive investment.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250708,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
@@ -24,12 +76,6 @@
                 "topicName": "Politics"
               },
               {
-                "topicCategoryId": "poland",
-                "topicCategoryName": "Poland",
-                "topicId": "poland",
-                "topicName": "Poland"
-              },
-              {
                 "topicCategoryId": "topStories",
                 "topicCategoryName": "Top Stories",
                 "topicId": "topStories",
@@ -47,39 +93,39 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/polands-new-border-checks-the-beginning-of-the-end-of-free-travel-in-europe/a-73185689",
+            "webContentUrl": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/polands-new-border-checks-the-beginning-of-the-end-of-free-travel-in-europe/a-73185689",
+            "deepLink": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-07T08:15:12+02:00"
+            "updateDate": "2025-07-08T14:55:12+02:00"
           },
           {
-            "articleId": "202507070000002",
-            "imageUrl": "https://static.dw.com/image/73171507_1004.webp",
-            "country": "pl",
+            "articleId": "202507080000003",
+            "imageUrl": "https://static.dw.com/image/72001821_1004.webp",
+            "country": "de",
             "language": "en",
-            "pubDate": "2025-07-07T10:13:12+02:00",
-            "title": "Bayern Munich, Musiala and the Club World Cup: What now?",
-            "description": "After Bayern Munich's elimination from the FIFA Club World Cup and Jamal Musiala's serious injury, questions are being asked about the club's sporting class, possible transfers and sporting director Max Eberl's future.",
+            "pubDate": "2025-07-08T11:13:12+02:00",
+            "title": "Why women in South Asia are aging faster than in Europe, US",
+            "description": "Age is a stigma in South Asia when a woman's worth is tied to her ability to have children. It's also a medical issue when menopause starts a decade earlier than the global average.",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250707,
+            "uploadedDayDate": 20250708,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "soccer",
-                "topicCategoryName": "Soccer",
-                "topicId": "soccer",
-                "topicName": "Soccer"
+                "topicCategoryId": "health",
+                "topicCategoryName": "Health",
+                "topicId": "health",
+                "topicName": "Health"
               },
               {
-                "topicCategoryId": "germany",
-                "topicCategoryName": "Germany",
-                "topicId": "germany",
-                "topicName": "Germany"
+                "topicCategoryId": "asia",
+                "topicCategoryName": "Asia",
+                "topicId": "asia",
+                "topicName": "Asia"
               },
               {
                 "topicCategoryId": "topStories",
@@ -99,39 +145,39 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/bayern-munich-musiala-and-the-club-world-cup-what-now/a-73186102",
+            "webContentUrl": "https://www.dw.com/en/south-asia-women-are-aging-faster-than-peers-in-europe-us/a-73192160",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/bayern-munich-musiala-and-the-club-world-cup-what-now/a-73186102",
+            "deepLink": "https://www.dw.com/en/south-asia-women-are-aging-faster-than-peers-in-europe-us/a-73192160",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-07T10:13:12+02:00"
+            "updateDate": "2025-07-08T12:13:12+02:00"
           },
           {
-            "articleId": "202507070000003",
-            "imageUrl": "https://static.dw.com/image/72525175_1004.webp",
-            "country": "pl",
+            "articleId": "202507080000004",
+            "imageUrl": "https://static.dw.com/image/73188912_1004.webp",
+            "country": "de",
             "language": "en",
-            "pubDate": "2025-07-07T11:13:12+02:00",
-            "title": "Why US chocolate tastes weird to the rest of the world",
-            "description": "Chocolate is popular almost everywhere. But tastes vary depending on the continent. While some regions like their chocolate sugary sweet, others prefer more fruity or nutty notes.",
+            "pubDate": "2025-07-08T10:13:12+02:00",
+            "title": "Deep-sea mining: The rush to mine the unknown",
+            "description": "With the backing of the US government, a Canadian company is poised to sidestep UN laws and start vacuuming what it deems battery-grade metals from international waters.",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250707,
+            "uploadedDayDate": 20250708,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "culture",
-                "topicCategoryName": "Culture",
-                "topicId": "culture",
-                "topicName": "Culture"
+                "topicCategoryId": "natureAndEnvironment",
+                "topicCategoryName": "Nature and Environment",
+                "topicId": "natureAndEnvironment",
+                "topicName": "Nature and Environment"
               },
               {
-                "topicCategoryId": "globalIssues",
-                "topicCategoryName": "Global issues",
-                "topicId": "globalIssues",
-                "topicName": "Global issues"
+                "topicCategoryId": "northAmerica",
+                "topicCategoryName": "North America",
+                "topicId": "northAmerica",
+                "topicName": "North America"
               },
               {
                 "topicCategoryId": "topStories",
@@ -151,25 +197,25 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/why-chocolate-tastes-different-around-the-world/a-73159385",
+            "webContentUrl": "https://www.dw.com/en/the-fight-over-underwater-deposits-for-ev-batteries-seabed-polymetallic-nodules-rare-earth-ecosystem/a-73156987",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/why-chocolate-tastes-different-around-the-world/a-73159385",
+            "deepLink": "https://www.dw.com/en/the-fight-over-underwater-deposits-for-ev-batteries-seabed-polymetallic-nodules-rare-earth-ecosystem/a-73156987",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-07T11:13:12+02:00"
+            "updateDate": "2025-07-08T11:55:12+02:00"
           },
           {
-            "articleId": "202507070000004",
-            "imageUrl": "https://static.dw.com/image/56458071_1004.webp",
-            "country": "dk",
+            "articleId": "202507080000005",
+            "imageUrl": "https://static.dw.com/image/71448967_1004.webp",
+            "country": "de",
             "language": "en",
-            "pubDate": "2025-07-07T13:13:12+02:00",
-            "title": "Can Denmark keep the EU green?",
-            "description": "Denmark says cutting emissions will help the EU defend itself and compete with China and the US. However, keeping the EU's beleaguered green deal alive amid a climate policy backlash won't be easy.",
+            "pubDate": "2025-07-08T15:13:12+02:00",
+            "title": "German Bundeswehr sees rising number of volunteers",
+            "description": "Defense Minister Boris Pistorius plans to attract more voluntary recruits to the German Armed Forces rather than bringing back conscription quickly. DW visited a recruitment center in the eastern city of Erfurt.",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250707,
+            "uploadedDayDate": 20250708,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
@@ -180,10 +226,10 @@
                 "topicName": "Politics"
               },
               {
-                "topicCategoryId": "Denmark",
-                "topicCategoryName": "denmark",
-                "topicId": "Denmark",
-                "topicName": "denmark"
+                "topicCategoryId": "Germany",
+                "topicCategoryName": "germany",
+                "topicId": "Germany",
+                "topicName": "germany"
               },
               {
                 "topicCategoryId": "topStories",
@@ -203,65 +249,13 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/can-denmark-keep-the-eu-green/a-73176937",
+            "webContentUrl": "https://www.dw.com/en/german-bundeswehr-sees-rising-number-of-volunteers/a-73200570",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/can-denmark-keep-the-eu-green/a-73176937",
+            "deepLink": "https://www.dw.com/en/german-bundeswehr-sees-rising-number-of-volunteers/a-73200570",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-07T14:13:12+02:00"
-          },
-          {
-            "articleId": "202507070000005",
-            "imageUrl": "https://static.dw.com/image/69404293_1004.webp",
-            "country": "eu",
-            "language": "en",
-            "pubDate": "2025-07-07T15:13:12+02:00",
-            "title": "Global Media Forum 2025: Building bridges to beat populism",
-            "description": "DW has invited media professionals from all over the world to Bonn, Germany, where they will discuss strategies for solidarity in an age of polarization.",
-            "sourceDomain": "dw.com",
-            "paywall": false,
-            "uploadedDayDate": 20250707,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "freedomOfSpeech",
-                "topicCategoryName": "Freedom of Speech",
-                "topicId": "freedomOfSpeech",
-                "topicName": "Freedom of Speech"
-              },
-              {
-                "topicCategoryId": "europe",
-                "topicCategoryName": "Europe",
-                "topicId": "europe",
-                "topicName": "Europe"
-              },
-              {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStories",
-                "topicName": "Top Stories"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/global-media-forum-2025-building-bridges-to-beat-populism/a-73151481",
-            "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/global-media-forum-2025-building-bridges-to-beat-populism/a-73151481",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-07-07T15:13:12+02:00"
+            "updateDate": "2025-07-08T16:13:12+02:00"
           }
         ]
       }

@@ -320,7 +320,7 @@
       "content": {
         "page": [
           {
-            "articleId": "202507080000001",
+            "articleId": "202507090000001",
             "imageUrl": "https://static.dw.com/image/72169386_1004.webp",
             "country": "usa",
             "language": "en",
@@ -370,300 +370,17 @@
             "contentAuthors": [],
             "isSettings": false,
             "updateDate": "2025-07-08T08:31:12+02:00"
-          },
-          {
-            "articleId": "202507080000002",
-            "imageUrl": "https://static.dw.com/image/73194102_1004.webp",
-            "country": "de",
-            "language": "en",
-            "pubDate": "2025-07-08T14:13:12+02:00",
-            "title": "Defense, infrastructure: Germany plans record investment",
-            "description": "The Bundestag is debating the government's budget plans, which include record expenditures and debt. The aim is to get the country back on its feet through massive investment.",
-            "sourceDomain": "dw.com",
-            "paywall": false,
-            "uploadedDayDate": 20250708,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "politics",
-                "topicCategoryName": "Politics",
-                "topicId": "politics",
-                "topicName": "Politics"
-              },
-              {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStories",
-                "topicName": "Top Stories"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
-            "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/defense-infrastructure-germany-plans-record-investment/a-73196730",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-07-08T14:55:12+02:00"
-          },
-          {
-            "articleId": "202507080000003",
-            "imageUrl": "https://static.dw.com/image/72001821_1004.webp",
-            "country": "de",
-            "language": "en",
-            "pubDate": "2025-07-08T11:13:12+02:00",
-            "title": "Why women in South Asia are aging faster than in Europe, US",
-            "description": "Age is a stigma in South Asia when a woman's worth is tied to her ability to have children. It's also a medical issue when menopause starts a decade earlier than the global average.",
-            "sourceDomain": "dw.com",
-            "paywall": false,
-            "uploadedDayDate": 20250708,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "health",
-                "topicCategoryName": "Health",
-                "topicId": "health",
-                "topicName": "Health"
-              },
-              {
-                "topicCategoryId": "asia",
-                "topicCategoryName": "Asia",
-                "topicId": "asia",
-                "topicName": "Asia"
-              },
-              {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStories",
-                "topicName": "Top Stories"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/south-asia-women-are-aging-faster-than-peers-in-europe-us/a-73192160",
-            "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/south-asia-women-are-aging-faster-than-peers-in-europe-us/a-73192160",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-07-08T12:13:12+02:00"
-          },
-          {
-            "articleId": "202507080000004",
-            "imageUrl": "https://static.dw.com/image/73188912_1004.webp",
-            "country": "de",
-            "language": "en",
-            "pubDate": "2025-07-08T10:13:12+02:00",
-            "title": "Deep-sea mining: The rush to mine the unknown",
-            "description": "With the backing of the US government, a Canadian company is poised to sidestep UN laws and start vacuuming what it deems battery-grade metals from international waters.",
-            "sourceDomain": "dw.com",
-            "paywall": false,
-            "uploadedDayDate": 20250708,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "natureAndEnvironment",
-                "topicCategoryName": "Nature and Environment",
-                "topicId": "natureAndEnvironment",
-                "topicName": "Nature and Environment"
-              },
-              {
-                "topicCategoryId": "northAmerica",
-                "topicCategoryName": "North America",
-                "topicId": "northAmerica",
-                "topicName": "North America"
-              },
-              {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStories",
-                "topicName": "Top Stories"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/the-fight-over-underwater-deposits-for-ev-batteries-seabed-polymetallic-nodules-rare-earth-ecosystem/a-73156987",
-            "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/the-fight-over-underwater-deposits-for-ev-batteries-seabed-polymetallic-nodules-rare-earth-ecosystem/a-73156987",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-07-08T11:55:12+02:00"
-          },
-          {
-            "articleId": "202507080000005",
-            "imageUrl": "https://static.dw.com/image/71448967_1004.webp",
-            "country": "de",
-            "language": "en",
-            "pubDate": "2025-07-08T15:13:12+02:00",
-            "title": "German Bundeswehr sees rising number of volunteers",
-            "description": "Defense Minister Boris Pistorius plans to attract more voluntary recruits to the German Armed Forces rather than bringing back conscription quickly. DW visited a recruitment center in the eastern city of Erfurt.",
-            "sourceDomain": "dw.com",
-            "paywall": false,
-            "uploadedDayDate": 20250708,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "politics",
-                "topicCategoryName": "Politics",
-                "topicId": "politics",
-                "topicName": "Politics"
-              },
-              {
-                "topicCategoryId": "Germany",
-                "topicCategoryName": "germany",
-                "topicId": "Germany",
-                "topicName": "germany"
-              },
-              {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStories",
-                "topicName": "Top Stories"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/german-bundeswehr-sees-rising-number-of-volunteers/a-73200570",
-            "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/german-bundeswehr-sees-rising-number-of-volunteers/a-73200570",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-07-08T16:13:12+02:00"
           }
         ]
       }
     },
     "channels": [
       {
-        "id": "polsatNews",
-        "name": "Polsat News",
-        "description": "Najnowsze wiadomości z kraju i ze świata",
+        "id": "dwNews",
+        "name": "DW News",
+        "description": "News, off-beat stories and analysis of German and international affairs. Dive deeper with our features from Europe and beyond. Watch our 24/7 TV stream.",
         "isPlayerOn": true,
-        "videoUrl": "https://redirector.redefine.pl/cppolska/urs93rx5arz1vgqh75bnxtuttunvqnd3.mp4",
-        "videoAspectRatioWidth": 16,
-        "videoAspectRatioHeight": 9,
-        "programSchedule": [
-          {
-            "name": "Nowy dzień",
-            "description": "Dynamiczne, poranne pasmo informacyjne. Oprócz stałych elementów, newsów z kraju i ze świata, przeglądu prasy, prognozy pogody, informacji sportowych, widzowie usłyszą w nim również wiadomości ze świata show-biznesu. W programie nie zabraknie rozmów z gwiazdami oraz przeglądu doniesień z najważniejszych, krajowych i zagranicznych, portali internetowych. Istotny element pasma stanowią komentarze i opinie widzów przesyłane na specjalne konto mailowe. Najciekawsze z wypowiedzi prezentowane są na antenie.",
-            "startDate": "2025-06-24T08:00:48+01:00"
-          },
-          {
-            "name": "W rytmie dnia - serwis informacyjny",
-            "description": "Pasmo prezentujące wydarzenia, którą mają miejsce w ciągu dnia. W programie nie zabraknie bieżącej polityki, najważniejszych informacji ze świata, ale także wydarzeń z kraju, relacjonowanych przez reporterów Polsat News.",
-            "startDate": "2025-06-24T12:41:48+01:00"
-          },
-          {
-            "name": "Pogoda",
-            "description": "Serwis informacyjny przygotowywany pod kierownictwem Marka Horczyczaka. Milena Rostkowska-Galant, Paulina Sykut-Jeżyna oraz Jarosław Kret informują o warunkach atmosferycznych w najbliższych dniach w Polsce, Europie i na świecie.",
-            "startDate": "2025-06-24T14:41:48+01:00"
-          },
-          {
-            "name": "W rytmie dnia - serwis informacyjny",
-            "description": "Pasmo prezentujące wydarzenia, którą mają miejsce w ciągu dnia. W programie nie zabraknie bieżącej polityki, najważniejszych informacji ze świata, ale także wydarzeń z kraju, relacjonowanych przez reporterów Polsat News.",
-            "startDate": "2025-06-24T17:41:48+01:00"
-          },
-          {
-            "name": "Wydarzenia",
-            "description": "Aktualne wiadomości z kraju i ze świata. Relacje korespondentów na temat bieżącej sytuacji politycznej, społecznej i gospodarczej.",
-            "startDate": "2025-06-24T20:41:48+01:00"
-          },
-          {
-            "name": "Sport",
-            "description": "Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.",
-            "startDate": "2025-06-24T22:41:48+01:00"
-          },
-          {
-            "name": "W rytmie dnia - serwis informacyjny",
-            "description": "Pasmo prezentujące wydarzenia, którą mają miejsce w ciągu dnia. W programie nie zabraknie bieżącej polityki, najważniejszych informacji ze świata, ale także wydarzeń z kraju, relacjonowanych przez reporterów Polsat News.",
-            "startDate": "2025-06-25T02:41:48+01:00"
-          },
-          {
-            "name": "Nowy dzień",
-            "description": "Dynamiczne, poranne pasmo informacyjne. Oprócz stałych elementów, newsów z kraju i ze świata, przeglądu prasy, prognozy pogody, informacji sportowych, widzowie usłyszą w nim również wiadomości ze świata show-biznesu. W programie nie zabraknie rozmów z gwiazdami oraz przeglądu doniesień z najważniejszych, krajowych i zagranicznych, portali internetowych. Istotny element pasma stanowią komentarze i opinie widzów przesyłane na specjalne konto mailowe. Najciekawsze z wypowiedzi prezentowane są na antenie.",
-            "startDate": "2025-06-25T08:00:48+01:00"
-          },
-          {
-            "name": "W rytmie dnia - serwis informacyjny",
-            "description": "Pasmo prezentujące wydarzenia, którą mają miejsce w ciągu dnia. W programie nie zabraknie bieżącej polityki, najważniejszych informacji ze świata, ale także wydarzeń z kraju, relacjonowanych przez reporterów Polsat News.",
-            "startDate": "2025-06-25T12:41:48+01:00"
-          },
-          {
-            "name": "Pogoda",
-            "description": "Serwis informacyjny przygotowywany pod kierownictwem Marka Horczyczaka. Milena Rostkowska-Galant, Paulina Sykut-Jeżyna oraz Jarosław Kret informują o warunkach atmosferycznych w najbliższych dniach w Polsce, Europie i na świecie.",
-            "startDate": "2025-06-25T14:41:48+01:00"
-          },
-          {
-            "name": "W rytmie dnia - serwis informacyjny",
-            "description": "Pasmo prezentujące wydarzenia, którą mają miejsce w ciągu dnia. W programie nie zabraknie bieżącej polityki, najważniejszych informacji ze świata, ale także wydarzeń z kraju, relacjonowanych przez reporterów Polsat News.",
-            "startDate": "2025-06-25T17:41:48+01:00"
-          },
-          {
-            "name": "Wydarzenia",
-            "description": "Aktualne wiadomości z kraju i ze świata. Relacje korespondentów na temat bieżącej sytuacji politycznej, społecznej i gospodarczej.",
-            "startDate": "2025-06-25T20:41:48+01:00"
-          },
-          {
-            "name": "Sport",
-            "description": "Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.",
-            "startDate": "2025-06-25T22:41:48+01:00"
-          },
-          {
-            "name": "W rytmie dnia - serwis informacyjny",
-            "description": "Pasmo prezentujące wydarzenia, którą mają miejsce w ciągu dnia. W programie nie zabraknie bieżącej polityki, najważniejszych informacji ze świata, ale także wydarzeń z kraju, relacjonowanych przez reporterów Polsat News.",
-            "startDate": "2025-06-26T02:41:48+01:00"
-          }
-        ]
-      },
-      {
-        "id": "polsatSport",
-        "name": "Polsat Sport",
-        "description": "Najważniejsze i najciekawsze wydarzenia sportowe z udziałem zarówno polskich sportowców, jak i te o międzynarodowym charakterze.",
-        "isPlayerOn": true,
-        "videoUrl": "https://redirector.redefine.pl/cppolska/yh5wnfehkamizgwp1b2iozmzk343k6z5.mp4",
+        "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
         "videoAspectRatioWidth": 16,
         "videoAspectRatioHeight": 9,
         "programSchedule": [
@@ -676,66 +393,27 @@
             "name": "Siatkówka kobiet: Liga Narodów - mecz: Serbia - Polska",
             "description": "Drugi tydzień rozgrywek Polki kończą spotkaniem z Serbią. Biało-Czerwone rozpoczęły rywalizację w tegorocznej edycji Ligi Narodów od wygranej z Tajlandią bez straty seta. Siatkarki z Bałkanów musiały natomiast uznać wyższość Dominikany (2:3).",
             "startDate": "2025-06-24T12:01:48+01:00"
-          },
-          {
-            "name": "Sporty walki: Babilon MMA 45 w Nowym Targu - walka: Szymon Rakowicz - Paweł Polityło",
-            "description": "Szymon Rakowicz, król wagi piórkowej, staje do obrony mistrzowskiego pasa Babilon MMA. Podczas gali w Nowym Targu tytuł spróbuje odebrać mu Paweł Polityło, który w przeszłości święcił triumfy pod banderą organizacji KSW.",
-            "startDate": "2025-06-24T13:13:48+01:00"
-          },
-          {
-            "name": "Piłka ręczna mężczyzn: Mistrzostwa świata U-21 - Polska 2025 - mecz: Szwecja - Portugalia",
-            "description": "W Sosnowcu zmierzą się drużyny, które przeszły pierwszą fazę światowego czempionatu jak burza. Zarówno Szwecja, jak i Portugalia zanotowała komplet zwycięstw. Prawdopodobny jest scenariusz, w którym obie ekipy po tym meczu będą świętować awans do ćwierćfinału.",
-            "startDate": "2025-06-24T16:15:48+01:00"
-          },
-          {
-            "name": "Tenis: Turniej Wimbledon - eliminacje",
-            "description": "Tenisistki i tenisiści spoza pierwszej setki rankingu WTA i ATP muszą walczyć o miejsce w głównej drabince turnieju w trzystopniowych eliminacjach. W rywalizacji pań zobaczymy trzy nasze reprezentantki Maję Chwalińską, Katarzynę Kawę i Lindę Klimovicovą.",
-            "startDate": "2025-06-24T18:18:48+01:00"
-          },
+          }
+        ]
+      },
+      {
+        "id": "dwNews2",
+        "name": "DW News 2",
+        "description": "News, off-beat stories and analysis of German and international affairs. Dive deeper with our features from Europe and beyond. Watch our 24/7 TV stream.",
+        "isPlayerOn": true,
+        "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "videoAspectRatioWidth": 16,
+        "videoAspectRatioHeight": 9,
+        "programSchedule": [
           {
             "name": "Lekkoatletyka: Zawody World Athletics Continental Tour Gold - Ostrawa 2025",
             "description": "W zawodach zaliczanych do prestiżowego cyklu World Athletics Continental Tour Gold wystąpią takie gwiazdy królowej sportu jak Grant Holloway czy Armand Duplantis. My liczymy na podobne sukcesy reprezentantów Polski jak przed rokiem, kiedy w Ostrawie wygrywały Ewa Swoboda i Natalia Bukowiecka.",
-            "startDate": "2025-06-24T20:01:48+01:00"
-          },
-          {
-            "name": "Sporty walki: Babilon MMA 45 w Nowym Targu - walka: Szymon Rakowicz - Paweł Polityło",
-            "description": "Szymon Rakowicz, król wagi piórkowej, staje do obrony mistrzowskiego pasa Babilon MMA. Podczas gali w Nowym Targu tytuł spróbuje odebrać mu Paweł Polityło, który w przeszłości święcił triumfy pod banderą organizacji KSW.",
-            "startDate": "2025-06-24T22:13:48+01:00"
-          },
-          {
-            "name": "Lekkoatletyka: Zawody World Athletics Continental Tour Gold - Ostrawa 2025",
-            "description": "W zawodach zaliczanych do prestiżowego cyklu World Athletics Continental Tour Gold wystąpią takie gwiazdy królowej sportu jak Grant Holloway czy Armand Duplantis. My liczymy na podobne sukcesy reprezentantów Polski jak przed rokiem, kiedy w Ostrawie wygrywały Ewa Swoboda i Natalia Bukowiecka.",
-            "startDate": "2025-06-25T08:01:48+01:00"
+            "startDate": "2025-06-24T08:01:48+01:00"
           },
           {
             "name": "Siatkówka kobiet: Liga Narodów - mecz: Serbia - Polska",
             "description": "Drugi tydzień rozgrywek Polki kończą spotkaniem z Serbią. Biało-Czerwone rozpoczęły rywalizację w tegorocznej edycji Ligi Narodów od wygranej z Tajlandią bez straty seta. Siatkarki z Bałkanów musiały natomiast uznać wyższość Dominikany (2:3).",
-            "startDate": "2025-06-25T12:01:48+01:00"
-          },
-          {
-            "name": "Sporty walki: Babilon MMA 45 w Nowym Targu - walka: Szymon Rakowicz - Paweł Polityło",
-            "description": "Szymon Rakowicz, król wagi piórkowej, staje do obrony mistrzowskiego pasa Babilon MMA. Podczas gali w Nowym Targu tytuł spróbuje odebrać mu Paweł Polityło, który w przeszłości święcił triumfy pod banderą organizacji KSW.",
-            "startDate": "2025-06-25T13:13:48+01:00"
-          },
-          {
-            "name": "Piłka ręczna mężczyzn: Mistrzostwa świata U-21 - Polska 2025 - mecz: Szwecja - Portugalia",
-            "description": "W Sosnowcu zmierzą się drużyny, które przeszły pierwszą fazę światowego czempionatu jak burza. Zarówno Szwecja, jak i Portugalia zanotowała komplet zwycięstw. Prawdopodobny jest scenariusz, w którym obie ekipy po tym meczu będą świętować awans do ćwierćfinału.",
-            "startDate": "2025-06-25T16:15:48+01:00"
-          },
-          {
-            "name": "Tenis: Turniej Wimbledon - eliminacje",
-            "description": "Tenisistki i tenisiści spoza pierwszej setki rankingu WTA i ATP muszą walczyć o miejsce w głównej drabince turnieju w trzystopniowych eliminacjach. W rywalizacji pań zobaczymy trzy nasze reprezentantki Maję Chwalińską, Katarzynę Kawę i Lindę Klimovicovą.",
-            "startDate": "2025-06-25T18:18:48+01:00"
-          },
-          {
-            "name": "Lekkoatletyka: Zawody World Athletics Continental Tour Gold - Ostrawa 2025",
-            "description": "W zawodach zaliczanych do prestiżowego cyklu World Athletics Continental Tour Gold wystąpią takie gwiazdy królowej sportu jak Grant Holloway czy Armand Duplantis. My liczymy na podobne sukcesy reprezentantów Polski jak przed rokiem, kiedy w Ostrawie wygrywały Ewa Swoboda i Natalia Bukowiecka.",
-            "startDate": "2025-06-25T20:01:48+01:00"
-          },
-          {
-            "name": "Sporty walki: Babilon MMA 45 w Nowym Targu - walka: Szymon Rakowicz - Paweł Polityło",
-            "description": "Szymon Rakowicz, król wagi piórkowej, staje do obrony mistrzowskiego pasa Babilon MMA. Podczas gali w Nowym Targu tytuł spróbuje odebrać mu Paweł Polityło, który w przeszłości święcił triumfy pod banderą organizacji KSW.",
-            "startDate": "2025-06-25T22:13:48+01:00"
+            "startDate": "2025-06-24T12:01:48+01:00"
           }
         ]
       }

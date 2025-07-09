@@ -4,30 +4,36 @@
       "content": {
         "page": [
           {
-            "articleId": "202505220000001",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/b9/b9zb28ud4adhfcan6d2gouf4rzgdm3mm.jpg",
+            "articleId": "202507050000001",
+            "imageUrl": "https://static.dw.com/image/73141865_1004.webp",
             "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-22T09:58:12+02:00",
-            "title": "\"Bałtyk stanie się miejscem permanentnej konfrontacji\". Premier o rosyjskim statku \"floty cieni\"",
-            "description": "To się może powtarzać w przyszłości coraz intensywniej. Bałtyk stanie się miejscem permanentnej konfrontacji - powiedział premier Donald Tusk odnosząc się do incydentu z rosyjskim statkiem z tzw. floty cieni. Jak dodał, to jest agresja wymierzona wprost w infrastrukturę.",
-            "sourceDomain": "polsatnews.pl",
+            "language": "en",
+            "pubDate": "2025-07-05T08:13:12+02:00",
+            "title": "Fleeing, injured, and forgotten in Poland's border forest",
+            "description": "For four years now, Poland has taken drastic measures to stop refugees from entering the EU across its border with Belarus. The humanitarian consequences are dire. DW spent a day with the activists who try to help them.",
+            "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250522,
+            "uploadedDayDate": 20250705,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "polska",
-                "topicCategoryName": "Polska",
-                "topicId": "polska",
-                "topicName": "Polska"
+                "topicCategoryId": "migration",
+                "topicCategoryName": "Migration",
+                "topicId": "migration",
+                "topicName": "Migration"
               },
               {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
+                "topicCategoryId": "poland",
+                "topicCategoryName": "Poland",
+                "topicId": "poland",
+                "topicName": "Poland"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
               }
             ],
             "isVideo": false,
@@ -41,39 +47,45 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/baltyk-stanie-sie-miejscem-permanentnej-konfrontacji-tusk-po-naradzie/",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/baltyk-stanie-sie-miejscem-permanentnej-konfrontacji-tusk-po-naradzie/",
+            "webContentUrl": "https://www.dw.com/en/fleeing-injured-and-forgotten-migrants-in-polands-border-forest/a-73170155",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/fleeing-injured-and-forgotten-migrants-in-polands-border-forest/a-73170155",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-05-22T09:58:12+02:00"
+            "updateDate": "2025-07-05T08:13:12+02:00"
           },
           {
-            "articleId": "202505220000002",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/i8/i8ssc9qp9t73dcos1xtvpbi2sc1o2j6y.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-22T09:58:12+02:00",
-            "title": "W polskiej armii służą nie tylko Polacy. MON ujawniło dane",
-            "description": "W polskiej armii służy około 250 osób z podwójnym obywatelstwem - informuje \"Rzeczpospolita\". Z danych udostępnionych przez MON wynika, że legitymują się oni paszportami z 27 krajów. Jak przekazał wiceminister obrony Paweł Bejda ośmiu z nich ma obywatelstwo ukraińskie.",
-            "sourceDomain": "polsatnews.pl",
+            "articleId": "202507040000001",
+            "imageUrl": "https://static.dw.com/image/72883828_1004.webp",
+            "country": "ua",
+            "language": "en",
+            "pubDate": "2025-07-04T08:13:12+02:00",
+            "title": "Ukraine: Discrimination and hope drive LGBTQ+ soldiers",
+            "description": "Up to 10% of Ukrainian soldiers are thought to be from the LGBTQ+ community. While tolerance is improving, Ukraine still does not guarantee legal equality.",
+            "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250522,
+            "uploadedDayDate": 20250704,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "polska",
-                "topicCategoryName": "Polska",
-                "topicId": "polska",
-                "topicName": "Polska"
+                "topicCategoryId": "diversity",
+                "topicCategoryName": "Diversity",
+                "topicId": "diversity",
+                "topicName": "Diversity"
               },
               {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
+                "topicCategoryId": "ukraine",
+                "topicCategoryName": "Ukraine",
+                "topicId": "ukraine",
+                "topicName": "Ukraine"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
               }
             ],
             "isVideo": false,
@@ -87,39 +99,45 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/w-polskiej-armii-nie-tylko-polacy-mon-ujawnilo-dane/",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/w-polskiej-armii-nie-tylko-polacy-mon-ujawnilo-dane/",
+            "webContentUrl": "https://www.dw.com/en/ukraine-discrimination-and-hope-drive-lgbtq-soldiers/a-73109319",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/ukraine-discrimination-and-hope-drive-lgbtq-soldiers/a-73109319",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-05-22T09:58:12+02:00"
+            "updateDate": "2025-07-04T08:13:12+02:00"
           },
           {
-            "articleId": "202505220000003",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/u2/u2fj8mtr1bqibvkzjch72cm8zrqc9amw.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-22T07:34:17+02:00",
-            "title": "Saperzy przy więzieniu w Iławie. Mieszkańcy miasta wezwani do ewakuacji",
-            "description": "Przy zakładzie karnym w Iławie (woj. warmińsko-mazurskie) znaleziono niewybuchy. W związku z planowaną akcją saperów w okolicy zarządzono ewakuację mieszkańców. W tym czasie nieczynnych będzie również kilka lokali usługowych, zmieniona została również trasa komunikacji miejskiej.",
-            "sourceDomain": "polsatnews.pl",
+            "articleId": "202507040000002",
+            "imageUrl": "https://static.dw.com/image/70814160_1004.webp",
+            "country": "ua",
+            "language": "en",
+            "pubDate": "2025-07-04T09:13:12+02:00",
+            "title": "'One event' arms pause troubling for Ukraine",
+            "description": "The US says its pause on arms shipments is a one-off. But amid the turbulent US-Ukraine relationship, the assurance is little comfort to Volodymyr Zelenskyy or his European supporters.",
+            "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250522,
+            "uploadedDayDate": 20250704,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "polska",
-                "topicCategoryName": "Polska",
-                "topicId": "polska",
-                "topicName": "Polska"
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
               },
               {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
+                "topicCategoryId": "unitedStatesOfAmerica",
+                "topicCategoryName": "United States of America",
+                "topicId": "unitedStatesOfAmerica",
+                "topicName": "United States of America"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
               }
             ],
             "isVideo": false,
@@ -133,39 +151,45 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/niebezpieczne-odkrycie-w-ilawie-mieszkancy-wezwani-do-ewakuacji/",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/niebezpieczne-odkrycie-w-ilawie-mieszkancy-wezwani-do-ewakuacji/",
+            "webContentUrl": "https://www.dw.com/en/one-event-arms-pause-troubling-for-ukraine/a-73144853",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/one-event-arms-pause-troubling-for-ukraine/a-73144853",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-05-22T07:34:17+02:00"
+            "updateDate": "2025-07-04T09:13:12+02:00"
           },
           {
-            "articleId": "202505220000004",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/od/odupb6rfezoeq16w77e3w7c9c8qramnj.jpg",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-22T08:50:12+02:00",
-            "title": "Trump dostał latający prezent. Jest wart 400 mln dolarów",
-            "description": "\"To prawdopodobnie najdroższy podarunek od obcego rządu w historii\" - tak amerykańskie media określiły wart 400 mln dolarów samolot Boeing 747, który rząd Kataru podarował Donaldowi Trumpowi. Prezydent USA chce, żeby maszyna została nowym Air Force One - czyli oficjalnym prezydenckim statkiem powietrznym",
-            "sourceDomain": "polsatnews.pl",
+            "articleId": "202507040000003",
+            "imageUrl": "https://static.dw.com/image/73095839_1004.webp",
+            "country": "cn",
+            "language": "en",
+            "pubDate": "2025-07-04T12:13:12+02:00",
+            "title": "Can BRICS project unity amid global tensions?",
+            "description": "The influence of BRICS, a global forum championed by China, Russia, and India, is on the rise. Still, even its major members have to negotiate internal conflicts amid challenges posed by the Trump administration.",
+            "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250522,
+            "uploadedDayDate": 20250704,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "swiat",
-                "topicCategoryName": "Świat",
-                "topicId": "swiat",
-                "topicName": "Świat"
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
               },
               {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
+                "topicCategoryId": "china",
+                "topicCategoryName": "China",
+                "topicId": "china",
+                "topicName": "China"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
               }
             ],
             "isVideo": false,
@@ -179,39 +203,45 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/trump-dostal-latajacy-prezent-jest-wart-400-mln-dolarow/",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/trump-dostal-latajacy-prezent-jest-wart-400-mln-dolarow/",
+            "webContentUrl": "https://www.dw.com/en/can-brics-project-unity-amid-global-tensions/a-73158174",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/can-brics-project-unity-amid-global-tensions/a-73158174",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-05-22T08:50:12+02:00"
+            "updateDate": "2025-07-04T12:13:12+02:00"
           },
           {
-            "articleId": "202505220000005",
-            "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/h2/h29j9dijzezj81zze3f4hnm61bq87dmq.jfif",
-            "country": "pl",
-            "language": "pl",
-            "pubDate": "2025-05-26T10:19:12+02:00",
-            "title": "Władysław Kosiniak-Kamysz w \"Graffiti\"",
-            "description": "Gościem czwartkowego \"Graffiti\" będzie minister obrony narodowej Władysław Kosiniak-Kamysz. Prowadzący Marcin Fijołek zapyta polityka m. in. o incydent na Bałtyku z udziałem rosyjskiej floty cieni oraz o zbliżającą się drugą turę wyborów prezydenckich. Transmisja w Polsacie, Polsat News, Interii i polsatnews.pl od godziny 7:40.",
-            "sourceDomain": "polsatnews.pl",
+            "articleId": "202507030000001",
+            "imageUrl": "https://static.dw.com/image/62721793_1004.webp",
+            "country": "eu",
+            "language": "en",
+            "pubDate": "2025-07-04T08:13:12+02:00",
+            "title": "Euro's climb vs. dollar signals trouble for EU exporters",
+            "description": "Donald Trump's tariffs were meant to prop up the dollar, but the opposite happened. With the euro and others strengthening against the US currency, European exporters and US offshorers could soon feel the pinch.",
+            "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250522,
+            "uploadedDayDate": 20250703,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "polska",
-                "topicCategoryName": "Polska",
-                "topicId": "polska",
-                "topicName": "Polska"
+                "topicCategoryId": "business",
+                "topicCategoryName": "Business",
+                "topicId": "politics",
+                "topicName": "Politics"
               },
               {
-                "topicCategoryId": "najnowsze",
-                "topicCategoryName": "Najnowsze",
-                "topicId": "najnowsze",
-                "topicName": "Najnowsze"
+                "topicCategoryId": "europe",
+                "topicCategoryName": "Europe",
+                "topicId": "europe",
+                "topicName": "Europe"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
               }
             ],
             "isVideo": false,
@@ -225,13 +255,68 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.polsatnews.pl/wiadomosc/2025-05-22/wladyslaw-kosiniak-kamysz-w-graffiti-transmisja-w-polsat-news/",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.polsatnews.pl/wiadomosc/2025-05-22/wladyslaw-kosiniak-kamysz-w-graffiti-transmisja-w-polsat-news/",
+            "webContentUrl": "https://www.dw.com/en/euros-climb-vs-dollar-signals-trouble-for-eu-exporters/a-73103018",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/euros-climb-vs-dollar-signals-trouble-for-eu-exporters/a-73103018",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-05-26T10:19:12+02:00"
+            "updateDate": "2025-07-03T08:13:12+02:00"
+          },
+          {
+            "articleId": "202507030000002",
+            "imageUrl": "https://static.dw.com/image/73126712_1004.webp",
+            "country": "az",
+            "language": "en",
+            "pubDate": "2025-07-03T16:12:12+02:00",
+            "title": "Russia: Is Moscow losing Azerbaijan as an ally?",
+            "description": "Relations between Russia and Azerbaijan have cooled following contentious arrests in both countries. Russia may be about to lose even more influence in the Caucasus.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250703,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": true,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": true
+            },
+            "isNative": true,
+            "webContentUrl": "https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334",
+            "isForcingDarkModeInWeb": true,
+            "deepLink": "https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334",
+            "nativeContent": [],
+            "contentAuthors": [
+              {
+                "name": "Alexey Strelnikov",
+                "description": ""
+              },
+              {
+                "name": "Juri Rescheto",
+                "description": "DW Riga Bureau Chief"
+              }
+            ],
+            "isSettings": false,
+            "updateDate": "2025-07-03T20:12:12+02:00"
           }
         ]
       }

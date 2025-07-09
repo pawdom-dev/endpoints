@@ -4,24 +4,24 @@
       "content": {
         "page": [
           {
-            "articleId": "202507050000001",
-            "imageUrl": "https://static.dw.com/image/73141865_1004.webp",
+            "articleId": "202507070000001",
+            "imageUrl": "https://static.dw.com/image/73182395_1004.webp",
             "country": "pl",
             "language": "en",
-            "pubDate": "2025-07-05T08:13:12+02:00",
-            "title": "Fleeing, injured, and forgotten in Poland's border forest",
-            "description": "For four years now, Poland has taken drastic measures to stop refugees from entering the EU across its border with Belarus. The humanitarian consequences are dire. DW spent a day with the activists who try to help them.",
+            "pubDate": "2025-07-07T08:15:12+02:00",
+            "title": "Poland's border checks: Beginning of the end of Schengen?",
+            "description": "Border controls are creeping back across Europe, known as a free-travel zone. But are they solving anything?",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250705,
+            "uploadedDayDate": 20250707,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "migration",
-                "topicCategoryName": "Migration",
-                "topicId": "migration",
-                "topicName": "Migration"
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
               },
               {
                 "topicCategoryId": "poland",
@@ -47,39 +47,39 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/fleeing-injured-and-forgotten-migrants-in-polands-border-forest/a-73170155",
+            "webContentUrl": "https://www.dw.com/en/polands-new-border-checks-the-beginning-of-the-end-of-free-travel-in-europe/a-73185689",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/fleeing-injured-and-forgotten-migrants-in-polands-border-forest/a-73170155",
+            "deepLink": "https://www.dw.com/en/polands-new-border-checks-the-beginning-of-the-end-of-free-travel-in-europe/a-73185689",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-05T08:13:12+02:00"
+            "updateDate": "2025-07-07T08:15:12+02:00"
           },
           {
-            "articleId": "202507040000001",
-            "imageUrl": "https://static.dw.com/image/72883828_1004.webp",
-            "country": "ua",
+            "articleId": "202507070000002",
+            "imageUrl": "https://static.dw.com/image/73171507_1004.webp",
+            "country": "pl",
             "language": "en",
-            "pubDate": "2025-07-04T08:13:12+02:00",
-            "title": "Ukraine: Discrimination and hope drive LGBTQ+ soldiers",
-            "description": "Up to 10% of Ukrainian soldiers are thought to be from the LGBTQ+ community. While tolerance is improving, Ukraine still does not guarantee legal equality.",
+            "pubDate": "2025-07-07T10:13:12+02:00",
+            "title": "Bayern Munich, Musiala and the Club World Cup: What now?",
+            "description": "After Bayern Munich's elimination from the FIFA Club World Cup and Jamal Musiala's serious injury, questions are being asked about the club's sporting class, possible transfers and sporting director Max Eberl's future.",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250704,
+            "uploadedDayDate": 20250707,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "diversity",
-                "topicCategoryName": "Diversity",
-                "topicId": "diversity",
-                "topicName": "Diversity"
+                "topicCategoryId": "soccer",
+                "topicCategoryName": "Soccer",
+                "topicId": "soccer",
+                "topicName": "Soccer"
               },
               {
-                "topicCategoryId": "ukraine",
-                "topicCategoryName": "Ukraine",
-                "topicId": "ukraine",
-                "topicName": "Ukraine"
+                "topicCategoryId": "germany",
+                "topicCategoryName": "Germany",
+                "topicId": "germany",
+                "topicName": "Germany"
               },
               {
                 "topicCategoryId": "topStories",
@@ -99,25 +99,77 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/ukraine-discrimination-and-hope-drive-lgbtq-soldiers/a-73109319",
+            "webContentUrl": "https://www.dw.com/en/bayern-munich-musiala-and-the-club-world-cup-what-now/a-73186102",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/ukraine-discrimination-and-hope-drive-lgbtq-soldiers/a-73109319",
+            "deepLink": "https://www.dw.com/en/bayern-munich-musiala-and-the-club-world-cup-what-now/a-73186102",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-04T08:13:12+02:00"
+            "updateDate": "2025-07-07T10:13:12+02:00"
           },
           {
-            "articleId": "202507040000002",
-            "imageUrl": "https://static.dw.com/image/70814160_1004.webp",
-            "country": "ua",
+            "articleId": "202507070000003",
+            "imageUrl": "https://static.dw.com/image/72525175_1004.webp",
+            "country": "pl",
             "language": "en",
-            "pubDate": "2025-07-04T09:13:12+02:00",
-            "title": "'One event' arms pause troubling for Ukraine",
-            "description": "The US says its pause on arms shipments is a one-off. But amid the turbulent US-Ukraine relationship, the assurance is little comfort to Volodymyr Zelenskyy or his European supporters.",
+            "pubDate": "2025-07-07T11:13:12+02:00",
+            "title": "Why US chocolate tastes weird to the rest of the world",
+            "description": "Chocolate is popular almost everywhere. But tastes vary depending on the continent. While some regions like their chocolate sugary sweet, others prefer more fruity or nutty notes.",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250704,
+            "uploadedDayDate": 20250707,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "culture",
+                "topicCategoryName": "Culture",
+                "topicId": "culture",
+                "topicName": "Culture"
+              },
+              {
+                "topicCategoryId": "globalIssues",
+                "topicCategoryName": "Global issues",
+                "topicId": "globalIssues",
+                "topicName": "Global issues"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/why-chocolate-tastes-different-around-the-world/a-73159385",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/why-chocolate-tastes-different-around-the-world/a-73159385",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-07T11:13:12+02:00"
+          },
+          {
+            "articleId": "202507070000004",
+            "imageUrl": "https://static.dw.com/image/56458071_1004.webp",
+            "country": "dk",
+            "language": "en",
+            "pubDate": "2025-07-07T13:13:12+02:00",
+            "title": "Can Denmark keep the EU green?",
+            "description": "Denmark says cutting emissions will help the EU defend itself and compete with China and the US. However, keeping the EU's beleaguered green deal alive amid a climate policy backlash won't be easy.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250707,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
@@ -128,10 +180,10 @@
                 "topicName": "Politics"
               },
               {
-                "topicCategoryId": "unitedStatesOfAmerica",
-                "topicCategoryName": "United States of America",
-                "topicId": "unitedStatesOfAmerica",
-                "topicName": "United States of America"
+                "topicCategoryId": "Denmark",
+                "topicCategoryName": "denmark",
+                "topicId": "Denmark",
+                "topicName": "denmark"
               },
               {
                 "topicCategoryId": "topStories",
@@ -151,85 +203,33 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/one-event-arms-pause-troubling-for-ukraine/a-73144853",
+            "webContentUrl": "https://www.dw.com/en/can-denmark-keep-the-eu-green/a-73176937",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/one-event-arms-pause-troubling-for-ukraine/a-73144853",
+            "deepLink": "https://www.dw.com/en/can-denmark-keep-the-eu-green/a-73176937",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-04T09:13:12+02:00"
+            "updateDate": "2025-07-07T14:13:12+02:00"
           },
           {
-            "articleId": "202507040000003",
-            "imageUrl": "https://static.dw.com/image/73095839_1004.webp",
-            "country": "cn",
-            "language": "en",
-            "pubDate": "2025-07-04T12:13:12+02:00",
-            "title": "Can BRICS project unity amid global tensions?",
-            "description": "The influence of BRICS, a global forum championed by China, Russia, and India, is on the rise. Still, even its major members have to negotiate internal conflicts amid challenges posed by the Trump administration.",
-            "sourceDomain": "dw.com",
-            "paywall": false,
-            "uploadedDayDate": 20250704,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "politics",
-                "topicCategoryName": "Politics",
-                "topicId": "politics",
-                "topicName": "Politics"
-              },
-              {
-                "topicCategoryId": "china",
-                "topicCategoryName": "China",
-                "topicId": "china",
-                "topicName": "China"
-              },
-              {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStories",
-                "topicName": "Top Stories"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": false,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": false
-            },
-            "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/can-brics-project-unity-amid-global-tensions/a-73158174",
-            "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/can-brics-project-unity-amid-global-tensions/a-73158174",
-            "nativeContent": [],
-            "contentAuthors": [],
-            "isSettings": false,
-            "updateDate": "2025-07-04T12:13:12+02:00"
-          },
-          {
-            "articleId": "202507030000001",
-            "imageUrl": "https://static.dw.com/image/62721793_1004.webp",
+            "articleId": "202507070000005",
+            "imageUrl": "https://static.dw.com/image/69404293_1004.webp",
             "country": "eu",
             "language": "en",
-            "pubDate": "2025-07-04T08:13:12+02:00",
-            "title": "Euro's climb vs. dollar signals trouble for EU exporters",
-            "description": "Donald Trump's tariffs were meant to prop up the dollar, but the opposite happened. With the euro and others strengthening against the US currency, European exporters and US offshorers could soon feel the pinch.",
+            "pubDate": "2025-07-07T15:13:12+02:00",
+            "title": "Global Media Forum 2025: Building bridges to beat populism",
+            "description": "DW has invited media professionals from all over the world to Bonn, Germany, where they will discuss strategies for solidarity in an age of polarization.",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250703,
+            "uploadedDayDate": 20250707,
             "positionLift": 0,
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "business",
-                "topicCategoryName": "Business",
-                "topicId": "politics",
-                "topicName": "Politics"
+                "topicCategoryId": "freedomOfSpeech",
+                "topicCategoryName": "Freedom of Speech",
+                "topicId": "freedomOfSpeech",
+                "topicName": "Freedom of Speech"
               },
               {
                 "topicCategoryId": "europe",
@@ -255,68 +255,13 @@
               "isDescriptionImportant": false
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/euros-climb-vs-dollar-signals-trouble-for-eu-exporters/a-73103018",
+            "webContentUrl": "https://www.dw.com/en/global-media-forum-2025-building-bridges-to-beat-populism/a-73151481",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/euros-climb-vs-dollar-signals-trouble-for-eu-exporters/a-73103018",
+            "deepLink": "https://www.dw.com/en/global-media-forum-2025-building-bridges-to-beat-populism/a-73151481",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-03T08:13:12+02:00"
-          },
-          {
-            "articleId": "202507030000002",
-            "imageUrl": "https://static.dw.com/image/73126712_1004.webp",
-            "country": "az",
-            "language": "en",
-            "pubDate": "2025-07-03T16:12:12+02:00",
-            "title": "Russia: Is Moscow losing Azerbaijan as an ally?",
-            "description": "Relations between Russia and Azerbaijan have cooled following contentious arrests in both countries. Russia may be about to lose even more influence in the Caucasus.",
-            "sourceDomain": "dw.com",
-            "paywall": false,
-            "uploadedDayDate": 20250703,
-            "positionLift": 0,
-            "isHidden": false,
-            "topics": [
-              {
-                "topicCategoryId": "politics",
-                "topicCategoryName": "Politics",
-                "topicId": "politics",
-                "topicName": "Politics"
-              },
-              {
-                "topicCategoryId": "topStories",
-                "topicCategoryName": "Top Stories",
-                "topicId": "topStories",
-                "topicName": "Top Stories"
-              }
-            ],
-            "isVideo": false,
-            "isPoliticalLeft": false,
-            "isPoliticalRight": false,
-            "isPoliticalCenter": false,
-            "contentRank": {
-              "isImportant": false,
-              "isHistoric": true,
-              "isCoverUnimportant": false,
-              "isDescriptionImportant": true
-            },
-            "isNative": true,
-            "webContentUrl": "https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334",
-            "isForcingDarkModeInWeb": true,
-            "deepLink": "https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334",
-            "nativeContent": [],
-            "contentAuthors": [
-              {
-                "name": "Alexey Strelnikov",
-                "description": ""
-              },
-              {
-                "name": "Juri Rescheto",
-                "description": "DW Riga Bureau Chief"
-              }
-            ],
-            "isSettings": false,
-            "updateDate": "2025-07-03T20:12:12+02:00"
+            "updateDate": "2025-07-07T15:13:12+02:00"
           }
         ]
       }
