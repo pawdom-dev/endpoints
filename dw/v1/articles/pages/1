@@ -278,8 +278,8 @@
           },
           {
             "type": "channels",
-            "label": "Na żywo",
-            "id": "naZywo",
+            "label": "Live",
+            "id": "live",
             "isOnlyVideo": false,
             "isShowingInfoLine": false,
             "iconId": "videoCam",
@@ -289,8 +289,8 @@
           },
           {
             "type": "bookmarks",
-            "label": "Zakładki",
-            "id": "zakladki",
+            "label": "Bookmarks",
+            "id": "bookmarks",
             "isOnlyVideo": false,
             "isShowingInfoLine": false,
             "iconId": "bookmark",
