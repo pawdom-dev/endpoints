@@ -1,0 +1,73 @@
+{
+  "data": {
+    "details": {
+      "articleId": "202507090000004",
+      "imageUrl": "https://static.dw.com/image/73210891_602.jpg",
+      "country": "de",
+      "language": "en",
+      "pubDate": "2025-07-09T13:13:12+02:00",
+      "title": "Taiwan pushes to develop military capacities with sea drones",
+      "description": "As China has heavily invested in its armed forces over past decades, fears in Taiwan of an attack are increasing. To counter China's massive navy buildup, Taiwan is looking to technology that could give it an edge in a possible asymmetric war.",
+      "sourceDomain": "dw.com",
+      "paywall": false,
+      "uploadedDayDate": 20250709,
+      "positionLift": 0,
+      "isHidden": false,
+      "topics": [
+        {
+          "topicCategoryId": "conflicts",
+          "topicCategoryName": "Conflicts",
+          "topicId": "conflicts",
+          "topicName": "Conflicts"
+        },
+        {
+          "topicCategoryId": "taiwan",
+          "topicCategoryName": "Taiwan",
+          "topicId": "taiwan",
+          "topicName": "Taiwan"
+        },
+        {
+          "topicCategoryId": "topStories",
+          "topicCategoryName": "Top Stories",
+          "topicId": "topStories",
+          "topicName": "Top Stories"
+        }
+      ],
+      "isVideo": false,
+      "isPoliticalLeft": false,
+      "isPoliticalRight": false,
+      "isPoliticalCenter": false,
+      "contentRank": {
+        "isImportant": false,
+        "isHistoric": false,
+        "isCoverUnimportant": false,
+        "isDescriptionImportant": false
+      },
+      "isNative": true,
+      "webContentUrl": "https://www.dw.com/en/taiwan-pushes-to-develop-military-capacities-with-sea-drones/video-73210750",
+      "isForcingDarkModeInWeb": false,
+      "deepLink": "https://www.dw.com/en/taiwan-pushes-to-develop-military-capacities-with-sea-drones/video-73210750",
+      "nativeContent": [
+        {
+          "type": "header",
+          "text": "Taiwan pushes to develop military capacities with sea drones"
+        },
+        {
+          "type": "video",
+          "description": "",
+          "videoUrl": "https://hlsvod.dw.com/i/dwtv_video/flv/je/je20250709_QSEADRONES_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
+          "videoAspectRatioWidth": 16,
+          "videoAspectRatioHeight": 9
+        }
+      ],
+      "contentAuthors": [
+        {
+          "name": "Mathias Bölinger",
+          "description": "DW-Reporter and head of investigations. Former correspondent in Beijing and Kyiv"
+        }
+      ],
+      "isSettings": false,
+      "updateDate": "2025-07-09T13:13:12+02:00"
+    }
+  }
+}
