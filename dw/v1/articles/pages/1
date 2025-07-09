@@ -348,7 +348,7 @@
                 "topicName": "Top Stories"
               }
             ],
-            "isVideo": false,
+            "isVideo": true,
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
@@ -504,7 +504,7 @@
                 "topicName": "Top Stories"
               }
             ],
-            "isVideo": false,
+            "isVideo": true,
             "isPoliticalLeft": false,
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
