@@ -47,7 +47,59 @@
       "webContentUrl": "https://www.dw.com/en/musks-grok-chatbot-at-the-center-of-antisemitic-scandal/a-73212009",
       "isForcingDarkModeInWeb": false,
       "deepLink": "https://www.dw.com/en/musks-grok-chatbot-at-the-center-of-antisemitic-scandal/a-73212009",
-      "nativeContent": [],
+      "nativeContent": [
+        {
+          "type": "header",
+          "text": "Musk's Grok chatbot at the center of antisemitic scandal"
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "boldText",
+              "text": "Complaints were lodged after Grok posted antisemitic content, including praise for Adolf Hitler. Elon Musk's xAI removed \"inappropriate\" posts."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "url": "https://static.dw.com/image/67801820_1004.webp",
+          "description": "Grok was criticized for answering multiple user prompts with the questionable posts",
+          "source": "Jakub Porzycki/NurPhoto/picture alliance"
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Tech billionaire "
+            },
+            {
+              "type": "link",
+              "text": "Elon Musk",
+              "url": "https://www.dw.com/en/elon-musk/t-63587027"
+            },
+            {
+              "type": "text",
+              "text": "'s AI chatbot Grok is at the center of scandal after posting "
+            },
+            {
+              "type": "link",
+              "text": "antisemitic",
+              "url": "https://www.dw.com/en/antisemitism/t-38206553"
+            },
+            {
+              "type": "text",
+              "text": " remarks\n\nDeveloper xAI announced on Wednesday that it was in the process of removing \"inappropriate posts\" by Grok on the online platform X.\n\nThat comes after complaints from users on social media platform X and the US-based Anti-Defamation League (ADL) that "
+            },
+            {
+              "type": "link",
+              "text": " Grok was producing content that had antisemitic tropes and praise for Adolf Hitler.",
+              "url": "https://www.dw.com/en/fact-check-hey-grok-is-this-true-how-trustworthy-are-ai-fact-checks/a-72539345"
+            }
+          ]
+        }
+      ],
       "contentAuthors": [
         {
           "name": "Kieran Burke",
