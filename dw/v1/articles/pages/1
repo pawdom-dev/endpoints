@@ -531,6 +531,63 @@
             ],
             "isSettings": false,
             "updateDate": "2025-07-09T13:13:12+02:00"
+          },
+          {
+            "articleId": "202507090000005",
+            "imageUrl": "https://static.dw.com/image/67801820_1004.webp",
+            "country": "de",
+            "language": "en",
+            "pubDate": "2025-07-09T13:43:12+02:00",
+            "title": "Musk's Grok chatbot at the center of antisemitic scandal",
+            "description": "Complaints were lodged after Grok posted antisemitic content, including praise for Adolf Hitler. Elon Musk's xAI removed \"inappropriate\" posts.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250709,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "technology",
+                "topicCategoryName": "Technology",
+                "topicId": "technology",
+                "topicName": "Technology"
+              },
+              {
+                "topicCategoryId": "unitedStatesOfAmerica",
+                "topicCategoryName": "United States of America",
+                "topicId": "unitedStatesOfAmerica",
+                "topicName": "United States of America"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": true,
+            "webContentUrl": "https://www.dw.com/en/musks-grok-chatbot-at-the-center-of-antisemitic-scandal/a-73212009",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/musks-grok-chatbot-at-the-center-of-antisemitic-scandal/a-73212009",
+            "nativeContent": [],
+            "contentAuthors": [
+              {
+                "name": "Kieran Burke",
+                "description": "News writer and editor focused on international relations, global security and law enforcement."
+              }
+            ],
+            "isSettings": false,
+            "updateDate": "2025-07-09T13:43:12+02:00"
           }
         ]
       }
