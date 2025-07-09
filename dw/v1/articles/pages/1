@@ -264,15 +264,15 @@
           },
           {
             "type": "categories",
-            "label": "Sport",
-            "id": "sport",
-            "isOnlyVideo": false,
-            "iconId": "soccerBall",
+            "label": "Video",
+            "id": "video",
+            "isOnlyVideo": true,
+            "iconId": "onDemandVideo",
             "topicCategoryIds": [
-              "sport"
+              "topStories"
             ],
             "topicCategoryNames": [
-              "Sport"
+              "Top Stories"
             ],
             "categoriesLimits": []
           },
