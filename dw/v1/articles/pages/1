@@ -321,15 +321,15 @@
         "page": [
           {
             "articleId": "202507090000001",
-            "imageUrl": "https://static.dw.com/image/72169386_1004.webp",
-            "country": "usa",
+            "imageUrl": "https://static.dw.com/image/73199859_602.jpg",
+            "country": "de",
             "language": "en",
-            "pubDate": "2025-07-08T08:13:12+02:00",
-            "title": "Trump, Netanyahu tout 'Iran win' as Gaza ceasefire stalls",
-            "description": "Trump and Netanyahu hailed strikes on Iran's nuclear sites. However, questions on an Israel-Hamas ceasefire and how to achieve peace in the Middle East still linger.",
+            "pubDate": "2025-07-09T08:13:12+02:00",
+            "title": "Israeli settler violence blocks land access in West Bank",
+            "description": "Settler attacks are a frequent occurrence in the occupied West Bank, preventing many Palestinians from accessing their lands. When a DW team traveled to the town of Sinjil to cover a protest by residents, they themselves, along with protesters, came under attack.",
             "sourceDomain": "dw.com",
             "paywall": false,
-            "uploadedDayDate": 20250708,
+            "uploadedDayDate": 20250709,
             "positionLift": 10,
             "isHidden": false,
             "topics": [
@@ -340,10 +340,10 @@
                 "topicName": "Conflicts"
               },
               {
-                "topicCategoryId": "middleEast",
-                "topicCategoryName": "Middle East",
-                "topicId": "middleEast",
-                "topicName": "Middle East"
+                "topicCategoryId": "palestinianTerritories",
+                "topicCategoryName": "Palestinian Territories",
+                "topicId": "palestinianTerritories",
+                "topicName": "Palestinian Territories"
               },
               {
                 "topicCategoryId": "topStories",
@@ -363,13 +363,13 @@
               "isDescriptionImportant": true
             },
             "isNative": false,
-            "webContentUrl": "https://www.dw.com/en/trump-netanyahu-tout-iran-win-as-gaza-ceasefire-stalls/a-73191366",
+            "webContentUrl": "https://www.dw.com/en/israeli-settler-violence-blocks-land-in-occupied-west-bank/video-73200304",
             "isForcingDarkModeInWeb": false,
-            "deepLink": "https://www.dw.com/en/trump-netanyahu-tout-iran-win-as-gaza-ceasefire-stalls/a-73191366",
+            "deepLink": "https://www.dw.com/en/israeli-settler-violence-blocks-land-in-occupied-west-bank/video-73200304",
             "nativeContent": [],
             "contentAuthors": [],
             "isSettings": false,
-            "updateDate": "2025-07-08T08:31:12+02:00"
+            "updateDate": "2025-07-09T08:13:12+02:00"
           }
         ]
       }
