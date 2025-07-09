@@ -358,9 +358,9 @@
             "isPoliticalCenter": false,
             "contentRank": {
               "isImportant": false,
-              "isHistoric": true,
+              "isHistoric": false,
               "isCoverUnimportant": false,
-              "isDescriptionImportant": true
+              "isDescriptionImportant": false
             },
             "isNative": false,
             "webContentUrl": "https://www.dw.com/en/israeli-settler-violence-blocks-land-in-occupied-west-bank/video-73200304",
@@ -370,6 +370,110 @@
             "contentAuthors": [],
             "isSettings": false,
             "updateDate": "2025-07-09T08:13:12+02:00"
+          },
+          {
+            "articleId": "202507090000002",
+            "imageUrl": "https://static.dw.com/image/73206790_1004.webp",
+            "country": "de",
+            "language": "en",
+            "pubDate": "2025-07-09T09:13:12+02:00",
+            "title": "India: At least 9 killed after bridge collapse",
+            "description": "Authorities said several vehicles were on the bridge at the time of the collapse. The area has been hit by heavy rains in recent days.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250709,
+            "positionLift": 10,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "catastrophe",
+                "topicCategoryName": "Catastrophe",
+                "topicId": "catastrophe",
+                "topicName": "Catastrophe"
+              },
+              {
+                "topicCategoryId": "india",
+                "topicCategoryName": "India",
+                "topicId": "india",
+                "topicName": "India"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/india-at-least-9-killed-after-bridge-collapse/a-73208999",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/india-at-least-9-killed-after-bridge-collapse/a-73208999",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-09T09:13:12+02:00"
+          },
+          {
+            "articleId": "202507090000003",
+            "imageUrl": "https://static.dw.com/image/73209612_1004.webp",
+            "country": "de",
+            "language": "en",
+            "pubDate": "2025-07-09T10:13:12+02:00",
+            "title": "Germany: Police detain man in anti-terror raids",
+            "description": "Police carried out raids across North Rhine-Westphalia state in connection with a suspected Islamist terror plot. A man has been detained on suspicion of fraud with the intention of financing an Islamist terror attack.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250709,
+            "positionLift": 10,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "Crime",
+                "topicCategoryName": "Crime",
+                "topicId": "Crime",
+                "topicName": "Crime"
+              },
+              {
+                "topicCategoryId": "germany",
+                "topicCategoryName": "Germany",
+                "topicId": "germany",
+                "topicName": "Germany"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            },
+            "isNative": false,
+            "webContentUrl": "https://www.dw.com/en/germany-police-detain-man-in-anti-terror-raids/a-73208072",
+            "isForcingDarkModeInWeb": false,
+            "deepLink": "https://www.dw.com/en/germany-police-detain-man-in-anti-terror-raids/a-73208072",
+            "nativeContent": [],
+            "contentAuthors": [],
+            "isSettings": false,
+            "updateDate": "2025-07-09T10:13:12+02:00"
           }
         ]
       }
