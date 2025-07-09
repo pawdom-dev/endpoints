@@ -53,11 +53,28 @@
           "text": "Taiwan pushes to develop military capacities with sea drones"
         },
         {
+          "type": "pubDate",
+          "isUpdate": false
+        },
+        {
           "type": "video",
           "description": "",
           "videoUrl": "https://hlsvod.dw.com/i/dwtv_video/flv/je/je20250709_QSEADRONES_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8",
           "videoAspectRatioWidth": 16,
           "videoAspectRatioHeight": 9
+        },
+        {
+          "type": "paragraph",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "As China has heavily invested in its armed forces over past decades, fears in Taiwan of an attack are increasing. To counter China's massive navy buildup, Taiwan is looking to technology that could give it an edge in a possible asymmetric war."
+            }
+          ]
+        },
+        {
+          "type": "authors",
+          "isDescription": true
         }
       ],
       "contentAuthors": [
