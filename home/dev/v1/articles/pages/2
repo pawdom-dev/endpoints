@@ -64,12 +64,6 @@
             "isHidden": false,
             "topics": [
               {
-                "topicCategoryId": "",
-                "topicCategoryName": "",
-                "topicId": "",
-                "topicName": ""
-              },
-              {
                 "topicCategoryId": "business",
                 "topicCategoryName": "Business",
                 "topicId": "business",

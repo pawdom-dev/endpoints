@@ -239,25 +239,21 @@
       "bottomNav": {
         "items": [
           {
-            "id": "czytaj",
-            "label": "Czytaj",
+            "id": "read",
+            "label": "Read",
             "isOnlyVideo": false,
             "isShowingInfoLine": true,
             "iconId": "menuBook",
             "type": "categories",
             "topicCategoryIds": [
               "topStories",
-              "najnowsze",
-              "polska",
-              "swiat",
-              "sport"
+              "politics",
+              "conflicts"
             ],
             "topicCategoryNames": [
               "Top Stories",
-              "Najnowsze",
-              "Polska",
-              "Świat",
-              "Sport"
+              "Politics",
+              "Conflicts"
             ],
             "categoriesLimits": [
               {
