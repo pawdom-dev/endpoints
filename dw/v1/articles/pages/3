@@ -262,6 +262,61 @@
             "contentAuthors": [],
             "isSettings": false,
             "updateDate": "2025-07-03T08:13:12+02:00"
+          },
+          {
+            "articleId": "202507030000002",
+            "imageUrl": "https://static.dw.com/image/73126712_1004.webp",
+            "country": "az",
+            "language": "en",
+            "pubDate": "2025-07-03T16:12:12+02:00",
+            "title": "Russia: Is Moscow losing Azerbaijan as an ally?",
+            "description": "Relations between Russia and Azerbaijan have cooled following contentious arrests in both countries. Russia may be about to lose even more influence in the Caucasus.",
+            "sourceDomain": "dw.com",
+            "paywall": false,
+            "uploadedDayDate": 20250703,
+            "positionLift": 0,
+            "isHidden": false,
+            "topics": [
+              {
+                "topicCategoryId": "politics",
+                "topicCategoryName": "Politics",
+                "topicId": "politics",
+                "topicName": "Politics"
+              },
+              {
+                "topicCategoryId": "topStories",
+                "topicCategoryName": "Top Stories",
+                "topicId": "topStories",
+                "topicName": "Top Stories"
+              }
+            ],
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": true,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": true
+            },
+            "isNative": true,
+            "webContentUrl": "https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334",
+            "isForcingDarkModeInWeb": true,
+            "deepLink": "https://www.dw.com/en/russia-is-moscow-losing-azerbaijan-as-an-ally/a-73147334",
+            "nativeContent": [],
+            "contentAuthors": [
+              {
+                "name": "Alexey Strelnikov",
+                "description": ""
+              },
+              {
+                "name": "Juri Rescheto",
+                "description": "DW Riga Bureau Chief"
+              }
+            ],
+            "isSettings": false,
+            "updateDate": "2025-07-03T20:12:12+02:00"
           }
         ]
       }
