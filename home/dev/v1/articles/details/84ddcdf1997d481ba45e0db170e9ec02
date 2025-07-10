@@ -72,6 +72,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "Walmart is talking up its ability to use generative AI as a one-stop shop to search when you need to plan an event, rather than online destination to search for individual items. During a call with analysts after its "
             },
             {
@@ -81,10 +83,14 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": true,
               "text": ", Walmart CEO Doug McMillon talked about the gen AI search capabilities in its . "
             },
             {
-              "type": "boldText",
+              "type": "text",
+              "isBold": true,
+              "isItalic": false,
               "text": "app"
             }
           ]

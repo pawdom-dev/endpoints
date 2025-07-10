@@ -280,6 +280,10 @@
                 "text": "Why Walmart’s quick success in generative AI search should have Google worried"
               },
               {
+                "type": "pubDate",
+                "isUpdate": true
+              },
+              {
                 "type": "image",
                 "url": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1260&h=709&ffmt=webp&vtcrop=y",
                 "description": "Doug McMillon, chief executive officer of Walmart Inc., left, and Satya Nadella, chief executive officer of Microsoft Corp., during the 2024 CES event in Las Vegas, Nevada, US, on Tuesday, Jan. 9, 2024.",
@@ -301,6 +305,8 @@
                 "paragraphs": [
                   {
                     "type": "text",
+                    "isBold": false,
+                    "isItalic": false,
                     "text": "Walmart is talking up its ability to use generative AI as a one-stop shop to search when you need to plan an event, rather than online destination to search for individual items. During a call with analysts after its "
                   },
                   {
@@ -310,13 +316,26 @@
                   },
                   {
                     "type": "text",
+                    "isBold": false,
+                    "isItalic": true,
                     "text": ", Walmart CEO Doug McMillon talked about the gen AI search capabilities in its . "
                   },
                   {
-                    "type": "boldText",
+                    "type": "text",
+                    "isBold": true,
+                    "isItalic": false,
                     "text": "app"
                   }
                 ]
+              },
+              {
+                "type": "webViewItem",
+                "height": 662.0,
+                "html": "<html>              <head>          <meta name='viewport' content='width=device-width, initial-scale=1'>          <style>                       *{box-sizing: border-box;margin:0px; padding:0px;}              #container {                        display: flex;                        justify-content: center;                        margin: 0 auto;                        max-width:100%;                        max-height:100%;                    }                </style>        </head>        <body>            <div id='container'></div>                        </body>        <script id='twitter-wjs' type='text/javascript' async defer src='https://platform.twitter.com/widgets.js' onload='createMyTweet()'></script>        <script>                     function  createMyTweet() {           var twtter = window.twttr;           twttr.widgets.createTweet(          '1524510341165576192',          document.getElementById('container'),          {            theme:'dark',          }        ).then( function( el ) {              const widget = document.getElementById('container');              _sizeChannel.postMessage('{ \"height\" : ' + widget.clientHeight + '}');        });      }        </script>              </html>"
+              },
+              {
+                "type": "authors",
+                "isDescription": true
               }
             ],
             "contentAuthors": [
