@@ -17,27 +17,27 @@
       "appBar": {
         "contactUs": {
           "isOn": true,
-          "title": "Twój news",
-          "description": "Widziałeś ważne wydarzenie?\n\nPrzyślij zdjęcie lub film. Napisz nam, co się stało i gdzie.Twoja informacja może pojawić się w portalu oraz w telewizji Polsat News.",
-          "yesButton": "Napisz email",
-          "noButton": "Powrót",
-          "email": "news@polsatnews.pl"
+          "title": "Your news",
+          "description": "Have you seen an important event?\n\nSend a photo or video. Tell us what happened and where. Your information may appear on the portal.",
+          "yesButton": "Compose email",
+          "noButton": "Back",
+          "email": "info@dw.com"
         }
       },
       "settings": {
         "bookmarks": {
-          "id": "zakladki",
-          "label": "Zakładki",
+          "id": "bookmarks",
+          "label": "Bookmarks",
           "position": 0
         },
         "privacy": {
-          "id": "prywatnosc",
-          "label": "Prywatność",
+          "id": "privacy",
+          "label": "Privacy",
           "position": 2
         },
         "notifications": {
-          "id": "powiadomienia",
-          "label": "Powiadomienia",
+          "id": "notifications",
+          "label": "Notifications",
           "position": 1
         },
         "list": [
