@@ -68,6 +68,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "As China has heavily invested in its armed forces over past decades, fears in Taiwan of an attack are increasing. To counter China's massive navy buildup, Taiwan is looking to technology that could give it an edge in a possible asymmetric war."
             }
           ]

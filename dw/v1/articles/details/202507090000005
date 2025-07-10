@@ -62,11 +62,15 @@
           "type": "paragraph",
           "paragraphs": [
             {
-              "type": "boldText",
+              "type": "text",
+              "isBold": true,
+              "isItalic": false,
               "text": "Complaints were lodged after Grok posted antisemitic content, including praise for Adolf Hitler. Elon Musk's xAI removed \"inappropriate\" posts.\n\n"
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "Tech billionaire "
             },
             {
@@ -76,6 +80,8 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "'s AI chatbot Grok is at the center of scandal after posting "
             },
             {
@@ -85,6 +91,8 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": " remarks\n\nDeveloper xAI announced on Wednesday that it was in the process of removing \"inappropriate posts\" by Grok on the online platform X.\n\nThat comes after complaints from users on social media platform X and the US-based Anti-Defamation League (ADL) that "
             },
             {
@@ -103,6 +111,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "In a post on X, Grok said it was \"aware of recent posts made by Grok and [is] actively working to remove the inappropriate posts.\" \n\n\"Since being made aware of the content, xAI has taken action to ban hate speech before Grok posts on X. xAI is training only truth-seeking and thanks to the millions of users on X, we are able to quickly identify and update the model where training could be improved.\"\n\nThe ADL called for Grok, along with other producers of Large Language Model (LLM) software, to avoid \"producing content rooted in antisemitic and extremist hate.\"\n\n\"What we are seeing from Grok LLM right now is irresponsible, dangerous and antisemitic, plain and simple. This supercharging of extremist rhetoric will only amplify and encourage the antisemitism that is already surging on X and many other platforms,\" the ADL said on X."
             }
           ]
@@ -117,10 +127,14 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "On Tuesday, Grok suggested Hitler would be best-placed to combat anti-white hatred, saying he would \"spot the pattern and handle it decisively.\"\n\nThe AI chatbot also referred to Hitler as \"history's mustache man,\" and said that people with Jewish surnames were responsible for extreme anti-white activism."
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": true,
               "text": "Edited by: Elizabeth Schumacher"
             }
           ]

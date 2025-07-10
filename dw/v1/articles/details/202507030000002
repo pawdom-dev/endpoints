@@ -61,6 +61,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "Last week, a police raid triggered a diplomatic crisis. Within a few days, the row between Russia and Azerbaijan had escalated, putting considerable strain on the already tense relationship between the two."
             }
           ]
@@ -70,6 +72,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "It began with a controversial police raid in the Russian city of Yekaterinburg on June 27. Several ethnic Azeri men were arrested as part of an investigation into crimes that date back years. The men are accused of carrying out assassinations and murders. Russian special forces clearly went in hard when making the arrests. Two of the men died, presumably as a result of the controversial raid."
             }
           ]
@@ -79,6 +83,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "Baku reacted swiftly and strongly. Azerbaijan's foreign ministry condemned the \"unacceptable act of violence\" by the Russian security forces. All cultural events with ties to Russia were cancelled in protest. A presenter on primetime state television denounced Moscow's \"imperial behavior\" toward former Soviet states. On June 30, Azerbaijani authorities "
             },
             {
@@ -88,6 +94,8 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": " with Russia's state-funded news agency Sputnik Azerbaijan in Baku. According to media reports, the two were working for the Russian domestic security service, the FSB."
             }
           ]
@@ -101,6 +109,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "The Kremlin was restrained in its response. Spokesman Dmitry Peskov said he regretted Baku's decision to cancel cultural events, stressing that the situation in Yekaterinburg \"cannot and should not be a reason for such a reaction.\" The Russian foreign ministry pointed out that the dead and detained men, although ethnic Azeris, were holders of Russian passports."
             }
           ]
@@ -116,6 +126,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "The following day, the Azerbaijani judicial authorities upped the ante by arresting more Russian citizens in Baku. They are accused of involvement in drug smuggling and organized crime. Photos from the courtroom show that some of the detainees appear to have been beaten. The men were identified on social media as programmers and tourists from Yekaterinburg.\n\nThe spiral of reciprocal accusations continues to intensify. More Azeris have been arrested in Russia, in the cities of Yekaterinburg and Voronezh. Regional experts described the row to DW as yet another strain on the relationship between the two countries, after the "
             },
             {
@@ -125,6 +137,8 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": " late last year."
             }
           ]
@@ -138,6 +152,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "On December 25, 2024, an Azerbaijani plane carrying 62 passengers and five crew was hit by a Russian surface-to-air missile.\n\nThe tragedy occurred over the city of Grozny, where Russian air defenses were in action. The plane attempted to make an emergency landing, but crashed near the Kazakh city of Aktau. 38 people were killed."
             }
           ]
@@ -153,6 +169,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "The Azerbaijani political scientist and conflict researcher Arif Yunusov believes the harsh rhetoric in both countries' media since then is not a coincidence. In his view, information policy in both Russia and Azerbaijan is coordinated by government authorities, and bilateral relations are largely influenced by the personal feelings of the respective heads of state."
             }
           ]
@@ -166,6 +184,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "Yunusov comments that, for the Azerbaijani president, Ilham Aliyev, there was a personal dimension to the plane crash. A presidential plane was also flying over Russia at the time of the incident: In theory, this too could have become a target for the Russian anti-aircraft missiles.\n\nFurthermore, the first official representative to apologize to the Azerbaijanis was not the Russian president, Vladimir Putin, but Chechen leader "
             },
             {
@@ -175,6 +195,8 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": ". Yusunov says President Ilham Aliyev was annoyed by this. \"Aliyev didn't mention Kadyrov by name, but he was sharply critical, saying that it shouldn't be other people calling him,\" Yusunov explains. He believes that if Putin had been the first to call Aliyev, the public confrontation could have been avoided."
             }
           ]
@@ -190,6 +212,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "Independent Caucasus expert Kirill Krivosheev agrees. \"Putin only made a formal apology, and it was clear that Aliyev was far from satisfied,\" he told DW. However, Krivosheev emphasizes that recent events in Yekaterinburg were probably not initiated by the Kremlin. Criminal prosecutors in Russia have a logic of their own, he says. \"They view all diaspora populations, including the Azeri community, as organized crime groups. It's a widespread trend among sectors of the Russian elite.\" Krivosheev believes the resulting diplomatic crisis is simply collateral damage.\n\nAccording to Krivosheev, the government in Baku is using the political escalation to reinforce its position on the international stage. \"It's important to Aliyev that he comes across as a commanding leader who is able to say no to both Russia and the West.\""
             }
           ]
@@ -203,6 +227,8 @@
           "paragraphs": [
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "The Azerbaijani political scientist and member of parliament Rasim Muzabekov says Baku no longer sees Moscow as an external power in a position to dictate the rules in the Caucasus. He told DW that Azerbaijan had begun to develop its own military and energy infrastructures, and that this, in turn, had annoyed the Kremlin.\n\nMuzabekov says Russian media rhetoric toward Azerbaijan has become much harsher, and that Moscow is now trying to compensate for its loss of influence in the region by exerting pressure on the Azeri diaspora.\n\nThis could have economic as well as diplomatic consequences — for example, in the energy market. \"We shouldn't forget that "
             },
             {
@@ -212,6 +238,8 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": ". And Azerbaijan has helped Moscow to get around these in certain ways,\" Arif Yunusov observes. \"The European parliament has set up a commission to investigate "
             },
             {
@@ -221,10 +249,14 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": " to Europe, for example. Is it Azerbaijani, or it is in fact Russian?\" If relations between Moscow and Baku were to deteriorate further, any such deal between the two countries would also be jeopardized.\n\nThe MP Rasim Muzabekov adds that other bilateral projects are also under threat: the development of the International North–South Transport Corridor through Azerbaijan, and the project to synchronize the Russian and Iranian power grids. Muzabekov warns that problems transporting Russian gas through Iran could also not be ruled out.\n\n"
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": "Nonetheless, "
             },
             {
@@ -234,10 +266,14 @@
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": false,
               "text": " are still important to Azerbaijan, says the political scientist Krivosheev. \"Ideally, the Azerbaijani economy would like to steer clear of politics. But while Baku still has scope for action, Moscow has less and less leverage.\" Russia, he concludes, is losing influence in the Caucasus."
             },
             {
               "type": "text",
+              "isBold": false,
+              "isItalic": true,
               "text": "\n\nThis article was originally published in German."
             },
             {
