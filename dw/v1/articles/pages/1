@@ -42,19 +42,19 @@
         },
         "list": [
           {
-            "id": "onNas",
-            "label": "O nas",
+            "id": "whoWeAre",
+            "label": "Who we are",
             "articleDetails": {
               "articleId": "1",
-              "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/sd/sd5jsrrppuyd5v38wgu5zrqikn67h8za.jpg",
-              "country": "pl",
-              "language": "pl",
-              "pubDate": "2024-03-10T15:38:48+00:00",
-              "title": "O nas",
-              "description": "O nas",
-              "sourceDomain": "polsat.pl",
+              "imageUrl": "https://static.dw.com/image/63466815_602.jpg",
+              "country": "de",
+              "language": "en",
+              "pubDate": "2025-07-10T15:38:48+00:00",
+              "title": "Who we are",
+              "description": "Who we are",
+              "sourceDomain": "dw.com",
               "paywall": false,
-              "uploadedDayDate": 20240914,
+              "uploadedDayDate": 20250710,
               "positionLift": 0,
               "isHidden": false,
               "topics": [],
@@ -69,27 +69,27 @@
                 "isDescriptionImportant": false
               },
               "isNative": false,
-              "webContentUrl": "https://www.polsatnews.pl/o-nas/",
-              "isForcingDarkModeInWeb": true,
-              "deepLink": "https://www.polsatnews.pl/o-nas/",
+              "webContentUrl": "https://corporate.dw.com/en/about-dw/s-30688",
+              "isForcingDarkModeInWeb": false,
+              "deepLink": "https://corporate.dw.com/en/about-dw/s-30688",
               "nativeContent": [],
               "contentAuthors": [],
               "isSettings": true,
-              "updateDate": "2024-03-10T15:38:48+00:00"
+              "updateDate": "2025-07-10T15:38:48+00:00"
             }
           },
           {
-            "id": "regulamin",
-            "label": "Regulamin",
+            "id": "legalNotice",
+            "label": "Legal notice",
             "articleDetails": {
               "articleId": "2",
-              "imageUrl": "https://ipla.pluscdn.pl/dituel/cp/sd/sd5jsrrppuyd5v38wgu5zrqikn67h8za.jpg",
-              "country": "pl",
-              "language": "pl",
-              "pubDate": "2024-03-10T15:41:48+00:00",
-              "title": "Regulamin",
-              "description": "Regulamin",
-              "sourceDomain": "polsat.pl",
+              "imageUrl": "https://static.dw.com/image/63466815_602.jpg",
+              "country": "de",
+              "language": "en",
+              "pubDate": "2025-07-10T15:38:48+00:00",
+              "title": "Legal notice",
+              "description": "Legal notice",
+              "sourceDomain": "dw.com",
               "paywall": false,
               "uploadedDayDate": 20240914,
               "positionLift": 0,
@@ -106,13 +106,13 @@
                 "isDescriptionImportant": false
               },
               "isNative": false,
-              "webContentUrl": "https://www.polsatnews.pl/regulamin/",
-              "isForcingDarkModeInWeb": true,
-              "deepLink": "https://www.polsatnews.pl/regulamin/",
+              "webContentUrl": "https://www.dw.com/en/legal-notice/a-63500643",
+              "isForcingDarkModeInWeb": false,
+              "deepLink": "https://www.dw.com/en/legal-notice/a-63500643",
               "nativeContent": [],
               "contentAuthors": [],
               "isSettings": true,
-              "updateDate": "2024-03-10T15:41:48+00:00"
+              "updateDate": "2025-07-10T15:38:48+00:00"
             }
           }
         ]
@@ -300,8 +300,8 @@
           },
           {
             "type": "settings",
-            "label": "Konto",
-            "id": "konto",
+            "label": "Profile",
+            "id": "profile",
             "isOnlyVideo": false,
             "isShowingInfoLine": false,
             "iconId": "accountCircle",
