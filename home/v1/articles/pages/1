@@ -30,9 +30,9 @@
           "label": "Bookmarks",
           "position": 0
         },
-        "privacy": {
-          "id": "privacy",
-          "label": "Privacy",
+        "privacyConsents": {
+          "id": "privacyConsents",
+          "label": "Privacy consents",
           "position": 0
         },
         "notifications": {

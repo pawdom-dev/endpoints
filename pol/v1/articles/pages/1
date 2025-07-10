@@ -30,7 +30,7 @@
           "label": "Zakładki",
           "position": 0
         },
-        "privacy": {
+        "privacyConsents": {
           "id": "prywatnosc",
           "label": "Prywatność",
           "position": 2
