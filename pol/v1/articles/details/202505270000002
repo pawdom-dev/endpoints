@@ -27,7 +27,7 @@
           "topicName": "Najnowsze"
         }
       ],
-      "isVideo": false,
+      "isVideo": true,
       "isPoliticalLeft": false,
       "isPoliticalRight": false,
       "isPoliticalCenter": false,
@@ -238,6 +238,13 @@
               "text": "\n\nOstatecznie senior trafił do domu opieki społecznej. - Dla mnie to był stek bzdur. Przez rok, kiedy opiekowałam się panem Jerzym, nie było śladu bytności pana Nawrockiego czy kogoś innego poza mną - podkreśliła w rozmowie z Polsat News opiekunka pana Jerzego Anna Kanigowska."
             }
           ]
+        },
+        {
+          "type": "video",
+          "description": "Najnowsze wiadomości z kraju i ze świata",
+          "videoUrl": "https://redirector.redefine.pl/cppolska/urs93rx5arz1vgqh75bnxtuttunvqnd3.mp4",
+          "videoAspectRatioWidth": 16,
+          "videoAspectRatioHeight": 9
         },
         {
           "type": "paragraph",
