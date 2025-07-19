@@ -118,7 +118,17 @@
         ]
       },
       "ads": {
-        "portrait": {
+        "phone": {
+          "articleList": {
+            "adPositionOffset": 2,
+            "numberOfArticlesAfterAd": 4
+          },
+          "articleDetails": {
+            "adPositionOffset": 1,
+            "numberOfParagraphsAfterAd": 3
+          }
+        },
+        "tablet": {
           "articleList": {
             "adPositionOffset": 2,
             "numberOfArticlesAfterAd": 4
@@ -222,7 +232,7 @@
         ]
       },
       "layouts": {
-        "portrait": {
+        "phone": {
           "articleList": {
             "order": [
               "classicML",
@@ -233,6 +243,19 @@
             "historic": "classicM",
             "important": "classicS",
             "unimportantCover": "classicXS"
+          }
+        },
+        "tablet": {
+          "articleList": {
+            "order": [
+              "classicML",
+              "classicML",
+              "classicM",
+              "classicM"
+            ],
+            "historic": "classicM",
+            "important": "classicM",
+            "unimportantCover": "classicM"
           }
         }
       },
