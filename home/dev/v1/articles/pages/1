@@ -131,7 +131,7 @@
         "tablet": {
           "articleList": {
             "adPositionOffset": 2,
-            "numberOfArticlesAfterAd": 4
+            "numberOfArticlesAfterAd": 6
           },
           "articleDetails": {
             "adPositionOffset": 1,
