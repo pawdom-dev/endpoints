@@ -250,7 +250,7 @@
             "order": [
               "classicML",
               "classicXSL",
-              "classicM",
+              "classicS",
               "classicML"
             ],
             "historic": "classicM",
