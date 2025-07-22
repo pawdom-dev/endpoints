@@ -251,7 +251,9 @@
               "classicML",
               "classicML",
               "classicM",
-              "classicM"
+              "classicXSL",
+              "classicM",
+              "classicXSL"
             ],
             "historic": "classicM",
             "important": "classicM",
