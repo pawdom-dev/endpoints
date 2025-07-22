@@ -131,7 +131,7 @@
         "tablet": {
           "articleList": {
             "adPositionOffset": 2,
-            "numberOfArticlesAfterAd": 4
+            "numberOfArticlesAfterAd": 6
           },
           "articleDetails": {
             "adPositionOffset": 1,
@@ -249,9 +249,9 @@
           "articleList": {
             "order": [
               "classicML",
-              "classicML",
               "classicM",
-              "classicM"
+              "classicM",
+              "classicML"
             ],
             "historic": "classicM",
             "important": "classicM",
