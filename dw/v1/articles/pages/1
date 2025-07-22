@@ -249,9 +249,9 @@
           "articleList": {
             "order": [
               "classicML",
+              "classicML",
               "classicXSL",
               "classicM",
-              "classicML",
               "classicXSL"
             ],
             "historic": "classicM",
