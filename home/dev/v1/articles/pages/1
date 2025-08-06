@@ -28,17 +28,26 @@
         "bookmarks": {
           "id": "bookmarks",
           "label": "Bookmarks",
-          "position": 0
+          "position": 0,
+          "isOn": true
         },
         "privacyConsents": {
           "id": "privacyConsents",
           "label": "Privacy consents",
-          "position": 2
+          "position": 2,
+          "isOn": true
         },
-        "notifications": {
-          "id": "notifications",
+        "appNotifications": {
+          "id": "appNotifications",
           "label": "Notifications",
-          "position": 1
+          "position": 1,
+          "isOn": true
+        },
+        "articleSources": {
+          "id": "articleSources",
+          "label": "Languages",
+          "position": 1,
+          "isOn": true
         },
         "list": [
           {
