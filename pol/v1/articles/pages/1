@@ -25,20 +25,29 @@
         }
       },
       "settings": {
+        "appNotifications": {
+          "id": "powiadomienia",
+          "label": "Powiadomienia",
+          "position": 0,
+          "isOn": true
+        },
+        "articleSources": {
+          "id": "articleSources",
+          "label": "Powiadomienia",
+          "position": 0,
+          "isOn": false
+        },
         "bookmarks": {
           "id": "zakladki",
           "label": "Zakładki",
-          "position": 0
+          "position": 0,
+          "isOn": true
         },
         "privacyConsents": {
           "id": "prywatnosc",
           "label": "Prywatność",
-          "position": 2
-        },
-        "notifications": {
-          "id": "powiadomienia",
-          "label": "Powiadomienia",
-          "position": 1
+          "position": 0,
+          "isOn": true
         },
         "list": [
           {

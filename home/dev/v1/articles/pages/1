@@ -25,6 +25,18 @@
         }
       },
       "settings": {
+        "appNotifications": {
+          "id": "appNotifications",
+          "label": "Notifications",
+          "position": 0,
+          "isOn": true
+        },
+        "articleSources": {
+          "id": "articleSources",
+          "label": "Languages",
+          "position": 0,
+          "isOn": true
+        },
         "bookmarks": {
           "id": "bookmarks",
           "label": "Bookmarks",
@@ -34,19 +46,7 @@
         "privacyConsents": {
           "id": "privacyConsents",
           "label": "Privacy consents",
-          "position": 2,
-          "isOn": true
-        },
-        "appNotifications": {
-          "id": "appNotifications",
-          "label": "Notifications",
-          "position": 1,
-          "isOn": true
-        },
-        "articleSources": {
-          "id": "articleSources",
-          "label": "Languages",
-          "position": 1,
+          "position": 0,
           "isOn": true
         },
         "list": [
