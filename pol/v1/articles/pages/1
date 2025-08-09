@@ -31,11 +31,17 @@
           "position": 0,
           "isOn": true
         },
+        "articleLanguages": {
+          "id": "articleLanguages",
+          "label": "Języki",
+          "position": 0,
+          "isOn": true
+        },
         "articleSources": {
           "id": "articleSources",
-          "label": "Powiadomienia",
+          "label": "Tematy",
           "position": 0,
-          "isOn": false
+          "isOn": true
         },
         "bookmarks": {
           "id": "zakladki",

@@ -31,9 +31,15 @@
           "position": 0,
           "isOn": true
         },
+        "articleLanguages": {
+          "id": "articleLanguages",
+          "label": "Languages",
+          "position": 0,
+          "isOn": true
+        },
         "articleSources": {
           "id": "articleSources",
-          "label": "Languages",
+          "label": "Topics",
           "position": 0,
           "isOn": true
         },
