@@ -37,8 +37,8 @@
           "position": 0,
           "isOn": true
         },
-        "articleSources": {
-          "id": "articleSources",
+        "articleTopics": {
+          "id": "topics",
           "label": "Tematy",
           "position": 0,
           "isOn": true
