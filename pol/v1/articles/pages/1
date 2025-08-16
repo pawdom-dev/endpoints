@@ -829,7 +829,7 @@
         "id": "polsatNews",
         "name": "Polsat News",
         "description": "Najnowsze wiadomości z kraju i ze świata",
-        "isPlayerOn": true,
+        "isPlayerOn": false,
         "videoUrl": "https://redirector.redefine.pl/cppolska/urs93rx5arz1vgqh75bnxtuttunvqnd3.mp4",
         "videoAspectRatioWidth": 16,
         "videoAspectRatioHeight": 9,
@@ -903,87 +903,6 @@
             "name": "W rytmie dnia - serwis informacyjny",
             "description": "Pasmo prezentujące wydarzenia, którą mają miejsce w ciągu dnia. W programie nie zabraknie bieżącej polityki, najważniejszych informacji ze świata, ale także wydarzeń z kraju, relacjonowanych przez reporterów Polsat News.",
             "startDate": "2025-06-26T02:41:48+01:00"
-          }
-        ]
-      },
-      {
-        "id": "polsatSport",
-        "name": "Polsat Sport",
-        "description": "Najważniejsze i najciekawsze wydarzenia sportowe z udziałem zarówno polskich sportowców, jak i te o międzynarodowym charakterze.",
-        "isPlayerOn": true,
-        "videoUrl": "https://redirector.redefine.pl/cppolska/yh5wnfehkamizgwp1b2iozmzk343k6z5.mp4",
-        "videoAspectRatioWidth": 16,
-        "videoAspectRatioHeight": 9,
-        "programSchedule": [
-          {
-            "name": "Lekkoatletyka: Zawody World Athletics Continental Tour Gold - Ostrawa 2025",
-            "description": "W zawodach zaliczanych do prestiżowego cyklu World Athletics Continental Tour Gold wystąpią takie gwiazdy królowej sportu jak Grant Holloway czy Armand Duplantis. My liczymy na podobne sukcesy reprezentantów Polski jak przed rokiem, kiedy w Ostrawie wygrywały Ewa Swoboda i Natalia Bukowiecka.",
-            "startDate": "2025-08-16T08:01:48+01:00"
-          },
-          {
-            "name": "Siatkówka kobiet: Liga Narodów - mecz: Serbia - Polska",
-            "description": "Drugi tydzień rozgrywek Polki kończą spotkaniem z Serbią. Biało-Czerwone rozpoczęły rywalizację w tegorocznej edycji Ligi Narodów od wygranej z Tajlandią bez straty seta. Siatkarki z Bałkanów musiały natomiast uznać wyższość Dominikany (2:3).",
-            "startDate": "2025-08-16T12:01:48+01:00"
-          },
-          {
-            "name": "Sporty walki: Babilon MMA 45 w Nowym Targu - walka: Szymon Rakowicz - Paweł Polityło",
-            "description": "Szymon Rakowicz, król wagi piórkowej, staje do obrony mistrzowskiego pasa Babilon MMA. Podczas gali w Nowym Targu tytuł spróbuje odebrać mu Paweł Polityło, który w przeszłości święcił triumfy pod banderą organizacji KSW.",
-            "startDate": "2025-08-16T13:13:48+01:00"
-          },
-          {
-            "name": "Piłka ręczna mężczyzn: Mistrzostwa świata U-21 - Polska 2025 - mecz: Szwecja - Portugalia",
-            "description": "W Sosnowcu zmierzą się drużyny, które przeszły pierwszą fazę światowego czempionatu jak burza. Zarówno Szwecja, jak i Portugalia zanotowała komplet zwycięstw. Prawdopodobny jest scenariusz, w którym obie ekipy po tym meczu będą świętować awans do ćwierćfinału.",
-            "startDate": "2025-08-16T16:15:48+01:00"
-          },
-          {
-            "name": "Tenis: Turniej Wimbledon - eliminacje",
-            "description": "Tenisistki i tenisiści spoza pierwszej setki rankingu WTA i ATP muszą walczyć o miejsce w głównej drabince turnieju w trzystopniowych eliminacjach. W rywalizacji pań zobaczymy trzy nasze reprezentantki Maję Chwalińską, Katarzynę Kawę i Lindę Klimovicovą.",
-            "startDate": "2025-08-16T18:18:48+01:00"
-          },
-          {
-            "name": "Lekkoatletyka: Zawody World Athletics Continental Tour Gold - Ostrawa 2025",
-            "description": "W zawodach zaliczanych do prestiżowego cyklu World Athletics Continental Tour Gold wystąpią takie gwiazdy królowej sportu jak Grant Holloway czy Armand Duplantis. My liczymy na podobne sukcesy reprezentantów Polski jak przed rokiem, kiedy w Ostrawie wygrywały Ewa Swoboda i Natalia Bukowiecka.",
-            "startDate": "2025-08-16T20:01:48+01:00"
-          },
-          {
-            "name": "Sporty walki: Babilon MMA 45 w Nowym Targu - walka: Szymon Rakowicz - Paweł Polityło",
-            "description": "Szymon Rakowicz, król wagi piórkowej, staje do obrony mistrzowskiego pasa Babilon MMA. Podczas gali w Nowym Targu tytuł spróbuje odebrać mu Paweł Polityło, który w przeszłości święcił triumfy pod banderą organizacji KSW.",
-            "startDate": "2025-08-16T22:13:48+01:00"
-          },
-          {
-            "name": "Lekkoatletyka: Zawody World Athletics Continental Tour Gold - Ostrawa 2025",
-            "description": "W zawodach zaliczanych do prestiżowego cyklu World Athletics Continental Tour Gold wystąpią takie gwiazdy królowej sportu jak Grant Holloway czy Armand Duplantis. My liczymy na podobne sukcesy reprezentantów Polski jak przed rokiem, kiedy w Ostrawie wygrywały Ewa Swoboda i Natalia Bukowiecka.",
-            "startDate": "2025-08-17T08:01:48+01:00"
-          },
-          {
-            "name": "Siatkówka kobiet: Liga Narodów - mecz: Serbia - Polska",
-            "description": "Drugi tydzień rozgrywek Polki kończą spotkaniem z Serbią. Biało-Czerwone rozpoczęły rywalizację w tegorocznej edycji Ligi Narodów od wygranej z Tajlandią bez straty seta. Siatkarki z Bałkanów musiały natomiast uznać wyższość Dominikany (2:3).",
-            "startDate": "2025-08-17T12:01:48+01:00"
-          },
-          {
-            "name": "Sporty walki: Babilon MMA 45 w Nowym Targu - walka: Szymon Rakowicz - Paweł Polityło",
-            "description": "Szymon Rakowicz, król wagi piórkowej, staje do obrony mistrzowskiego pasa Babilon MMA. Podczas gali w Nowym Targu tytuł spróbuje odebrać mu Paweł Polityło, który w przeszłości święcił triumfy pod banderą organizacji KSW.",
-            "startDate": "2025-08-17T13:13:48+01:00"
-          },
-          {
-            "name": "Piłka ręczna mężczyzn: Mistrzostwa świata U-21 - Polska 2025 - mecz: Szwecja - Portugalia",
-            "description": "W Sosnowcu zmierzą się drużyny, które przeszły pierwszą fazę światowego czempionatu jak burza. Zarówno Szwecja, jak i Portugalia zanotowała komplet zwycięstw. Prawdopodobny jest scenariusz, w którym obie ekipy po tym meczu będą świętować awans do ćwierćfinału.",
-            "startDate": "2025-08-17T16:15:48+01:00"
-          },
-          {
-            "name": "Tenis: Turniej Wimbledon - eliminacje",
-            "description": "Tenisistki i tenisiści spoza pierwszej setki rankingu WTA i ATP muszą walczyć o miejsce w głównej drabince turnieju w trzystopniowych eliminacjach. W rywalizacji pań zobaczymy trzy nasze reprezentantki Maję Chwalińską, Katarzynę Kawę i Lindę Klimovicovą.",
-            "startDate": "2025-08-17T18:18:48+01:00"
-          },
-          {
-            "name": "Lekkoatletyka: Zawody World Athletics Continental Tour Gold - Ostrawa 2025",
-            "description": "W zawodach zaliczanych do prestiżowego cyklu World Athletics Continental Tour Gold wystąpią takie gwiazdy królowej sportu jak Grant Holloway czy Armand Duplantis. My liczymy na podobne sukcesy reprezentantów Polski jak przed rokiem, kiedy w Ostrawie wygrywały Ewa Swoboda i Natalia Bukowiecka.",
-            "startDate": "2025-08-17T20:01:48+01:00"
-          },
-          {
-            "name": "Sporty walki: Babilon MMA 45 w Nowym Targu - walka: Szymon Rakowicz - Paweł Polityło",
-            "description": "Szymon Rakowicz, król wagi piórkowej, staje do obrony mistrzowskiego pasa Babilon MMA. Podczas gali w Nowym Targu tytuł spróbuje odebrać mu Paweł Polityło, który w przeszłości święcił triumfy pod banderą organizacji KSW.",
-            "startDate": "2025-08-17T22:13:48+01:00"
           }
         ]
       }
