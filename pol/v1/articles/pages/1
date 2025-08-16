@@ -319,7 +319,7 @@
           },
           {
             "type": "channels",
-            "label": "Na żywo",
+            "label": "Program",
             "id": "naZywo",
             "isOnlyVideo": false,
             "iconId": "videoCam",
