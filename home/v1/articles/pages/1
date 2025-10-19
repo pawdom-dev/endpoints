@@ -16,7 +16,7 @@
       },
       "appBar": {
         "contactUs": {
-          "isOn": true,
+          "isOn": false,
           "title": "Your news",
           "description": "Have you seen an important event?\n\nSend a photo or video. Tell us what happened and where. Your information may appear on the portal.",
           "yesButton": "Compose email",
